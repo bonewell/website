@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=koi8-r" />
+		<title>Bone Well</title>
+		<meta name="AUTHOR" content="Колодий К.Г." />
+		<meta name="KEYWORDS" content="Bone Well Колодий Константин Георгиевич личный персональный сайт статьи гостевая книга" />
+		<link rel="SHORTCUT ICON" href="pics/cub.ico" />
+                <link id="style" rel="stylesheet" type="text/css" href="styles_wood.css" />
+                <script language="JavaScript" src="scripts/changestyle.js" charset="windows-1251"></script>
+	</head>
+	<body onload="loadstyle();">
+		<div id="head">
+			<div id="name" class="wood">
+                                <div id="cub">&nbsp;</div>
+				<p id="bw">Bone Well</p>
+				<p id="desc">Персональный сайт <a id="kkg" href="resume.html" onclick="getAXAH('html/resume.html','text');return false;">Константина 
+						Колодия</a></p>
+			</div>
+               </div>
+      <div id="room">
+         <div id="content">
+            <div id="leg">
+               <div id="text" class="wood">
+                  <h2>Гостевая книга</h2>
+                  <!-- www -->
+                     <!--#include virtual="/forum.cgi?fid=2057&charset=koi8-r"-->
+                  <!-- /www -->
+                  <br />
+               </div>
+            </div>
+         </div>
+      </div>
+<div id="foot" class="wood">
+<div id="label">
+<a href="http://jigsaw.w3.org/css-validator/">
+<img src="http://jigsaw.w3.org/css-validator/images/vcss" border="0" alt="Valid CSS!" />
+</a>
+<a href="http://validator.w3.org/check?uri=referer">
+<img src="http://www.w3.org/Icons/valid-xhtml10" border="0" alt="Valid XHTML 1.0 Transitional" />
+</a>
+<a href="http://www.pochta.ru" target="_blank"><img src="http://counters4.pochta.ru/bone.land.ru/" border="0" alt="почта"></a>
+</div>
+<p id="copyright">Права защищены &copy; 2007-2009 <a href="mailto:bone@land.ru">Bone Well</a></p>
+</div>
+</html>
+<div style="color : #ff0004; visibility : hidden;position:absolute; left:-100px;top:-100px;z-index:-1;">проверка

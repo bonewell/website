@@ -1,0 +1,183 @@
+body
+{
+   background-color: #cccccc;
+   padding: 0px;
+   margin:0px;
+}
+#head
+{
+   height:361px;
+   width:100%;
+}
+#content
+{
+   width:100%;
+}
+#graffity
+{
+   top: 50px;
+   left: 350px;
+   height:290px;
+   width:400px;
+   background: url("pics/albumpic.png") no-repeat left top;
+   position: absolute;
+}
+#wall
+{
+   top: 0px;
+   left: 0px;
+   height:291px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/wall.png") repeat left top;
+   position: absolute;
+}
+#concrete
+{
+   top: 291px;
+   left: 0px;
+   height:20px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/concrete.png") repeat-x left top;
+   position: absolute;
+}
+#footway
+{
+   top: 311px;
+   left: 0px;
+   height:50px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/kerb.png") repeat-x left bottom; 
+   background-color: gray;
+   position: absolute;
+}
+#title
+{
+   top: 50px;
+   left: 130px;
+   background-color: black;
+   border: 2px solid #585858;
+   position: absolute;
+   font-size: 30px;
+   font-weight: bolder;
+   font-family:'Led Fixed';
+   color: #00FF00;
+   padding: 1px 1px 1px 4px;
+}
+#door
+{
+   top: 100px;
+   left: 98px;
+   height:200px;
+   width:200px;
+   background-color: #585858;
+   border: 5px solid white;
+   position: absolute;
+}
+#ldoor
+{
+   top: 102px;
+   left: 98px;
+   height:200px;
+   width:100px;
+   background: url("pics/door.png") no-repeat left top;
+   border: 3px solid white;
+   position: absolute;
+}
+#rdoor
+{
+   top: 102px;
+   left: 202px;
+   height:200px;
+   width:100px;
+   background:url("pics/door.png") no-repeat left top;
+   border: 3px solid white;
+   position: absolute;
+}
+#open
+{
+   top: 100px;
+   left: 98px;
+   height:200px;
+   width:200px;
+   position: absolute;
+}
+#chiken
+{
+   top: 150px;
+   left: 100%;
+   position: absolute;
+}
+#wallroom
+{
+   top: 0px;
+   left: 0px;
+   height:200px;
+   width:100%;
+   min-width:1000px;
+   background: url("pics/wallroom.jpg") repeat left top;
+   position: absolute;
+   text-align:center;
+   padding: 50px 0px;
+}
+#plinth
+{
+   top: 291px;
+   left: 0px;
+   height:20px;
+   width:100%;
+   min-width:1000px;
+   background: url("pics/plinth.png") repeat-x left top;
+   position: absolute;
+}
+#fence
+{
+   top: 241px;
+   left: 0px;
+   height:100px;
+   width:100%;
+   min-width:1000px;
+   background: url("pics/fence.png") repeat-x left bottom; 
+   position: absolute;
+}
+.paint
+{
+   cursor: pointer;
+   margin:0px 15px 0px 15px;
+   padding: 7px;
+   background-color:#FCFCA8;
+   border:9px double #CC6600;
+   float:none;
+}
+.arrow
+{
+   cursor: pointer;
+   margin:0px;
+   padding: 0px;
+   border:0px;
+   float:none;
+}
+#bigimg
+{
+   cursor: pointer;
+   top:30px;
+   border: 20px double #CC6600;
+   margin: 30px 0px;
+   padding: 15px;
+   float:none;
+   background-color:#FCFCA8;
+}
+#rama
+{
+   top:0px;
+   left:0px;
+   width:100%;
+   padding:0px;
+   margin:0px;
+   text-align:center;
+   position:absolute;
+   float:none;
+   visibility:hidden;
+}
