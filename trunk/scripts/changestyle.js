@@ -36,6 +36,18 @@ function change(sid)
       obj.href="styles_wood.css";
    }
 }
+function citata_set()
+{
+   var str_citata = "[{'text':'Музыка - источник радости мудрых людей', 'author':'Сюнь-Цзы'}, {'text':'Знать - чтобы предвидеть, предвидеть - чтобы обладать силой', 'author':'О. Конт'}]";
+   var citata = eval(str_citata);
+   var obj_c = document.getElementById("citata");
+   var obj_a = document.getElementById("author");
+   if (obj_c && obj_a) {
+      var x = Math.round(Math.random());
+      obj_c.innerHTML = citata[x].text;
+      obj_a.innerHTML = citata[x].author;
+   }
+}
 style_id=1;
 //читаем значение стиля из куки
 style_id = getCookie("sid");
@@ -45,6 +57,7 @@ function loadstyle()
    style_id = getCookie("sid");
    var obj = document.getElementById("mystyle");
    obj.value=style_id;
+   citata_set();
 }
 function changestyle()
 {
