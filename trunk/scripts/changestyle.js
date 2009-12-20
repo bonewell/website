@@ -38,8 +38,10 @@ function change(sid)
 }
 function citata_set()
 {
-   var str_citata = "[{'text':'Музыка - источник радости мудрых людей', 'author':'Сюнь-Цзы'}, {'text':'Знать - чтобы предвидеть, предвидеть - чтобы обладать силой', 'author':'О. Конт'}]";
-   var citata = eval(str_citata);
+   var citata = [
+      {"text":"Музыка - источник радости мудрых людей", "author":"Сюнь-Цзы"},
+      {"text":"Знать - чтобы предвидеть, предвидеть - чтобы обладать силой", "author":"О. Конт"}
+   ];
    var obj_c = document.getElementById("citata");
    var obj_a = document.getElementById("author");
    if (obj_c && obj_a) {
