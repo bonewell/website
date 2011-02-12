@@ -29,7 +29,7 @@ function change(sid)
    }
    else if (sid==2)
    {
-      obj.href="styles.css";
+      obj.href="styles_chocolate.css";
    }
    else
    {
