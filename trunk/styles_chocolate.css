@@ -1,5 +1,5 @@
 
-/* Файл стилей styles.css
+/* Файл стилей styles_chocolate.css
    Сайт: Bone Well
    Автор: Колодий К.Г.
    Дата:30.06.2007
@@ -9,23 +9,23 @@
 body {
     padding : 0px;
     margin : 10px 20px 10px 10px;
-    color : #421111;
+    color : #ffffcc;
     background-color: white;
   }
 
 
 .wood {
-    background : #fff2b9 url('pics/wood.png');
+    background : #8b4513 url('pics/chocalate.png');
     padding : 5px;
-    border : solid 6px;
-    border-top-color : #fff9dc;
-    border-right-color : #d7cc9c;
-    border-bottom-color : #d7cc9c;
-    border-left-color : #fff9dc;
+    border : ridge 6px;
+    border-top-color : #8b4513;
+    border-right-color : #8b4513;
+    border-bottom-color : #8b4513;
+    border-left-color : #8b4513;
   }
 
 #head {
-    background : url('pics/stal_u.png') no-repeat bottom right;
+    background : url('pics/stal_cream_u.png') no-repeat bottom right;
     padding : 0 150px 0 0px;
     margin : 0px;
     float : none;
@@ -53,7 +53,7 @@ body {
 
 
 #cub {
-    background : url('pics/cub.png') no-repeat top right;
+    background : url('pics/cub_cream.png') no-repeat top right;
     width:50px;
     height:58px;
     float:right;
@@ -66,7 +66,7 @@ body {
 
 
 #room {
-    background : url('pics/stal_l.png') repeat-y top left;
+    background : url('pics/stal_cream_l.png') repeat-y top left;
     padding : 0px;
     margin : 0px;
     float : left;
@@ -86,7 +86,7 @@ body {
 
 
 #content {
-    background : url('pics/stal_l.png') no-repeat bottom left;
+    background : url('pics/stal_cream_l.png') no-repeat bottom left;
     padding : 0 0 15px 0;
     margin : 0 0 0 20ex;
     float : none;
@@ -95,7 +95,7 @@ body {
 
 
 #leg {
-    background : url('pics/stal_r.png') repeat-y top right;
+    background : url('pics/stal_cream_r.png') repeat-y top right;
     padding : 15px 0 15px 0;
     margin : 0 0 -15px 50px;
     float : none;
@@ -161,35 +161,35 @@ body {
   }
   
 #sigma {
-   background : url('pics/sigma.png') no-repeat top right;
+   background : url('pics/sigma_cream.png') no-repeat top right;
    width : 166px;
    height : 150px;
    float : right;
 }
 
 #kolokol {
-   background : url('pics/kolokol.png') no-repeat top right;
+   background : url('pics/kolokol_cream.png') no-repeat top right;
    width : 163px;
    height : 150px;
    float : right;
 }
 
 #romb {
-   background : url('pics/romb.png') no-repeat top right;
+   background : url('pics/romb_cream.png') no-repeat top right;
    width : 177px;
    height : 150px;
    float : right;
 }
 
 #sova {
-   background : url('pics/sova.png') no-repeat top right;
+   background : url('pics/sova_cream.png') no-repeat top right;
    width : 226px;
    height : 200px;
 }
 
 #select_style
 {
-   border : #421111 dashed 1px;
+   border : #ffffcc dashed 1px;
    padding : 5px;
 }
 
@@ -211,7 +211,7 @@ h2 {
     margin : 0px 0px 10px 0px;
     text-align:right;
     border-bottom-width:1px;
-    border-bottom-color:#421111;
+    border-bottom-color:#ffffcc;
     border-bottom-style:solid;
   }
 
@@ -236,32 +236,32 @@ p {
 a {
     font-style : italic;
     text-decoration : none;
-    color: #421111;
+    color: #ffffcc;
     background-color: transparent;
   }
 
 
 a:link {
-    color: #421111;
+    color: #ffffcc;
     background-color: transparent;
   }
 
 
 a:hover {
-    color: #421111;
+    color: #ffffcc;
     background-color: transparent;
     text-decoration : underline;
   }
 
 
 a:active {
-    color: #421111;
+    color: #ffffcc;
     background-color: transparent;
   }
 
 
 a:visited {
-    color: #421111;
+    color: #ffffcc;
     background-color: transparent;
   }
 
@@ -269,16 +269,16 @@ a:visited {
 table {
     padding : 0px;
     margin : 0px;
-    border-bottom: #421111 dashed 1px;
+    border-bottom: #ffffcc dashed 1px;
   }
 
 
 td {
     padding : 5px;
     margin : 0px;
-    border-top:#421111 dashed 1px;
-    border-right: #421111 dashed 1px;
-    border-left: #421111 dashed 1px;
+    border-top:#ffffcc dashed 1px;
+    border-right: #ffffcc dashed 1px;
+    border-left: #ffffcc dashed 1px;
   }
 
 

@@ -23,16 +23,6 @@ body {
     border-left-color : #fff9dc;
   }
 
-a.pdf:hover
-{
-    text-decoration:none;
-}
-a.pdf div {
-    background-image: url('pics/pdf.png');
-    height:28px;
-    width:25px;
-  }
-
 #head {
     background : url('pics/flag.png') no-repeat bottom right;
     padding : 0px 135px 0px 0px;

@@ -10,3 +10,21 @@
     padding:2px;
     background-color:#EEE8CD;
 }
+
+a.pdf:hover, a.jpg:hover
+{
+    text-decoration:none;
+}
+
+a.pdf div, a.jpg div {
+    height:32px;
+    width:32px;
+}
+
+a.pdf div {
+    background-image: url('pics/pdf.png');
+}
+
+a.jpg div {
+    background-image: url('pics/jpg.png');
+}
