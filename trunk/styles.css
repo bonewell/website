@@ -1,7 +1,3 @@
-/**
- * Общие стили для сайта
- */
-
 #language {
     position:absolute;
     top:5px;
@@ -27,4 +23,11 @@ a.pdf div {
 
 a.jpg div {
     background-image: url('pics/jpg.png');
+}
+
+div#google_translate_element {
+    float:right;
+    position:absolute;
+    top:0;
+    right:0;
 }
