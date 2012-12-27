@@ -12,7 +12,9 @@ a.pdf:hover, a.jpg:hover
     text-decoration:none;
 }
 
-a.pdf div, a.jpg div {
+a.pdf div,
+a.jpg div,
+a.info div {
     height:32px;
     width:32px;
 }
@@ -23,6 +25,10 @@ a.pdf div {
 
 a.jpg div {
     background-image: url('pics/jpg.png');
+}
+
+a.info div {
+    background-image: url('pics/info.png');
 }
 
 div#google_translate_element {
