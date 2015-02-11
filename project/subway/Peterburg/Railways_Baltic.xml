@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<rect x="0" y="0" width="815" height="870" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+</g>
+<g stroke="#0033CC" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x="35" y="20.0" font-family="Arial" font-size="20" fill="#0033CC" stroke-width="0">Схема движения</text>
+<text x="35" y="40.0" font-family="Arial" font-size="20" fill="#0033CC" stroke-width="0">электропоездов</text>
+<text x="35" y="60.0" font-family="Arial" font-size="20" fill="#0033CC" stroke-width="0">с Балтийского вокзала</text>
+<polyline points="145,795  130,815" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<polyline points="125,825  105,850" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<polyline points="130,825  130,850" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<text x="115" y="827.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Котлы</text>
+<text x="70" y="862.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Усть-Луга</text>
+<text x="130" y="865.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Веймарн</text>
+<polyline points="465,430  465,480" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<polyline points="465,490  445,510" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<polyline points="465,490  485,510" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<text x="445" y="492.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Веймарн</text>
+<text x="405" y="522.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Ивангород</text>
+<text x="485" y="522.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Гдов</text>
+<polyline points="590,850  590,870" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<text x="610" y="867.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Схема до Пскова и Новгорода</text>
+</g>
+<g stroke="#003300" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x="165" y="357.0" font-family="Arial" font-size="14" fill="#003300" stroke-width="0">г. Петродворец</text>
+<text x="165" y="478.0" font-family="Arial" font-size="14" fill="#003300" stroke-width="0">г. Ломоносов</text>
+<text x="165" y="808.0" font-family="Arial" font-size="14" fill="#003300" stroke-width="0">г. Сосновый Бор</text>
+<polyline points="360,25  390,25" stroke-width="1" fill="none"  />
+<text x="393" y="32.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 1</text>
+<polyline points="360,85  390,85" stroke-width="1" fill="none"  />
+<text x="393" y="92.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 2</text>
+<polyline points="140,205  160,205  160,182" stroke-width="1" fill="none"  />
+<text x="103" y="212.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 3</text>
+<polyline points="140,325  160,325" stroke-width="1" fill="none"  />
+<text x="103" y="332.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 4</text>
+<polyline points="140,415  160,415" stroke-width="1" fill="none"  />
+<text x="103" y="422.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 5</text>
+<polyline points="140,535  160,535" stroke-width="1" fill="none"  />
+<text x="103" y="542.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 6</text>
+<polyline points="140,625  160,625" stroke-width="1" fill="none"  />
+<text x="103" y="632.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 7</text>
+<polyline points="135,665  140,685  160,685" stroke-width="1" fill="none"  />
+<text x="103" y="672.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 8</text>
+<polyline points="140,745  160,745" stroke-width="1" fill="none"  />
+<text x="103" y="752.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 9</text>
+<polyline points="340,295  360,295" stroke-width="1" fill="none"  />
+<text x="303" y="302.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 4</text>
+<polyline points="340,385  360,385" stroke-width="1" fill="none"  />
+<text x="303" y="392.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 5</text>
+<polyline points="340,445  360,445" stroke-width="1" fill="none"  />
+<text x="303" y="452.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 6</text>
+<text x="460" y="422.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 7</text>
+<polyline points="580,175  600,175" stroke-width="1" fill="none"  />
+<text x="543" y="182.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 3</text>
+<polyline points="580,235  600,235" stroke-width="1" fill="none"  />
+<text x="543" y="242.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 4</text>
+<polyline points="580,265  600,265" stroke-width="1" fill="none"  />
+<text x="543" y="272.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 5</text>
+<polyline points="580,355  600,355" stroke-width="1" fill="none"  />
+<text x="543" y="362.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 6</text>
+<polyline points="580,415  600,415" stroke-width="1" fill="none"  />
+<text x="543" y="422.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 7</text>
+<polyline points="580,505  600,505" stroke-width="1" fill="none"  />
+<text x="543" y="512.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 8</text>
+<polyline points="580,535  600,535" stroke-width="1" fill="none"  />
+<text x="543" y="542.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 9</text>
+<polyline points="580,595  600,595" stroke-width="1" fill="none"  />
+<text x="543" y="602.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 10</text>
+<polyline points="580,625  600,625" stroke-width="1" fill="none"  />
+<text x="543" y="632.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 11</text>
+<polyline points="580,685  600,685" stroke-width="1" fill="none"  />
+<text x="543" y="692.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 12</text>
+<polyline points="580,745  600,745" stroke-width="1" fill="none"  />
+<text x="543" y="752.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 13</text>
+<polyline points="580,775  600,775" stroke-width="1" fill="none"  />
+<text x="543" y="782.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 14</text>
+<polyline points="580,835  600,835" stroke-width="1" fill="none"  />
+<text x="543" y="842.0" font-family="Arial" font-size="12" fill="#003300" stroke-width="0">зона 15</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<rect x="0" y="0" width="1050" height="1220" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+</g>
+<g stroke="#B4E3EB" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<polyline points="677,678  696,649  712,638  741,635  787,628  817,621  852,601  864,588  866,580  862,559  850,542  827,522  816,494  814,458  823,432  830,419  827,400  817,391  798,380  788,368  789,350  791,331  783,308  771,296  753,281  746,267  738,246  719,227  690,215  665,203  654,185  659,170  679,157  698,146  713,133  730,114  739,95" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="921,987  871,987  820,993  779,1001  750,987  750,958  774,941  780,916  768,893  740,888  697,894  667,905  645,907  630,900  621,881  623,860  645,841  683,827  703,809  715,785  718,746  702,708  680,679  641,647  611,630  578,620  554,621  534,626  514,636  494,651  466,683  448,711  419,753  398,779  371,802  341,819  303,821  274,792  275,759  289,741  322,713  355,685  369,663  377,634  371,610  353,597  307,599  271,601  249,595  233,569  236,535  233,518  215,505  190,499  172,484  158,451  150,410  136,383  109,362  84,358  57,358  17,361" stroke-width=" 20" fill="none"/> <!-- spline -->
+<polyline points="707,798  706,767  693,739  667,704  639,679  604,659  564,651  534,652  503,660  480,672" stroke-width=" 13" fill="none"/> <!-- spline -->
+</g>
+<g stroke="#040464" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 126" y="33.0" font-family="Arial" font-size=" 34" fill="#040464" stroke-width="0">СХЕМА ЛИНИЙ СКОРОСТНОГО ТРАНСПОРТА МОСКВЫ</text>
+<text x=" 45" y="963.0" font-family="Arial" font-size=" 13" fill="#040464" stroke-width="0">ЛИНИИ МОСКОВСКОГО МЕТРОПОЛИТЕНА</text>
+</g>
+<g stroke="#E41C0C" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="983.0" font-family="Arial" font-size=" 16" fill="#E41C0C" stroke-width="0">Сокольническая</text>
+</g>
+<g stroke="#046434" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1001.0" font-family="Arial" font-size=" 16" fill="#046434" stroke-width="0">Замоскворецкая</text>
+</g>
+<g stroke="#34349C" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1019.0" font-family="Arial" font-size=" 16" fill="#34349C" stroke-width="0">Арбатско-Покровская</text>
+</g>
+<g stroke="#1C54BC" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1037.0" font-family="Arial" font-size=" 16" fill="#1C54BC" stroke-width="0">Филевская</text>
+</g>
+<g stroke="#543C04" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1055.0" font-family="Arial" font-size=" 16" fill="#543C04" stroke-width="0">Кольцевая</text>
+</g>
+<g stroke="#F7782E" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1073.0" font-family="Arial" font-size=" 16" fill="#F7782E" stroke-width="0">Калужско-Рижская</text>
+</g>
+<g stroke="#AC24AC" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1091.0" font-family="Arial" font-size=" 16" fill="#AC24AC" stroke-width="0">Таганско-Краснопресненская</text>
+</g>
+<g stroke="#F49E01" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1109.0" font-family="Arial" font-size=" 16" fill="#F49E01" stroke-width="0">Калининская</text>
+</g>
+<g stroke="#4C4C4C" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1127.0" font-family="Arial" font-size=" 16" fill="#4C4C4C" stroke-width="0">Серпуховско-Тимирязевская</text>
+</g>
+<g stroke="#5C9F2E" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1145.0" font-family="Arial" font-size=" 16" fill="#5C9F2E" stroke-width="0">Люблинско-Дмитровская</text>
+</g>
+<g stroke="#34649C" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1163.0" font-family="Arial" font-size=" 16" fill="#34649C" stroke-width="0">Каховская</text>
+</g>
+<g stroke="#2D69FC" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1181.0" font-family="Arial" font-size=" 16" fill="#2D69FC" stroke-width="0">Бутовская</text>
+</g>
+<g stroke="#84ACBC" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 99" y="1207.0" font-family="Arial" font-size=" 16" fill="#84ACBC" stroke-width="0">Монорельс</text>
+</g>
+<g stroke="#040464" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 827" y="52.0" font-family="Arial" font-size=" 15" fill="#040464" stroke-width="0">Схема движения электропоездов</text>
+<text x=" 827" y="77.0" font-family="Arial" font-size=" 15" fill="#040464" stroke-width="0">Схема движения речных трамваев</text>
+</g>
+<g stroke="#505050" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 802" y="248.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">1</text>
+<text x=" 191" y="936.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">1</text>
+<text x=" 324" y="183.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">2</text>
+<text x=" 835" y="1125.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">2</text>
+<text x=" 920" y="380.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">3</text>
+<text x=" 97" y="230.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">3</text>
+<text x=" 504" y="573.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">4</text>
+<text x=" 279" y="555.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">4</text>
+<text x=" 124" y="541.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">4</text>
+<text x=" 772" y="499.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">5</text>
+<text x=" 333" y="449.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">5</text>
+<text x=" 436" y="774.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">5</text>
+<text x=" 710" y="110.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">6</text>
+<text x=" 401" y="1075.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">6</text>
+<text x=" 992" y="952.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">7</text>
+<text x=" 226" y="203.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">7</text>
+<text x=" 1001" y="608.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">8</text>
+<text x=" 466" y="92.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">9</text>
+<text x=" 535" y="1151.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">9</text>
+<text x=" 819" y="1081.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">10</text>
+<text x=" 572" y="265.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">10</text>
+<text x=" 673" y="979.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">11</text>
+<text x=" 529" y="1188.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">Л1</text>
+<text x=" 723" y="248.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">М1</text>
+<text x=" 481" y="265.0" font-family="Arial" font-size=" 20" fill="#505050" stroke-width="0">М1</text>
+</g>
+</g>
+</svg>
