@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<rect x="0" y="0" width="1080" height="1920" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+</g>
+<g stroke="#040484" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 29" y="114.0" font-family="100" font-size=" 40" fill="#040484" stroke-width="0">Схема маршрутов минских трамваев</text>
+<text x=" 119" y="138.0" font-family="100" font-size=" 24" fill="#040484" stroke-width="0">(интервалы и время движения приняты условно)</text>
+</g>
+<g stroke="#900090" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 202" y="1356.0" font-family="100" font-size=" 27" fill="#900090" stroke-width="0">1</text>
+<text x=" 19" y="1090.0" font-family="100" font-size=" 27" fill="#900090" stroke-width="0">1</text>
+<text x=" 944" y="108.0" font-family="100" font-size=" 27" fill="#900090" stroke-width="0">1</text>
+</g>
+<g stroke="#15B021" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 202" y="1401.0" font-family="100" font-size=" 27" fill="#15B021" stroke-width="0">2</text>
+<text x=" 2" y="1128.0" font-family="100" font-size=" 27" fill="#15B021" stroke-width="0">2</text>
+<text x=" 416" y="1217.0" font-family="100" font-size=" 27" fill="#15B021" stroke-width="0">2</text>
+</g>
+<g stroke="#0BD283" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 202" y="1446.0" font-family="100" font-size=" 27" fill="#0BD283" stroke-width="0">3</text>
+<text x=" 612" y="1909.0" font-family="100" font-size=" 27" fill="#0BD283" stroke-width="0">3</text>
+</g>
+<g stroke="#0000A4" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 362" y="1356.0" font-family="100" font-size=" 27" fill="#0000A4" stroke-width="0">6</text>
+<text x=" 965" y="107.0" font-family="100" font-size=" 27" fill="#0000A4" stroke-width="0">6</text>
+<text x=" 630" y="1902.0" font-family="100" font-size=" 27" fill="#0000A4" stroke-width="0">6</text>
+</g>
+<g stroke="#FF00FF" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 522" y="1356.0" font-family="100" font-size=" 27" fill="#FF00FF" stroke-width="0">11</text>
+<text x=" 964" y="38.0" font-family="100" font-size=" 27" fill="#FF00FF" stroke-width="0">11</text>
+<text x=" 402" y="874.0" font-family="100" font-size=" 27" fill="#FF00FF" stroke-width="0">11</text>
+</g>
+<g stroke="#DCDC1F" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 362" y="1401.0" font-family="100" font-size=" 27" fill="#DCDC1F" stroke-width="0">7</text>
+<text x=" 12" y="1107.0" font-family="100" font-size=" 27" fill="#DCDC1F" stroke-width="0">7</text>
+<text x=" 594" y="1916.0" font-family="100" font-size=" 27" fill="#DCDC1F" stroke-width="0">7</text>
+</g>
+<g stroke="#3F8BE9" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 362" y="1446.0" font-family="100" font-size=" 27" fill="#3F8BE9" stroke-width="0">8</text>
+<text x=" 646" y="1895.0" font-family="100" font-size=" 27" fill="#3F8BE9" stroke-width="0">8</text>
+<text x=" 791" y="330.0" font-family="100" font-size=" 27" fill="#3F8BE9" stroke-width="0">8</text>
+</g>
+<g stroke="#E40368" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 362" y="1491.0" font-family="100" font-size=" 27" fill="#E40368" stroke-width="0">А142</text>
+<text x=" 32" y="374.0" font-family="100" font-size=" 27" fill="#E40368" stroke-width="0">А142</text>
+</g>
+</g>
+</svg>

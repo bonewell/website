@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<rect x="0" y="0" width="630" height="665" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+</g>
+<g stroke="#040464" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 410" y="45.0" font-family="Arial" font-size=" 25" fill="#040464" stroke-width="0">ЕКАТЕРИНБУРГ</text>
+<text x=" 411" y="58.0" font-family="Arial" font-size=" 15" fill="#040464" stroke-width="0">СХЕМА ЛИНИЙ МЕТРО И</text>
+<text x=" 411" y="72.0" font-family="Arial" font-size=" 15" fill="#040464" stroke-width="0">ГОРОДСКОЙ ЭЛЕКТРИЧКИ</text>
+<text x=" 477" y="551.0" font-family="Arial" font-size=" 12" fill="#040464" stroke-width="0">Север-Юг</text>
+<text x=" 477" y="576.0" font-family="Arial" font-size=" 12" fill="#040464" stroke-width="0">Запад-Восток (строящаяся)</text>
+<text x=" 477" y="601.0" font-family="Arial" font-size=" 12" fill="#040464" stroke-width="0">Городская электричка</text>
+</g>
+<g stroke="#040464" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 20" y="460.0" font-family="Arial" font-size=" 10" fill="#040464" stroke-width="0">Примечания:</text>
+<text x=" 20" y="480.0" font-family="Arial" font-size=" 10" fill="#040464" stroke-width="0">Время пересадки с метро</text>
+<text x=" 20" y="490.0" font-family="Arial" font-size=" 10" fill="#040464" stroke-width="0">на электричку принято за 10 минут</text>
+<text x=" 20" y="510.0" font-family="Arial" font-size=" 10" fill="#040464" stroke-width="0">Время ожидания электричек не учитывается</text>
+<text x=" 20" y="530.0" font-family="Arial" font-size=" 10" fill="#040464" stroke-width="0">Расписание электричек см. в доп. информации</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<rect x="0" y="0" width="1090" height="946" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+</g>
+<g stroke="#CEEBFF" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<polyline points="434,4  560,260  1072,183" stroke-width=" 20" fill="none"/> <!-- spline -->
+</g>
+<g stroke="#0033CC" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 730" y="20.0" font-family="Arial" font-size=" 20" fill="#0033CC" stroke-width="0">Схема движения электропоездов</text>
+<text x=" 730" y="40.0" font-family="Arial" font-size=" 20" fill="#0033CC" stroke-width="0">с Московского и Ладожского вокзалов</text>
+<text x=" 720" y="139.0" font-family="Arial" font-size=" 12" fill="#0033CC" stroke-width="0">Схема движения электропоездов</text>
+<text x=" 720" y="149.0" font-family="Arial" font-size=" 12" fill="#0033CC" stroke-width="0">с Финляндского вокзала</text>
+<text x=" 15" y="912.0" font-family="Arial" font-size=" 12" fill="#0033CC" stroke-width="0">Схема с Витебского вкз</text>
+<text x=" 15" y="932.0" font-family="Arial" font-size=" 12" fill="#0033CC" stroke-width="0">Схема от Новгорода</text>
+<text x=" 804" y="263.0" font-family="Arial" font-size=" 14" fill="#0033CC" stroke-width="0">Нева</text>
+<polyline points="160,910  160,940" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<text x=" 175" y="939.0" font-family="Arial" font-size=" 14" fill="#0033CC" stroke-width="0">Схема до Москвы</text>
+</g>
+<g stroke="#000033" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<polyline points="153,22  167,22" stroke-width="1" fill="none"  />
+<text x=" 145" y="34.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">1</text>
+<polyline points="153,72  167,72" stroke-width="1" fill="none"  />
+<text x=" 145" y="84.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">2</text>
+<polyline points="153,147  169,147" stroke-width="1" fill="none"  />
+<text x=" 145" y="159.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">3</text>
+<polyline points="153,222  169,222" stroke-width="1" fill="none"  />
+<text x=" 145" y="234.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">4</text>
+<polyline points="153,272  169,272" stroke-width="1" fill="none"  />
+<text x=" 145" y="284.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">5</text>
+<polyline points="153,297  169,297" stroke-width="1" fill="none"  />
+<text x=" 145" y="309.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">6</text>
+<polyline points="153,347  169,347  173,329" stroke-width="1" fill="none"  />
+<text x=" 145" y="359.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">7</text>
+<polyline points="303,397  319,397" stroke-width="1" fill="none"  />
+<text x=" 295" y="409.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">8</text>
+<polyline points="153,372  169,372" stroke-width="1" fill="none"  />
+<text x=" 145" y="384.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">8</text>
+<polyline points="153,422  169,422" stroke-width="1" fill="none"  />
+<text x=" 145" y="434.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">9</text>
+<polyline points="153,497  169,497" stroke-width="1" fill="none"  />
+<text x=" 138" y="509.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">10</text>
+<polyline points="153,547  169,547" stroke-width="1" fill="none"  />
+<text x=" 138" y="559.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">11</text>
+<polyline points="153,647  169,647" stroke-width="1" fill="none"  />
+<text x=" 138" y="659.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">12</text>
+<polyline points="153,672  169,672" stroke-width="1" fill="none"  />
+<text x=" 138" y="684.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">13</text>
+<polyline points="153,722  169,722" stroke-width="1" fill="none"  />
+<text x=" 138" y="734.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">14</text>
+<polyline points="153,797  169,797" stroke-width="1" fill="none"  />
+<text x=" 138" y="809.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">15</text>
+<polyline points="153,847  169,847" stroke-width="1" fill="none"  />
+<text x=" 138" y="859.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">16</text>
+<polyline points="153,897  169,897" stroke-width="1" fill="none"  />
+<text x=" 138" y="909.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">17</text>
+<polyline points="353,172  369,172" stroke-width="1" fill="none"  />
+<text x=" 345" y="184.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">3</text>
+<polyline points="353,222  369,222" stroke-width="1" fill="none"  />
+<text x=" 345" y="234.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">4</text>
+<polyline points="353,297  369,297" stroke-width="1" fill="none"  />
+<text x=" 345" y="309.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">5</text>
+<polyline points="444,342  449,324" stroke-width="1" fill="none"  />
+<text x=" 444" y="354.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">6</text>
+<polyline points="453,422  469,422" stroke-width="1" fill="none"  />
+<text x=" 445" y="434.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">7</text>
+<polyline points="453,472  469,472" stroke-width="1" fill="none"  />
+<text x=" 445" y="484.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">8</text>
+<polyline points="453,522  469,522" stroke-width="1" fill="none"  />
+<text x=" 445" y="534.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">9</text>
+<polyline points="453,547  469,547" stroke-width="1" fill="none"  />
+<text x=" 438" y="559.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">10</text>
+<polyline points="453,572  469,572" stroke-width="1" fill="none"  />
+<text x=" 438" y="584.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">11</text>
+<polyline points="453,622  469,622" stroke-width="1" fill="none"  />
+<text x=" 438" y="634.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">12</text>
+<polyline points="453,697  469,697" stroke-width="1" fill="none"  />
+<text x=" 438" y="709.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">13</text>
+<polyline points="453,747  469,747" stroke-width="1" fill="none"  />
+<text x=" 438" y="759.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">14</text>
+<polyline points="453,772  469,772" stroke-width="1" fill="none"  />
+<text x=" 438" y="784.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">15</text>
+<polyline points="603,447  619,447" stroke-width="1" fill="none"  />
+<text x=" 595" y="459.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">7</text>
+<polyline points="603,497  619,497" stroke-width="1" fill="none"  />
+<text x=" 595" y="509.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">8</text>
+<polyline points="739,371  734,353" stroke-width="1" fill="none"  />
+<text x=" 739" y="356.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">7</text>
+<polyline points="753,422  769,422" stroke-width="1" fill="none"  />
+<text x=" 745" y="434.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">8</text>
+<polyline points="753,497  769,497" stroke-width="1" fill="none"  />
+<text x=" 745" y="509.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">9</text>
+<polyline points="753,572  769,572" stroke-width="1" fill="none"  />
+<text x=" 738" y="584.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">10</text>
+<polyline points="753,622  769,622" stroke-width="1" fill="none"  />
+<text x=" 738" y="634.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">11</text>
+<polyline points="753,647  769,647" stroke-width="1" fill="none"  />
+<text x=" 738" y="659.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">12</text>
+<polyline points="753,722  769,722" stroke-width="1" fill="none"  />
+<text x=" 738" y="734.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">13</text>
+<polyline points="903,397  919,397" stroke-width="1" fill="none"  />
+<text x=" 888" y="409.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">17</text>
+<polyline points="903,422  919,422" stroke-width="1" fill="none"  />
+<text x=" 888" y="434.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">18</text>
+<polyline points="903,622  919,622" stroke-width="1" fill="none"  />
+<text x=" 888" y="634.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">21</text>
+<polyline points="903,772  919,772" stroke-width="1" fill="none"  />
+<text x=" 888" y="784.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">26</text>
+<polyline points="3,872  19,872" stroke-width="1" fill="none"  />
+<text x=" 19" y="884.0" font-family="Arial" font-size=" 12" fill="#000033" stroke-width="0">21</text>
+</g>
+</g>
+</svg>

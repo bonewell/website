@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Схемы станций метро</title>
+        <meta name="AUTHOR" content="Konstantin Kolodiy">
+        <meta name="APPLICATION-NAME" content="Subway">
+        <meta name="KEYWORDS" content="метро, станции, план, схема, Москва, Петербург, subway, Moscow, Peterburgs">
+        <link rel="SHORTCUT ICON" href="http://bone.land.ru/pics/cub.ico">
+        <script language="JavaScript" src="scripts/axah.js" charset="windows-1251"></script>
+        <script charset="windows-1251" src="project/subway/main.js" language="JavaScript"></script>
+        <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-size: 30px;
+            height: 40px;
+            clear: both;
+            margin: 0;
+            padding: 0;
+        }
+        #buttons {
+            position: absolute;
+            right: 30px;
+            bottom: 10px;
+        }
+        .list {
+            width: 49%;
+            font-size: 30px;
+            height: 50px;
+            margin: 0;
+            padding: 0;
+        }
+        #city {
+            float: left;
+        }
+        #station {
+            float: right;
+        }
+        #copyright {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            font-size: xx-small;
+            margin: 5px;
+            padding: 0;
+        }
+        #box {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            top: 90px;
+            z-index: -1;
+            margin: 0;
+            padding: 0;
+        }
+        #svg {
+            display: block;
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+</head>
+<body>
+<div>
+<script type="text/javascript">(function() {
+  if (window.pluso)if (typeof window.pluso.start == "function") return;
+  if (window.ifpluso==undefined) { window.ifpluso = 1;
+    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+    var h=d[g]('body')[0];
+    h.appendChild(s);
+  }})();</script>
+<div id="buttons" class="pluso" data-background="transparent" data-options="big,round,line,horizontal,nocounter,theme=06" data-services="linkedin,facebook,vkontakte,twitter,odnoklassniki,email"></div>
+</div>
+<h1 style="text-align: center;">Схемы станций метро</h1>
+<select id="city" class="list" onchange="onChangedCity();">
+        <option>Выберете город</option>
+        <option value="Volgograd">Волгоград</option>
+        <option value="Dnepropetrovsk">Днепропетровск</option>
+        <option value="Ekaterinburg">Екатеринбург</option>
+        <option value="Erevan">Ереван</option>
+        <option value="Kazan">Казань</option>
+        <option value="Kiev">Киев</option>
+        <option value="Minsk">Минск</option>
+        <option value="Moscow">Москва</option>
+        <option value="NNovgorod">Нижний Новгород</option>
+        <option value="Novosibirsk">Новосибирск</option>
+        <option value="Samara">Самара</option>
+        <option value="Peterburg">Санкт-Петербург</option>
+        <option value="Tashkent">Ташкент</option>
+</select>
+<select id="station" class="list" onchange="onChangedStation();">
+</select>
+</div>
+<div id="box">
+        <iframe id="svg" src="" frameborder="0"></iframe>
+</div>
+<div id="copyright">
+Данные взяты из программы <a href="http://pmetro.chpeks.com">pMetro</a><br>
+Copyright &copy; 2015 Konstantin Kolodii<br>
+Support E-Mail: <a href="mailto:bone@land.ru">bone@land.ru</a><br>
+Www: <a href="http://bone.land.ru">bone.land.ru</a><br>
+</div>
+</body>
+</html>
+<div style="color : #ff0004; visibility : hidden;position:absolute; left:-100px;top:-1000px;z-index:-1;">test

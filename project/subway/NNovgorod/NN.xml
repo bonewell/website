@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<rect x="0" y="0" width="490" height="750" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+</g>
+<g stroke="#CCF8FD" fill="#CCF8FD" stroke-opacity="1.0" fill-opacity="1.0">
+<polygon points="0,46  107,66  192,80  194,72  204,66  212,73  209,80  245,78  246,72  260,68  320,86  326,104  314,106  314,108  338,115  342,112  336,107  350,96  356,99  355,112  475,98  480,145  442,141  408,146  386,154  362,166  322,154  284,136  254,130  244,121  220,123  176,104  112,98  52,86  1,65" stroke-width="1" />
+<polygon points="324,154  361,164  325,214  318,238  318,292  328,351  342,445  360,536  354,578  256,742  210,742  275,652  283,624  327,546  334,494  328,458  325,454  322,462  326,500  320,496  316,415  296,328  286,287  286,232  296,197  306,176" stroke-width="1" />
+<polygon points="254,157  248,154  242,155  226,158  212,152  210,154  209,158  218,166  248,165  250,163" stroke-width="1" />
+</g>
+<g stroke="#FFFFFF" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<polygon points="294,282  292,276  292,265  292,234  298,209  305,192  312,178  318,174  313,185  310,197  305,210  303,236  297,262  296,276" stroke-width="1" />
+</g>
+<g stroke="#FFFFFF" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 199" y="102.0" font-family="Arial" font-size=" 15" fill="#FFFFFF" transform="rotate(10.0  199  87)" stroke-width="0">ВОЛГА</text>
+<text x=" 394" y="140.0" font-family="Arial" font-size=" 15" fill="#FFFFFF" transform="rotate(-10.0  394  125)" stroke-width="0">ВОЛГА</text>
+<text x=" 300" y="325.0" font-family="Arial" font-size=" 16" fill="#FFFFFF" transform="rotate(-90.0  300  309)" stroke-width="0">ОКА</text>
+<text x=" 336" y="555.0" font-family="Arial" font-size=" 16" fill="#FFFFFF" transform="rotate(-90.0  336  539)" stroke-width="0">ОКА</text>
+</g>
+<g stroke="#D6D6D7" fill="#D6D6D7" stroke-opacity="1.0" fill-opacity="1.0">
+<polyline points="158,68  152,104  153,132  162,162  196,196  236,211  276,221" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="42,271  64,290  112,315  140,256  154,168  180,154  242,178" stroke-width=" 5" fill="none"  />
+<polyline points="31,188  68,218  145,258  193,277" stroke-width=" 5" fill="none"  />
+<polyline points="32,336  138,311  232,252  236,238  282,219  297,186  340,202  342,220  360,249  367,248  401,256  432,242  482,222" stroke-width=" 5" fill="none"  />
+<polyline points="145,232  170,244  173,254  168,266" stroke-width=" 5" fill="none"  />
+<polyline points="231,208  244,176  254,172  269,170  298,180  299,185" stroke-width=" 5" fill="none"  />
+<polyline points="12,297  29,336  51,387  106,450  125,480  153,492  199,536  370,645  443,657  484,674" stroke-width=" 7" fill="none"  />
+<polyline points="110,318  122,344  135,358  162,366  180,366  228,390  278,364  332,356" stroke-width=" 5" fill="none"  />
+<polyline points="332,356  340,355  346,356  348,350  343,343  339,340  340,330  346,326  354,326  357,320" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="196,538  116,620" stroke-width=" 5" fill="none"  />
+<polyline points="160,574  133,550" stroke-width=" 5" fill="none"  />
+<polyline points="152,547  80,615  80,692  33,692" stroke-width=" 5" fill="none"  />
+<polyline points="39,674  100,674" stroke-width=" 5" fill="none"  />
+<polyline points="36,654  92,654  116,658" stroke-width=" 5" fill="none"  />
+<polyline points="74,698  150,626  184,588  202,560  248,360" stroke-width=" 7" fill="none"  />
+<polyline points="224,450  186,443  189,433  285,448" stroke-width=" 5" fill="none"  />
+<polyline points="212,372  244,374" stroke-width=" 5" fill="none"  />
+<polyline points="248,360  232,344  224,318  229,286  252,258  271,248  301,248  328,250  334,246  338,244  346,244  355,242" stroke-width=" 7" fill="none"/> <!-- spline -->
+<polyline points="250,361  277,364  284,376  290,398  294,432  285,446  285,455  279,474  268,486  224,552" stroke-width=" 5" fill="none"  />
+<polyline points="214,518  236,532" stroke-width=" 5" fill="none"  />
+<polyline points="192,488  228,493" stroke-width=" 5" fill="none"  />
+<polyline points="222,522  231,483  224,482" stroke-width=" 5" fill="none"  />
+<polyline points="232,483  246,474" stroke-width=" 5" fill="none"  />
+<polyline points="230,451  262,493" stroke-width=" 5" fill="none"  />
+<polyline points="216,549  204,589  193,578" stroke-width=" 5" fill="none"  />
+<polyline points="76,701  82,706  92,704  119,731" stroke-width=" 5" fill="none"  />
+<polyline points="92,684  100,692  105,702  134,731" stroke-width=" 5" fill="none"  />
+<polyline points="105,702  78,728" stroke-width=" 5" fill="none"  />
+<polyline points="324,726  364,661  376,602  382,548  376,489  380,464  378,381  374,295" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="358,318  372,299  372,291  437,160  480,153" stroke-width=" 5" fill="none"  />
+<polyline points="362,311  356,304  357,290  380,294  486,234" stroke-width=" 5" fill="none"  />
+<polyline points="473,240  433,172" stroke-width=" 5" fill="none"  />
+<polyline points="364,290  382,202  402,198" stroke-width=" 5" fill="none"  />
+<polyline points="414,204  403,198  404,184  397,174  396,164  392,156" stroke-width=" 5" fill="none"  />
+<polyline points="414,190  434,190  452,180  462,163" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="336,200  360,174  391,156  414,150  456,148  484,155" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="341,201  364,179  399,162" stroke-width=" 5" fill="none"/> <!-- spline -->
+<polyline points="405,185  417,183  434,177" stroke-width=" 5" fill="none"  />
+<polyline points="439,160  462,162  482,168" stroke-width=" 5" fill="none"  />
+<polyline points="436,166  459,168  482,174" stroke-width=" 5" fill="none"  />
+<polyline points="458,175  484,182" stroke-width=" 5" fill="none"  />
+<polyline points="272,246  258,230  250,225" stroke-width=" 5" fill="none"  />
+<polyline points="238,237  240,232  261,218  281,176" stroke-width=" 5" fill="none"  />
+<polyline points="272,220  290,178" stroke-width=" 5" fill="none"  />
+<polyline points="246,356  254,320  253,300  248,262" stroke-width=" 5" fill="none"  />
+<polyline points="228,328  252,329  272,295  271,250" stroke-width=" 5" fill="none"  />
+<polyline points="235,327  235,304" stroke-width=" 5" fill="none"  />
+</g>
+<g stroke="#085288" fill="#D6D6D7" stroke-opacity="1.0" fill-opacity="1.0">
+<ellipse cx="429" cy="49" rx="46.0" ry="46.0" />
+</g>
+<g stroke="#FFFFFF" fill="#085288" stroke-opacity="1.0" fill-opacity="1.0">
+<ellipse cx="429" cy="49" rx="43.0" ry="43.0" />
+<polyline points="390,108  411,108  418,90  430,110  440,90  447,108  469,108  452,46  430,76  408,47  390,108" stroke-width=" 2" fill="none"  />
+</g>
+<g stroke="#085288" fill="#085288" stroke-opacity="1.0" fill-opacity="1.0">
+<polyline points="396,82  387,110  412,110  418,94  430,112  440,94  446,110  472,110  464,82" stroke-width=" 2" fill="none"  />
+</g>
+<g stroke="#CF0000" fill="#CF0000" stroke-opacity="1.0" fill-opacity="1.0">
+<polygon points="391,107  411,107  418,89  430,108  440,89  447,107  468,107  451,49  430,78  408,50" stroke-width="1" />
+</g>
+<g stroke="#085288" fill="#FFFFFF" stroke-opacity="1.0" fill-opacity="1.0">
+<polygon points="421,10  422,10  425,13  426,13  425,12  424,10  425,10  426,12  427,13  428,13  428,11  428,11  428,14  429,15  430,15  432,14  433,14  433,11  434,11  434,14  436,13  437,12  437,10  438,10  438,12  438,12  439,12  440,10  441,10  439,13  434,15  430,17  432,17  433,17  433,18  432,18  431,20  431,23  430,26  430,28  442,28  444,30  444,32  443,31  442,33  442,35  441,37  444,40  444,41  444,43  443,47  444,48  443,50  443,51  441,51  441,50  442,48  442,44  441,42  436,38  436,41  435,42  433,44  432,47  431,49  431,49  432,51  429,51  429,50  430,49  430,48  433,42  433,35  430,36  426,35  426,37  424,41  424,51  421,51  421,50  423,49  423,45  422,41  422,35  416,32  416,32  416,36  415,38  416,38  416,40  416,40  414,38  414,30  416,29  417,30  422,30  422,28  427,21  427,20  425,19  423,19  423,18  423,18  425,18  426,17  427,17  429,16  427,15  422,15  422,14  425,14" stroke-width="1" />
+</g>
+<g stroke="#00306F" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 95" y="45.0" font-family="Arial" font-size=" 35" fill="#00306F" stroke-width="0">СХЕМА ЛИНИЙ</text>
+<text x=" 32" y="70.0" font-family="Arial" font-size=" 20" fill="#00306F" stroke-width="0">НИЖЕГОРОДСКОГО МЕТРОПОЛИТЕНА</text>
+</g>
+<g stroke="#202020" fill="none" stroke-opacity="1.0" fill-opacity="1.0">
+<text x=" 21" y="144.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">СОРМОВСКИЙ РАЙОН</text>
+<text x=" 17" y="285.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">МОСКОВСКИЙ РАЙОН</text>
+<text x=" 158" y="206.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">КАНАВИНСКИЙ РАЙОН</text>
+<text x=" 118" y="416.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">ЛЕНИНСКИЙ РАЙОН</text>
+<text x=" 6" y="578.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">АВТОЗАВОДСКИЙ РАЙОН</text>
+<text x=" 390" y="335.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">СОВЕТСКИЙ РАЙОН</text>
+<text x=" 394" y="576.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">ПРИОКСКИЙ РАЙОН</text>
+<text x=" 356" y="714.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">ЩЕРБИНКИ</text>
+<text x=" 348" y="204.0" font-family="Arial" font-size=" 10" fill="#202020" stroke-width="0">НИЖЕГОРОДСКИЙ РАЙОН</text>
+<text x=" 420" y="173.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">площадь</text>
+<text x=" 402" y="179.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">Минина и Пожарского</text>
+<text x=" 463" y="215.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">площадь Свободы</text>
+<text x=" 371" y="267.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">площадь Максима Горького</text>
+<text x=" 377" y="303.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">площадь Лядова</text>
+<text x=" 250" y="211.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">площадь Ленина</text>
+<text x=" 202" y="231.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">площадь Революции</text>
+<text x=" 258" y="350.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">Комсомольская площадь</text>
+<text x=" 104" y="315.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-65.0  104  308)" stroke-width="0">Бурнаковский проезд</text>
+<text x=" 133" y="243.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-80.0  133  236)" stroke-width="0">ул. Куйбышева</text>
+<text x=" 150" y="231.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(27.0  150  224)" stroke-width="0">ул. Шаляпина</text>
+<text x=" 198" y="249.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">Московский вокзал</text>
+<text x=" 71" y="228.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(27.0  71  221)" stroke-width="0">Сормовское шоссе</text>
+<text x=" 143" y="317.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-30.0  143  310)" stroke-width="0">Московское шоссе</text>
+<text x=" 244" y="237.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-30.0  244  230)" stroke-width="0">ул. Советская</text>
+<text x=" 214" y="299.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-70.0  214  292)" stroke-width="0">ул. Чкалова</text>
+<text x=" 208" y="294.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(70.0  208  287)" stroke-width="0">ул. Октябрьской революции</text>
+<text x=" 236" y="343.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-90.0  236  336)" stroke-width="0">ул. Витебская</text>
+<text x=" 247" y="361.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-78.0  247  354)" stroke-width="0">ул. Июльских дней</text>
+<text x=" 214" y="379.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(5.0  214  372)" stroke-width="0">ул. Рубо</text>
+<text x=" 235" y="437.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-77.0  235  430)" stroke-width="0">проспект Ленина</text>
+<text x=" 185" y="430.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(8.0  185  423)" stroke-width="0">ул. Самочкина</text>
+<text x=" 192" y="441.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(11.0  192  434)" stroke-width="0">ул. Дружбы</text>
+<text x=" 233" y="447.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(9.0  233  440)" stroke-width="0">Заречный бульвар</text>
+<text x=" 240" y="455.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(52.0  240  448)" stroke-width="0">ул. Космонавта Комарова</text>
+<text x=" 217" y="498.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-30.0  217  491)" stroke-width="0">ул. Чугунова</text>
+<text x=" 170" y="482.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(8.0  170  475)" stroke-width="0">ул. Норильская</text>
+<text x=" 228" y="554.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-55.0  228  547)" stroke-width="0">ул. Глеба Успенского</text>
+<text x=" 163" y="493.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(44.0  163  486)" stroke-width="0">ул. Новикова-Прибоя</text>
+<text x=" 207" y="593.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-75.0  207  586)" stroke-width="0">ул. Райниса</text>
+<text x=" 121" y="641.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-45.0  121  634)" stroke-width="0">проспект Ленина</text>
+<text x=" 141" y="603.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(-46.0  141  596)" stroke-width="0">ул. Переходникова</text>
+<text x=" 28" y="652.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">проспект Кирова</text>
+<text x=" 27" y="672.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">проспект Ильича</text>
+<text x=" 11" y="690.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">проспект Молодёжный</text>
+<text x=" 111" y="700.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(45.0  111  693)" stroke-width="0">ул. Юлиуса Фучика</text>
+<text x=" 100" y="719.0" font-family="Arial" font-size=" 7" fill="#202020" transform="rotate(45.0  100  712)" stroke-width="0">ул. Венедяпина</text>
+<text x=" 216" y="155.0" font-family="Arial" font-size=" 7" fill="#202020" stroke-width="0">озеро Мещерское</text>
+</g>
+</g>
+</svg>
