@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charse=windows-1251"/>
+   <title>Галерея</title>
+   <script type="text/javascript" src="jquery.js"></script>
+   <link rel="stylesheet" type="text/css" href="styles_galery.css" charset="windows-1251" />
+   <script language="JavaScript">
+      function debug()
+      {
+         alert(jQuery(document.body).html());
+      }
+      function getroom()
+      {
+         location.assign("room.html");
+      }
+      function hidechiken()
+      {
+         jQuery("#chiken").hide(3000,getroom);
+      }
+      jQuery(document).ready(function() {
+         jQuery("#open").click(function () {
+            jQuery("#head").append('<img id="chiken" src="pics/chiken.gif" />');
+            jQuery("#ldoor").animate({left: "25px"},2000);
+            jQuery("#rdoor").animate({left: "275px"},2000);
+            jQuery("#chiken").animate({left: "150px"},3000,"",hidechiken);
+         });
+      });
+   </script>
+</head>
+<body>
+   <div id="head">
+      <div id="wall"></div>
+      <div id="concrete"></div>
+      <div id="footway"></div>
+      <div id="graffity"></div>
+      <div id="title">ГАЛЕРЕЯ</div>
+      <div id="door"></div>
+      <div id="ldoor"></div>
+      <div id="rdoor"></div>
+      <div id="open"></div>
+   </div>
+   <div id="content"></div>
+</body>
+</html>
+<div style="color : #ff0004; visibility : hidden;position:absolute; left:-100px;top:-100px;z-index:-1;">Проверка
