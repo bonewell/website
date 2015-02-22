@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<rect x="0" y="0" width="770" height="800" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+</g>
+<g stroke="#040464" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<text x="37" y="38.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Ленинградского направления</text>
+<text x="425" y="788.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Павелецкого направления</text>
+<text x="616" y="325.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Горьковского направления</text>
+<text x="621" y="541.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Рязанского направления</text>
+<text x="186" y="789.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Курского направления</text>
+<text x="15" y="105.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Рижского направления</text>
+<text x="580" y="38.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Ярославского направления</text>
+<text x="11" y="717.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Киевского направления</text>
+<text x="344" y="15.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Савеловского направления</text>
+<text x="2" y="310.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Схема Смоленского направления</text>
+<text x="12" y="775.0" font-family="Arial" font-size="20" fill="#040464" stroke-width="0">Автор схемы: Ефремов Сергей</text>
+<text x="600" y="767.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Примечание:</text>
+<text x="600" y="782.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">Время ожидания электричек днем</text>
+<text x="600" y="792.0" font-family="Arial" font-size="10" fill="#040464" stroke-width="0">принимается за 15 минут</text>
+</g>
+</g>
+</svg>

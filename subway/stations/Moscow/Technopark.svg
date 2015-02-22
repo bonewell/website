@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<rect x="0" y="0" width="500" height="680" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+</g>
+<g transform="rotate(82.0 250 340)" >
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+</g>
+<g stroke="#000000" fill="#046434" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<polygon points="127,315  577,315  577,345  127,345" stroke-width="1" />
+<polygon points="127,347  577,347  577,377  127,377" stroke-width="1" />
+</g>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<text x=" 130" y="333.0" font-family="Arial" font-size=" 20" fill="#000000" stroke-width="0">&lt;&lt; Автозаводская</text>
+<text x=" 436" y="376.0" font-family="Arial" font-size=" 20" fill="#000000" stroke-width="0">Коломенская &gt;&gt;</text>
+<text x=" 296" y="355.0" font-family="Arial" font-size=" 25" fill="#000000" stroke-width="0">Технопарк</text>
+</g>
+<g stroke="#FFFFFF" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<text x=" 129" y="332.0" font-family="Arial" font-size=" 20" fill="#FFFFFF" stroke-width="0">&lt;&lt; Автозаводская</text>
+<text x=" 435" y="375.0" font-family="Arial" font-size=" 20" fill="#FFFFFF" stroke-width="0">Коломенская &gt;&gt;</text>
+<text x=" 295" y="354.0" font-family="Arial" font-size=" 25" fill="#FFFFFF" stroke-width="0">Технопарк</text>
+</g>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<polyline points="127,345  127,347" stroke-width="1" fill="none"  />
+<polyline points="577,315  577,295  75,295  75,287  -78,287  -78,405  -58,405  5,539" stroke-width="1" fill="none"  />
+<polyline points="21,531  -38,405  75,405  75,397  577,397  577,377" stroke-width="1" fill="none"  />
+<line x1="4" y1="537" x2="20" y2="529" stroke-width="1" />
+<line x1="2.31307700114" y1="533.373115552" x2="18.3130770011" y2="525.373115552" stroke-width="1" />
+<line x1="0.626154002275" y1="529.746231105" x2="16.6261540023" y2="521.746231105" stroke-width="1" />
+<line x1="-1.06076899659" y1="526.119346657" x2="14.9392310034" y2="518.119346657" stroke-width="1" />
+<line x1="-2.74769199545" y1="522.49246221" x2="13.2523080046" y2="514.49246221" stroke-width="1" />
+<line x1="-4.43461499431" y1="518.865577762" x2="11.5653850057" y2="510.865577762" stroke-width="1" />
+<line x1="-6.12153799317" y1="515.238693315" x2="9.87846200683" y2="507.238693315" stroke-width="1" />
+<line x1="-7.80846099204" y1="511.611808867" x2="8.19153900796" y2="503.611808867" stroke-width="1" />
+<line x1="-9.4953839909" y1="507.98492442" x2="6.5046160091" y2="499.98492442" stroke-width="1" />
+<line x1="-11.1823069898" y1="504.358039972" x2="4.81769301024" y2="496.358039972" stroke-width="1" />
+<line x1="-12.8692299886" y1="500.731155524" x2="3.13077001138" y2="492.731155524" stroke-width="1" />
+<line x1="-14.5561529875" y1="497.104271077" x2="1.44384701251" y2="489.104271077" stroke-width="1" />
+<line x1="78" y1="315" x2="78" y2="295" stroke-width="1" />
+<line x1="82" y1="315" x2="82" y2="295" stroke-width="1" />
+<line x1="86" y1="315" x2="86" y2="295" stroke-width="1" />
+<line x1="90" y1="315" x2="90" y2="295" stroke-width="1" />
+<line x1="94" y1="315" x2="94" y2="295" stroke-width="1" />
+<line x1="98" y1="315" x2="98" y2="295" stroke-width="1" />
+<line x1="102" y1="315" x2="102" y2="295" stroke-width="1" />
+<line x1="106" y1="315" x2="106" y2="295" stroke-width="1" />
+<line x1="110" y1="315" x2="110" y2="295" stroke-width="1" />
+<line x1="114" y1="315" x2="114" y2="295" stroke-width="1" />
+<line x1="118" y1="315" x2="118" y2="295" stroke-width="1" />
+<line x1="122" y1="315" x2="122" y2="295" stroke-width="1" />
+<line x1="78" y1="377" x2="78" y2="397" stroke-width="1" />
+<line x1="82" y1="377" x2="82" y2="397" stroke-width="1" />
+<line x1="86" y1="377" x2="86" y2="397" stroke-width="1" />
+<line x1="90" y1="377" x2="90" y2="397" stroke-width="1" />
+<line x1="94" y1="377" x2="94" y2="397" stroke-width="1" />
+<line x1="98" y1="377" x2="98" y2="397" stroke-width="1" />
+<line x1="102" y1="377" x2="102" y2="397" stroke-width="1" />
+<line x1="106" y1="377" x2="106" y2="397" stroke-width="1" />
+<line x1="110" y1="377" x2="110" y2="397" stroke-width="1" />
+<line x1="114" y1="377" x2="114" y2="397" stroke-width="1" />
+<line x1="118" y1="377" x2="118" y2="397" stroke-width="1" />
+<line x1="122" y1="377" x2="122" y2="397" stroke-width="1" />
+</g>
+<g stroke="#000000" fill="#D0D0D0" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<polygon points="127,315  75,315  75,377  127,377" stroke-width="1" />
+</g>
+<g stroke="#000000" fill="#D0D0D0" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<polyline points="577,345  577,347" stroke-width="1" fill="none"  />
+</g>
+<g stroke="#00AFAF" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<text x=" 118" y="138.0" font-family="Arial" font-size=" 15" fill="#00AFAF" transform="rotate(-170.0  118  123)" stroke-width="0">проспект Андропова</text>
+</g>
+</g>
+</g>
+</svg>

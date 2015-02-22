@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<defs>
+    <marker id="arrow"
+      viewBox="0 0 10 10" refX="0" refY="5"
+      markerUnits="strokeWidth"
+      markerWidth="4" markerHeight="3"
+      orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" />
+    </marker>
+  </defs>
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<rect x="0" y="0" width="1090" height="946" stroke-width="0" fill="none" />
+<g stroke="#000000" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+</g>
+<g stroke="#0033CC" fill="none" stroke-opacity="1.0" fill-opacity="1.0" transform="scale(0.5)">
+<text x="30" y="70.0" font-family="Arial" font-size="20" fill="#0033CC" stroke-width="0">Схема движения пригородных поездов</text>
+<text x="30" y="90.0" font-family="Arial" font-size="20" fill="#0033CC" stroke-width="0">от Санкт-Петербурга до Новгорода и Пскова</text>
+<text x="30" y="122.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Примечание: время на пересадку в Луге</text>
+<text x="30" y="137.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">и Новгороде принято равным 10 минутам.</text>
+<text x="30" y="157.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Дополнительную иформацию по электричкам</text>
+<text x="30" y="172.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">смотрите в Справочнике наземного транспорта</text>
+<polyline points="370,597  345,623" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<text x="335" y="635.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Дно</text>
+<polyline points="450,418  475,393" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<polyline points="660,271  635,296" marker-end="url(#arrow)" stroke-width="1" fill="none" />
+<text x="480" y="347.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Схема Оредеж-Павловск</text>
+<text x="250" y="892.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Схема с Балтийского вокзала</text>
+<text x="250" y="912.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Схема с Витебского вокзала</text>
+<text x="250" y="932.0" font-family="Arial" font-size="12" fill="#0033CC" stroke-width="0">Схема с Московского вокзала</text>
+</g>
+</g>
+</svg>
