@@ -13,18 +13,31 @@
 	<script language="JavaScript" src="scripts/citata.js" charset="windows-1251"></script>
 	<script language="JavaScript" src="scripts/changestyle.js" charset="windows-1251"></script>
 	<script language="JavaScript" charset="windows-1251">
-		function load() {
+		var ssi = false;
+		<!--#include file="html/ssi.html" -->
+		function loadcontent() {
 			getAXAH('html/head.html','head');
 			getAXAH('html/menu.html','menu');
 			getAXAH('html/main.html','main');
 			getAXAH('html/foot.html','foot');
-
+		}
+		function load() {
+			if (!ssi) {
+				loadcontent()
+			}
 			loadstyle();
 		}
 	</script>
-	<meta name="google-translate-customization" content="9407cc4e308ebb8e-bfa2686d6d7d5b66-g2201674e9873745d-c"></meta>
+	<meta name="google-translate-customization" content="9407cc4e308ebb8e-bfa2686d6d7d5b66-g2201674e9873745d-c" />
 </head>
 <body onload="load();">
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+	function googleTranslateElementInit() {
+		new google.translate.TranslateElement({pageLanguage: 'ru', includedLanguages: 'de,en,es,fr,ja', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+	}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 <div id="head">
 	<!--#include file="html/head.html" -->
 </div>
