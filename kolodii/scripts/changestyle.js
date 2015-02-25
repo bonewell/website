@@ -1,5 +1,5 @@
 /**
- * Скрип для смены стиля сайта
+ * РЎРєСЂРёРї РґР»СЏ СЃРјРµРЅС‹ СЃС‚РёР»СЏ СЃР°Р№С‚Р°
  */
 function getCookie(name) {
    var cookie = " " + document.cookie;
@@ -47,7 +47,7 @@ function citata_set()
    }
 }
 style_id=1;
-//читаем значение стиля из куки
+//С‡РёС‚Р°РµРј Р·РЅР°С‡РµРЅРёРµ СЃС‚РёР»СЏ РёР· РєСѓРєРё
 style_id = getCookie("sid");
 change(style_id);
 function loadstyle()
