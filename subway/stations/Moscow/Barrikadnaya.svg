@@ -5,7 +5,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g>
+  <g transform="scale(0.5)">
     <rect fill="none" height="730" stroke="none" stroke-width="0" width="1150" x="0" y="0"/>
     <g transform="rotate(20.0,575,365)">
       <ellipse cx="255" cy="722" fill="#fefbf1" rx="126.0" ry="126.0" stroke="#dfdfdf" stroke-width="1"/>

@@ -5,7 +5,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g>
+  <g transform="scale(0.5)">
     <rect fill="none" height="1000" stroke="none" stroke-width="0" width="400" x="0" y="0"/>
     <g transform="rotate(90.0,200,500)">
       <polygon fill="#2d3c9b" points="392,439 392,469 -58,469 -58,439" stroke="#000000" stroke-width="1"/>

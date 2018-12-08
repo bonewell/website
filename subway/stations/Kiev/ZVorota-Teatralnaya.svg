@@ -5,7 +5,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g>
+  <g transform="scale(0.5)">
     <rect fill="none" height="1290" stroke="none" stroke-width="0" width="1200" x="0" y="0"/>
     <g transform="rotate(-11.0,600,645)">
       <polyline fill="none" points="364,433 364,459 356,459 356,441 343,441 343,892 352,892 352,879 357,879 357,923" stroke="#000000" stroke-width="1"/>

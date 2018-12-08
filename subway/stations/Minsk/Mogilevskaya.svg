@@ -5,7 +5,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g>
+  <g transform="scale(0.5)">
     <rect fill="none" height="620" stroke="none" stroke-width="0" width="630" x="0" y="0"/>
     <text fill="#040464" font-family="Arial" font-size="26" stroke="none" stroke-width="0" x="7" y="25.0">Внимание! Схема неточная.</text>
     <text fill="#040464" font-family="Arial" font-size="26" stroke="none" stroke-width="0" x="9" y="49.0">Ждём Ваших уточнений.</text>

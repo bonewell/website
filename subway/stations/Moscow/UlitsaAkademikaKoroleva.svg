@@ -5,7 +5,7 @@
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g>
+  <g transform="scale(0.5)">
     <rect fill="none" height="480" stroke="none" stroke-width="0" width="750" x="0" y="0"/>
     <line stroke="#000000" stroke-width="1" x1="0" x2="750" y1="99" y2="99"/>
     <line stroke="#000000" stroke-width="1" x1="0" x2="750" y1="109" y2="109"/>
