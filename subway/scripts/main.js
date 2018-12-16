@@ -5,15 +5,21 @@ function onChangedCity() {
 }
 
 function loadStations(city) {
-    var list = 'stations/' + city + '.html'
-    getAXAH(list, 'station');
+    var url = 'stations/' + city + '.html';
+    $.ajax(url).done(function(data) {
+        $('#station').html(data);
+    }).fail(function() {
+        alert('Sorry, I can not load the list of stations.');
+    });
 }
 
 function onChangedStation() {
     var city = document.getElementById('city');
     var station = document.getElementById('station');
     var url = 'stations/' + city.value + '/' + station.value + '.svg';
-
-    var svg = document.getElementById('svg');
-    svg.src= url;
+    $.ajax(url, {dataType: 'text'}).done(function(data) {
+        $('#box').html(data);
+    }).fail(function() {
+        alert('Sorry, I can not load the image of the station');
+    });
 }
