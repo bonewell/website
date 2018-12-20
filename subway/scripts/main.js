@@ -19,7 +19,21 @@ function onChangedStation() {
     var url = 'stations/' + city.value + '/' + station.value + '.svg';
     $.ajax(url, {dataType: 'text'}).done(function(data) {
         $('#box').html(data);
+        fit();
     }).fail(function() {
         alert('Sorry, I can not load the image of the station');
     });
+}
+
+function fit() {
+    var box = {'width': $('#box').width(),
+               'height': $('#box').height()};
+    var svg = {'width': $('#box > svg').attr("width"),
+               'height': $('#box > svg').attr("height")};
+    var scale = Math.min((box.width / svg.width), (box.height / svg.height), 1);
+    $('#box > svg > g').attr("transform", "scale(" + scale + ")");
+}
+
+function doActualSize() {
+    $('#box > svg > g').removeAttr("transform");
 }

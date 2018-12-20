@@ -1,54 +1,59 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <title>Схемы станций метро</title>
-        <meta charset="UTF-8">
-        <meta name="AUTHOR" content="Konstantin Kolodiy">
-        <meta name="APPLICATION-NAME" content="Subway">
-        <meta name="KEYWORDS" content="метро, станции, план, схема, Москва, Петербург, subway, Moscow, Peterburgs">
-        <link rel="SHORTCUT ICON" href="http://subway.atspace.eu/cub.ico">
-        <link rel="stylesheet" type="text/css" href="main.css">
-        <script language="JavaScript" src="scripts/jquery.js" charset="utf-8"></script>
-        <script language="JavaScript" src="scripts/main.js" charset="utf-8"></script>
+    <title>Схемы станций метро</title>
+    <meta charset="UTF-8">
+    <meta name="AUTHOR" content="Konstantin Kolodiy">
+    <meta name="APPLICATION-NAME" content="Subway">
+    <meta name="KEYWORDS" content="метро, станции, план, схема, Москва, Петербург, subway, Moscow, Peterburgs">
+    <link rel="SHORTCUT ICON" href="http://subway.atspace.eu/cub.ico">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <script language="JavaScript" src="scripts/jquery.js" charset="utf-8"></script>
+    <script language="JavaScript" src="scripts/main.js" charset="utf-8"></script>
 </head>
 <body>
 <div>
 <script type="text/javascript">(function() {
-  if (window.pluso)if (typeof window.pluso.start == "function") return;
-  if (window.ifpluso==undefined) { window.ifpluso = 1;
-    var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
-    s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
-    s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
-    var h=d[g]('body')[0];
-    h.appendChild(s);
-  }})();</script>
-<div id="buttons" class="pluso" data-background="transparent" data-options="big,round,line,horizontal,nocounter,theme=06" data-services="linkedin,facebook,vkontakte,twitter,odnoklassniki,email"></div>
+    if (window.pluso)if (typeof window.pluso.start == "function") return;
+    if (window.ifpluso==undefined) { window.ifpluso = 1;
+        var d = document, s = d.createElement('script'), g = 'getElementsByTagName';
+        s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+        s.src = ('https:' == window.location.protocol ? 'https' : 'http')  + '://share.pluso.ru/pluso-like.js';
+        var h=d[g]('body')[0];
+        h.appendChild(s);
+    }})();
+</script>
+<div id="buttons" class="pluso" data-background="transparent" data-options="big,round,line,vertical,nocounter,theme=06" data-services="vkontakte,odnoklassniki,facebook,twitter,email"></div>
 </div>
 <h1 style="text-align: center;">Схемы станций метро</h1>
 <select id="city" class="list" onchange="onChangedCity();">
-        <option>Выберите город</option>
-        <option value="Volgograd">Волгоград</option>
-        <option value="Dnepr">Днепр</option>
-        <option value="Ekaterinburg">Екатеринбург</option>
-        <option value="Erevan">Ереван</option>
-        <option value="Kazan">Казань</option>
-        <option value="Kiev">Киев</option>
-        <option value="Minsk">Минск</option>
-        <option value="Moscow">Москва</option>
-        <option value="NNovgorod">Нижний Новгород</option>
-        <option value="Novosibirsk">Новосибирск</option>
-        <option value="Samara">Самара</option>
-        <option value="Peterburg">Санкт-Петербург</option>
-        <option value="Tashkent">Ташкент</option>
+    <option>Выберите город</option>
+    <option value="Volgograd">Волгоград</option>
+    <option value="Dnepr">Днепр</option>
+    <option value="Ekaterinburg">Екатеринбург</option>
+    <option value="Erevan">Ереван</option>
+    <option value="Kazan">Казань</option>
+    <option value="Kiev">Киев</option>
+    <option value="Minsk">Минск</option>
+    <option value="Moscow">Москва</option>
+    <option value="NNovgorod">Нижний Новгород</option>
+    <option value="Novosibirsk">Новосибирск</option>
+    <option value="Samara">Самара</option>
+    <option value="Peterburg">Санкт-Петербург</option>
+    <option value="Tashkent">Ташкент</option>
 </select>
 <select id="station" class="list" onchange="onChangedStation();"></select>
 </div>
 <div id="box"></div>
+<div id="panel">
+    <img src="fit.png" onclick="fit();">
+    <img src="actual.png" onclick="doActualSize();">
+</div>
+<div id="pmetro">
+Данные взяты из программы <a href="http://pmetro.chpeks.com" target="_blank">pMetro</a>
+</div>
 <div id="copyright">
-Данные взяты из программы <a href="http://pmetro.chpeks.com" target="_blank">pMetro</a><br>
-Copyright &copy; 2015-2018 Konstantin Kolodii<br>
-Support E-Mail: <a href="mailto:bonewell@yandex.ru">bonewell@yandex.ru</a><br>
-Www: <a href="http://kolodii.atspace.eu" target="_blank">kolodii.atspace.eu</a><br>
+Copyright &copy; 2015-2018 <a href="http://kolodii.atspace.eu" target="_blank">Konstantin Kolodii</a>
 </div>
 </body>
 </html>
