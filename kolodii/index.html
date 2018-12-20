@@ -9,23 +9,15 @@
 	<link rel="SHORTCUT ICON" href="pics/cub.ico" />
 	<link rel="stylesheet" type="text/css" href="styles.css" />
 	<link id="style" rel="stylesheet" type="text/css" href="styles_wood.css" />
-	<script language="JavaScript" src="scripts/axah.js" charset="utf-8"></script>
-	<script language="JavaScript" src="scripts/citata.js" charset="utf-8"></script>
-	<script language="JavaScript" src="scripts/changestyle.js" charset="utf-8"></script>
-	<script language="JavaScript" charset="utf-8">
+	<script language="JavaScript" src="scripts/jquery.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" src="scripts/citata.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" src="scripts/changestyle.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" src="scripts/content.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" charset="utf-8" type="text/javascript">
 		var ssi = false;
 		<!--#include file="html/ssi.html" -->
-		function loadcontent() {
-			getAXAH('html/head.html','head');
-			getAXAH('html/menu.html','menu');
-			getAXAH('html/main.html','main');
-			getAXAH('html/foot.html','foot');
-		}
-		function load() {
-			if (!ssi) {
-				loadcontent()
-			}
-			loadstyle();
+		function loadpage() {
+			show('main');
 		}
 	</script>
 	<meta name="google-translate-customization" content="9407cc4e308ebb8e-bfa2686d6d7d5b66-g2201674e9873745d-c" />
