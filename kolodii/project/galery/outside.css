@@ -1,0 +1,104 @@
+body, html
+{
+   padding: 0px;
+   margin:0px;
+   background: url("pics/wall.png") repeat left top;
+}
+#graffity
+{
+   left: 350px;
+   bottom: 100px;
+   height:290px;
+   width:400px;
+   background: url("pics/albumpic.png") no-repeat left top;
+   position: absolute;
+}
+#road
+{
+   left: 0px;
+   bottom: 0px;
+   height: 100px;
+   width:100%;
+   min-width:750px;
+   position: absolute;
+   background: #cccccc;
+}
+#concrete
+{
+   left: 0px;
+   bottom: 150px;
+   height:20px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/concrete.png") repeat-x left top;
+   position: absolute;
+   z-index: -2;
+}
+#footway
+{
+   bottom: 100px;
+   left: 0px;
+   height:50px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/kerb.png") repeat-x left bottom; 
+   background-color: gray;
+   position: absolute;
+}
+#title
+{
+   left: 130px;
+   bottom: 375px;
+   background-color: black;
+   border: 2px solid #585858;
+   position: absolute;
+   font-size: 30px;
+   font-weight: bolder;
+   font-family:'Led Fixed';
+   color: #00FF00;
+   padding: 1px 1px 1px 4px;
+}
+#door
+{
+   left: 98px;
+   bottom:151px;
+   height:200px;
+   width:200px;
+   background-color: #585858;
+   border: 5px solid white;
+   position: absolute;
+}
+#ldoor
+{
+   left: 98px;
+   bottom: 151px;
+   height:200px;
+   width:100px;
+   background: url("pics/door.png") no-repeat left top;
+   border: 3px solid white;
+   position: absolute;
+}
+#rdoor
+{
+   left: 202px;
+   bottom: 151px;
+   height:200px;
+   width:100px;
+   background:url("pics/door.png") no-repeat left top;
+   border: 3px solid white;
+   position: absolute;
+}
+#open
+{
+   left: 98px;
+   bottom: 151px;
+   height:200px;
+   width:200px;
+   position: absolute;
+}
+#chiken
+{
+   left: 100%;
+   bottom: 300px;
+   position: absolute;
+}

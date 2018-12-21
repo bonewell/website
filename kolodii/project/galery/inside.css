@@ -1,0 +1,49 @@
+body, html
+{
+   padding: 0px;
+   margin:0px;
+   background: burlywood;
+}
+#wallroom {
+   top: 0;
+   left: 0px;
+   bottom: 110px;
+   width: 100%;
+   min-width: 750px;
+   position: absolute;
+   writing-mode: vertical-lr;
+   padding: 0;
+   margin: 0;
+   background: url("pics/wallroom.jpg") repeat left top;
+   overflow: scroll;
+   text-align: center;
+}
+#plinth
+{
+   left: 0px;
+   bottom: 100px;
+   height:20px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/plinth.png") repeat-x left top;
+   position: absolute;
+}
+#fence
+{
+   left: 0px;
+   bottom: 70px;
+   height:100px;
+   width:100%;
+   min-width:750px;
+   background: url("pics/fence.png") repeat-x left bottom; 
+   position: absolute;
+}
+.paint
+{
+   margin: 5%;
+   padding: 7px;
+   background-color:#FCFCA8;
+   border:9px double #CC6600;
+   float:none;
+   height: 50%;
+}
