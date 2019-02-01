@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" height="400.0" version="1.1" width="520.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <marker id="id80" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g transform="scale(0.5)">
-    <rect fill="none" height="400" stroke="none" stroke-width="0" width="520" x="0" y="0"/>
-    <g transform="rotate(-30.0,260,200)">
-      <polygon fill="#d03036" points="45,213 495,213 495,243 45,243" stroke="#000000" stroke-width="1"/>
-      <text fill="#d03036" font-family="Arial" font-size="25" stroke="none" stroke-width="0" x="219" y="196.0">Чарбах</text>
-      <text fill="#000000" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="378" y="239.0">Шенгавит &gt;&gt;</text>
-      <polyline fill="none" points="100,235 70,235" stroke="#000000" stroke-width="1"/>
-      <path d="M70,235 C70,235 70.8333333333,235.333333333 70,235 C69.1666666667,234.666666667 66.1666666667,234.0 65,233 C63.8333333333,232.0 63,230.333333333 63,229 C63,227.666666667 63.8333333333,226.0 65,225 C66.1666666667,224.0 70,223 70,223 " fill="none" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id80)" points="70,223 100,223" stroke="#000000" stroke-width="1"/>
-      <text fill="#ffffff" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="377" y="238.0">Шенгавит &gt;&gt;</text>
-      <polyline fill="none" points="99,234 69,234" stroke="#ffffff" stroke-width="1"/>
-      <path d="M69,234 C69,234 69.8333333333,234.333333333 69,234 C68.1666666667,233.666666667 65.1666666667,233.0 64,232 C62.8333333333,231.0 62,229.333333333 62,228 C62,226.666666667 62.8333333333,225.0 64,224 C65.1666666667,223.0 69,222 69,222 " fill="none" stroke="#ffffff" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id80)" points="69,222 99,222" stroke="#ffffff" stroke-width="1"/>
-      <polyline fill="none" points="45,213 45,166 158,166 158,57" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="339,57 339,166 495,166 495,213" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#d0d0d0" points="158,84 141,84 141,143 158,143" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#d0d0d0" points="339,84 339,143 356,143 356,84" stroke="#000000" stroke-width="1"/>
-      <line stroke="#000000" stroke-width="1" x1="158" x2="339" y1="62" y2="62"/>
-      <line stroke="#000000" stroke-width="1" x1="158" x2="339" y1="66" y2="66"/>
-      <line stroke="#000000" stroke-width="1" x1="158" x2="339" y1="70" y2="70"/>
-      <line stroke="#000000" stroke-width="1" x1="158" x2="339" y1="74" y2="74"/>
-      <line stroke="#000000" stroke-width="1" x1="158" x2="339" y1="78" y2="78"/>
-      <polygon fill="#ffffff" points="148,91 158,91 158,136 148,136" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="158,91 148,91 148,136 158,136" stroke="#000000" stroke-width="1"/>
-      <text fill="#000000" font-family="Arial" font-size="10" stroke="none" stroke-width="0" transform="rotate(90.0,160,101)" x="160" y="111.0">кассы</text>
-      <polygon fill="none" points="248,104 254,104 254,110 248,110" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="251,112 251,143" stroke="#000000" stroke-width="0.5"/>
-      <polyline fill="none" points="310,110 310,143 339,143" stroke="#000000" stroke-width="0.5"/>
-      <polyline fill="none" points="187,110 187,143 158,143" stroke="#000000" stroke-width="0.5"/>
-      <line stroke="#009900" stroke-width="1" x1="243" x2="243" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="239" x2="239" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="235" x2="235" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="231" x2="231" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="227" x2="227" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="223" x2="223" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="219" x2="219" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="215" x2="215" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="211" x2="211" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="207" x2="207" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="203" x2="203" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="199" x2="199" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="195" x2="195" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="191" x2="191" y1="109" y2="105"/>
-      <line stroke="#009900" stroke-width="1" x1="187" x2="187" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="258" x2="258" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="262" x2="262" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="266" x2="266" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="270" x2="270" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="274" x2="274" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="278" x2="278" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="282" x2="282" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="286" x2="286" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="290" x2="290" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="294" x2="294" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="298" x2="298" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="302" x2="302" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="306" x2="306" y1="109" y2="105"/>
-      <line stroke="#ff0000" stroke-width="1" x1="310" x2="310" y1="109" y2="105"/>
-      <polyline fill="none" points="158,84 339,84" stroke="#c0c0c0" stroke-dasharray="5 2" stroke-width="1"/>
-      <polyline fill="none" points="310,143 187,143" stroke="#c0c0c0" stroke-dasharray="5 2" stroke-width="1"/>
-      <polyline fill="none" points="141,124 5,124 5,281 525,281" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="356,124 525,124" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id80)" points="284,114 284,95" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id80)" points="213,99 213,118" stroke="#009900" stroke-width="1"/>
+  <g>
+    <rect fill="none" height="400.0" stroke="none" stroke-width="0" width="520.0" x="0.0" y="0.0"/>
+    <g transform="rotate(-30.0,260.0,200.0)">
+      <polygon fill="#d03036" points="45.0,213.0 495.0,213.0 495.0,243.0 45.0,243.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#d03036" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="219.0" y="196.0">Чарбах</text>
+      <text fill="#000000" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="378.0" y="239.0">Шенгавит &gt;&gt;</text>
+      <polyline fill="none" points="100.0,235.0 70.0,235.0" stroke="#000000" stroke-width="1"/>
+      <path d="M70.0,235.0 C70.0,235.0 70.83333333333333,235.33333333333334 70.0,235.0 C69.16666666666667,234.66666666666666 66.16666666666667,234.0 65.0,233.0 C63.833333333333336,232.0 63.0,230.33333333333334 63.0,229.0 C63.0,227.66666666666666 63.833333333333336,226.0 65.0,225.0 C66.16666666666667,224.0 70.0,223.0 70.0,223.0 " fill="none" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id80)" points="70.0,223.0 100.0,223.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#ffffff" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="377.0" y="238.0">Шенгавит &gt;&gt;</text>
+      <polyline fill="none" points="99.0,234.0 69.0,234.0" stroke="#ffffff" stroke-width="1"/>
+      <path d="M69.0,234.0 C69.0,234.0 69.83333333333333,234.33333333333334 69.0,234.0 C68.16666666666667,233.66666666666666 65.16666666666667,233.0 64.0,232.0 C62.833333333333336,231.0 62.0,229.33333333333334 62.0,228.0 C62.0,226.66666666666666 62.833333333333336,225.0 64.0,224.0 C65.16666666666667,223.0 69.0,222.0 69.0,222.0 " fill="none" stroke="#ffffff" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id80)" points="69.0,222.0 99.0,222.0" stroke="#ffffff" stroke-width="1"/>
+      <polyline fill="none" points="45.0,213.0 45.0,166.0 158.0,166.0 158.0,57.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="339.0,57.0 339.0,166.0 495.0,166.0 495.0,213.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#d0d0d0" points="158.0,84.0 141.0,84.0 141.0,143.0 158.0,143.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#d0d0d0" points="339.0,84.0 339.0,143.0 356.0,143.0 356.0,84.0" stroke="#000000" stroke-width="1"/>
+      <line stroke="#000000" stroke-width="1" x1="158.0" x2="339.0" y1="62.0" y2="62.0"/>
+      <line stroke="#000000" stroke-width="1" x1="158.0" x2="339.0" y1="66.0" y2="66.0"/>
+      <line stroke="#000000" stroke-width="1" x1="158.0" x2="339.0" y1="70.0" y2="70.0"/>
+      <line stroke="#000000" stroke-width="1" x1="158.0" x2="339.0" y1="74.0" y2="74.0"/>
+      <line stroke="#000000" stroke-width="1" x1="158.0" x2="339.0" y1="78.0" y2="78.0"/>
+      <polygon fill="#ffffff" points="148.0,91.0 158.0,91.0 158.0,136.0 148.0,136.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="158.0,91.0 148.0,91.0 148.0,136.0 158.0,136.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#000000" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(90.0,160.0,101.0)" x="160.0" y="111.0">кассы</text>
+      <polygon fill="none" points="248.0,104.0 254.0,104.0 254.0,110.0 248.0,110.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="251.0,112.0 251.0,143.0" stroke="#000000" stroke-width="0.5"/>
+      <polyline fill="none" points="310.0,110.0 310.0,143.0 339.0,143.0" stroke="#000000" stroke-width="0.5"/>
+      <polyline fill="none" points="187.0,110.0 187.0,143.0 158.0,143.0" stroke="#000000" stroke-width="0.5"/>
+      <line stroke="#009900" stroke-width="1" x1="243.0" x2="243.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="239.0" x2="239.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="235.0" x2="235.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="231.0" x2="231.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="227.0" x2="227.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="223.0" x2="223.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="219.0" x2="219.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="215.0" x2="215.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="211.0" x2="211.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="207.0" x2="207.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="203.0" x2="203.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="199.0" x2="199.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="195.0" x2="195.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="191.0" x2="191.0" y1="109.0" y2="105.0"/>
+      <line stroke="#009900" stroke-width="1" x1="187.0" x2="187.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="258.0" x2="258.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="262.0" x2="262.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="266.0" x2="266.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="270.0" x2="270.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="274.0" x2="274.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="278.0" x2="278.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="282.0" x2="282.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="286.0" x2="286.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="290.0" x2="290.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="294.0" x2="294.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="298.0" x2="298.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="302.0" x2="302.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="306.0" x2="306.0" y1="109.0" y2="105.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="310.0" x2="310.0" y1="109.0" y2="105.0"/>
+      <polyline fill="none" points="158.0,84.0 339.0,84.0" stroke="#c0c0c0" stroke-dasharray="5 2" stroke-width="1"/>
+      <polyline fill="none" points="310.0,143.0 187.0,143.0" stroke="#c0c0c0" stroke-dasharray="5 2" stroke-width="1"/>
+      <polyline fill="none" points="141.0,124.0 5.0,124.0 5.0,281.0 525.0,281.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="356.0,124.0 525.0,124.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id80)" points="284.0,114.0 284.0,95.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id80)" points="213.0,99.0 213.0,118.0" stroke="#009900" stroke-width="1"/>
     </g>
   </g>
 </svg>

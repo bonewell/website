@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" height="730.0" version="1.1" width="710.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <marker id="id100" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g transform="scale(0.5)">
-    <rect fill="none" height="730" stroke="none" stroke-width="0" width="710" x="0" y="0"/>
-    <g transform="rotate(50.0,355,365)">
-      <polyline fill="none" points="-398,548 19,353 70,265 196,-206" stroke="#f5f5f5" stroke-width="40"/>
-      <polyline fill="none" points="670,610 167,320 70,265" stroke="#f5f5f5" stroke-width="30"/>
-      <polygon fill="#339933" points="314,384 314,414 764,414 764,384" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#339933" points="314,304 314,274 764,274 764,304" stroke="#000000" stroke-width="1"/>
-      <text fill="#339933" font-family="Arial" font-size="25" stroke="none" stroke-width="0" x="455" y="354.0">Кловская</text>
-      <text fill="#339933" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="645" y="434.0">Печерская &gt;&gt;</text>
-      <text fill="#339933" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="314" y="269.0">&lt;&lt; Дворец спорта</text>
-      <polyline fill="none" points="764,384 764,374 629,374 629,365 655,365 655,323 629,323 629,315 764,315 764,304" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="318,363 331,363 331,360 348,360 348,363 352,363 352,373 314,373 314,384" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="314,304 314,315 352,315 352,325 348,325 348,328 331,328 331,325 318,325" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="124,294 116,308 109,304 113,297 126,248" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="111,244 98,291 94,298 23,257 -13,321" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="1,329 27,284 83,316 55,366 2,391" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="9,406 65,380 75,362 82,366 75,378" stroke="#000000" stroke-width="1"/>
-      <path d="M124,294 C124,294 120.333333333,292.166666667 124,294 C127.666666667,295.833333333 139.833333333,299.833333333 146,305 C152.166666667,310.166666667 161,325 161,325 " fill="none" stroke="#000000" stroke-width="1"/>
-      <path d="M75,378 C75,378 70.0,375.333333333 75,378 C80.0,380.666666667 94.5,392.333333333 105,394 C115.5,395.666666667 128.666666667,393.166666667 138,388 C147.333333333,382.833333333 161,363 161,363 " fill="none" stroke="#000000" stroke-width="1"/>
-      <line stroke="#000000" stroke-width="1" x1="111" x2="126" y1="244" y2="248"/>
-      <line stroke="#000000" stroke-width="1" x1="109.969349398" x2="124.969349398" y1="247.864939758" y2="251.864939758"/>
-      <line stroke="#000000" stroke-width="1" x1="108.938698796" x2="123.938698796" y1="251.729879517" y2="255.729879517"/>
-      <line stroke="#000000" stroke-width="1" x1="107.908048193" x2="122.908048193" y1="255.594819275" y2="259.594819275"/>
-      <line stroke="#000000" stroke-width="1" x1="106.877397591" x2="121.877397591" y1="259.459759034" y2="263.459759034"/>
-      <line stroke="#000000" stroke-width="1" x1="105.846746989" x2="120.846746989" y1="263.324698792" y2="267.324698792"/>
-      <line stroke="#000000" stroke-width="1" x1="104.816096387" x2="119.816096387" y1="267.18963855" y2="271.18963855"/>
-      <line stroke="#000000" stroke-width="1" x1="103.785445784" x2="118.785445784" y1="271.054578309" y2="275.054578309"/>
-      <line stroke="#000000" stroke-width="1" x1="102.754795182" x2="117.754795182" y1="274.919518067" y2="278.919518067"/>
-      <line stroke="#000000" stroke-width="1" x1="101.72414458" x2="116.72414458" y1="278.784457826" y2="282.784457826"/>
-      <line stroke="#000000" stroke-width="1" x1="100.693493978" x2="115.693493978" y1="282.649397584" y2="286.649397584"/>
-      <line stroke="#000000" stroke-width="1" x1="99.6628433753" x2="114.662843375" y1="286.514337342" y2="290.514337342"/>
-      <line stroke="#000000" stroke-width="1" x1="2" x2="9" y1="391" y2="406"/>
-      <line stroke="#000000" stroke-width="1" x1="5.62688444755" x2="12.6268844476" y1="389.313077001" y2="404.313077001"/>
-      <line stroke="#000000" stroke-width="1" x1="9.25376889511" x2="16.2537688951" y1="387.626154002" y2="402.626154002"/>
-      <line stroke="#000000" stroke-width="1" x1="12.8806533427" x2="19.8806533427" y1="385.939231003" y2="400.939231003"/>
-      <line stroke="#000000" stroke-width="1" x1="16.5075377902" x2="23.5075377902" y1="384.252308005" y2="399.252308005"/>
-      <line stroke="#000000" stroke-width="1" x1="20.1344222378" x2="27.1344222378" y1="382.565385006" y2="397.565385006"/>
-      <line stroke="#000000" stroke-width="1" x1="23.7613066853" x2="30.7613066853" y1="380.878462007" y2="395.878462007"/>
-      <line stroke="#000000" stroke-width="1" x1="27.3881911329" x2="34.3881911329" y1="379.191539008" y2="394.191539008"/>
-      <line stroke="#000000" stroke-width="1" x1="31.0150755804" x2="38.0150755804" y1="377.504616009" y2="392.504616009"/>
-      <line stroke="#000000" stroke-width="1" x1="34.641960028" x2="41.641960028" y1="375.81769301" y2="390.81769301"/>
-      <line stroke="#000000" stroke-width="1" x1="38.2688444755" x2="45.2688444755" y1="374.130770011" y2="389.130770011"/>
-      <line stroke="#000000" stroke-width="1" x1="41.8957289231" x2="48.8957289231" y1="372.443847013" y2="387.443847013"/>
-      <line stroke="#000000" stroke-width="1" x1="2" x2="-12" y1="327" y2="319"/>
-      <line stroke="#000000" stroke-width="1" x1="3.99388449703" x2="-10.006115503" y1="323.532374788" y2="315.532374788"/>
-      <line stroke="#000000" stroke-width="1" x1="5.98776899406" x2="-8.01223100594" y1="320.064749576" y2="312.064749576"/>
-      <line stroke="#000000" stroke-width="1" x1="7.9816534911" x2="-6.0183465089" y1="316.597124363" y2="308.597124363"/>
-      <line stroke="#000000" stroke-width="1" x1="9.97553798813" x2="-4.02446201187" y1="313.129499151" y2="305.129499151"/>
-      <line stroke="#000000" stroke-width="1" x1="11.9694224852" x2="-2.03057751484" y1="309.661873939" y2="301.661873939"/>
-      <line stroke="#000000" stroke-width="1" x1="13.9633069822" x2="-0.036693017806" y1="306.194248727" y2="298.194248727"/>
-      <line stroke="#000000" stroke-width="1" x1="15.9571914792" x2="1.95719147923" y1="302.726623514" y2="294.726623514"/>
-      <line stroke="#000000" stroke-width="1" x1="17.9510759763" x2="3.95107597626" y1="299.258998302" y2="291.258998302"/>
-      <line stroke="#000000" stroke-width="1" x1="19.9449604733" x2="5.94496047329" y1="295.79137309" y2="287.79137309"/>
-      <line stroke="#000000" stroke-width="1" x1="21.9388449703" x2="7.93884497032" y1="292.323747878" y2="284.323747878"/>
-      <line stroke="#000000" stroke-width="1" x1="23.9327294674" x2="9.93272946736" y1="288.856122665" y2="280.856122665"/>
-      <polygon fill="#d0d0d0" points="87,342 94,346 105,327 98,323" stroke="#000000" stroke-width="1"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="152" x2="152" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="156" x2="156" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="160" x2="160" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="164" x2="164" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="168" x2="168" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="172" x2="172" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="176" x2="176" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="180" x2="180" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="184" x2="184" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="188" x2="188" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="192" x2="192" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="196" x2="196" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="200" x2="200" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="204" x2="204" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="208" x2="208" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="212" x2="212" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="216" x2="216" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="220" x2="220" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="224" x2="224" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="228" x2="228" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="232" x2="232" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="236" x2="236" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="240" x2="240" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="244" x2="244" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="248" x2="248" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="252" x2="252" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="256" x2="256" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="260" x2="260" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="264" x2="264" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="268" x2="268" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="272" x2="272" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="276" x2="276" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="280" x2="280" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="284" x2="284" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="288" x2="288" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="292" x2="292" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="296" x2="296" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="300" x2="300" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="304" x2="304" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="308" x2="308" y1="360" y2="328"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="312" x2="312" y1="360" y2="328"/>
-      <polygon fill="#9b5509" points="318,363 318,360 148,360 148,363" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#9b5509" points="318,325 318,328 148,328 148,325" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#9b5509" points="318,352 318,348 148,348 148,352" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#9b5509" points="318,336 318,340 148,340 148,336" stroke="#000000" stroke-width="1"/>
-      <polygon fill="none" points="127,343 133,343 133,349 127,349" stroke="#000000" stroke-width="1"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="353" y2="353"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="357" y2="357"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="361" y2="361"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="365" y2="365"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="369" y2="369"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="373" y2="373"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="377" y2="377"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="381" y2="381"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="385" y2="385"/>
-      <line stroke="#009900" stroke-width="1" x1="127" x2="132" y1="389" y2="389"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="339" y2="339"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="335" y2="335"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="331" y2="331"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="327" y2="327"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="323" y2="323"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="319" y2="319"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="315" y2="315"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="311" y2="311"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="307" y2="307"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="303" y2="303"/>
-      <line stroke="#ff0000" stroke-width="1" x1="127" x2="132" y1="299" y2="299"/>
-      <polyline fill="none" points="89,389 87,397 109,403 111,395" stroke="#000000" stroke-width="1"/>
-      <text fill="#000000" font-family="Arial" font-size="8" stroke="none" stroke-width="0" transform="rotate(15.0,91,389)" x="91" y="397.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id100)" points="349,336 331,336" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id100)" points="113,318 101,311" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id100)" points="331,352 349,352" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id100)" points="80,351 92,358" stroke="#009900" stroke-width="1"/>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" transform="rotate(-25.0,-118,404)" x="-118" y="419.0">улица Мечникова</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" transform="rotate(-75.0,72,224)" x="72" y="239.0">улица Мечникова</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" transform="rotate(30.0,417,451)" x="417" y="466.0">улица Леонида Первомайского</text>
+  <g>
+    <rect fill="none" height="730.0" stroke="none" stroke-width="0" width="710.0" x="0.0" y="0.0"/>
+    <g transform="rotate(50.0,355.0,365.0)">
+      <polyline fill="none" points="-398.0,548.0 19.0,353.0 70.0,265.0 196.0,-206.0" stroke="#f5f5f5" stroke-width="40"/>
+      <polyline fill="none" points="670.0,610.0 167.0,320.0 70.0,265.0" stroke="#f5f5f5" stroke-width="30"/>
+      <polygon fill="#339933" points="314.0,384.0 314.0,414.0 764.0,414.0 764.0,384.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#339933" points="314.0,304.0 314.0,274.0 764.0,274.0 764.0,304.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#339933" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="455.0" y="354.0">Кловская</text>
+      <text fill="#339933" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="645.0" y="434.0">Печерская &gt;&gt;</text>
+      <text fill="#339933" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="314.0" y="269.0">&lt;&lt; Дворец спорта</text>
+      <polyline fill="none" points="764.0,384.0 764.0,374.0 629.0,374.0 629.0,365.0 655.0,365.0 655.0,323.0 629.0,323.0 629.0,315.0 764.0,315.0 764.0,304.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="318.0,363.0 331.0,363.0 331.0,360.0 348.0,360.0 348.0,363.0 352.0,363.0 352.0,373.0 314.0,373.0 314.0,384.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="314.0,304.0 314.0,315.0 352.0,315.0 352.0,325.0 348.0,325.0 348.0,328.0 331.0,328.0 331.0,325.0 318.0,325.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="124.0,294.0 116.0,308.0 109.0,304.0 113.0,297.0 126.0,248.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="111.0,244.0 98.0,291.0 94.0,298.0 23.0,257.0 -13.0,321.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="1.0,329.0 27.0,284.0 83.0,316.0 55.0,366.0 2.0,391.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="9.0,406.0 65.0,380.0 75.0,362.0 82.0,366.0 75.0,378.0" stroke="#000000" stroke-width="1"/>
+      <path d="M124.0,294.0 C124.0,294.0 120.33333333333333,292.1666666666667 124.0,294.0 C127.66666666666667,295.8333333333333 139.83333333333334,299.8333333333333 146.0,305.0 C152.16666666666666,310.1666666666667 161.0,325.0 161.0,325.0 " fill="none" stroke="#000000" stroke-width="1"/>
+      <path d="M75.0,378.0 C75.0,378.0 70.0,375.3333333333333 75.0,378.0 C80.0,380.6666666666667 94.5,392.3333333333333 105.0,394.0 C115.5,395.6666666666667 128.66666666666666,393.1666666666667 138.0,388.0 C147.33333333333334,382.8333333333333 161.0,363.0 161.0,363.0 " fill="none" stroke="#000000" stroke-width="1"/>
+      <line stroke="#000000" stroke-width="1" x1="111.0" x2="126.0" y1="244.0" y2="248.0"/>
+      <line stroke="#000000" stroke-width="1" x1="109.96934939775868" x2="124.96934939775868" y1="247.86493975840497" y2="251.86493975840497"/>
+      <line stroke="#000000" stroke-width="1" x1="108.93869879551735" x2="123.93869879551735" y1="251.72987951680994" y2="255.72987951680994"/>
+      <line stroke="#000000" stroke-width="1" x1="107.90804819327603" x2="122.90804819327603" y1="255.59481927521492" y2="259.59481927521495"/>
+      <line stroke="#000000" stroke-width="1" x1="106.87739759103471" x2="121.87739759103471" y1="259.4597590336199" y2="263.45975903361995"/>
+      <line stroke="#000000" stroke-width="1" x1="105.84674698879338" x2="120.84674698879338" y1="263.3246987920249" y2="267.32469879202495"/>
+      <line stroke="#000000" stroke-width="1" x1="104.81609638655206" x2="119.81609638655206" y1="267.1896385504299" y2="271.18963855042995"/>
+      <line stroke="#000000" stroke-width="1" x1="103.78544578431074" x2="118.78544578431074" y1="271.0545783088349" y2="275.05457830883495"/>
+      <line stroke="#000000" stroke-width="1" x1="102.75479518206942" x2="117.75479518206942" y1="274.9195180672399" y2="278.91951806723995"/>
+      <line stroke="#000000" stroke-width="1" x1="101.72414457982809" x2="116.72414457982809" y1="278.7844578256449" y2="282.78445782564495"/>
+      <line stroke="#000000" stroke-width="1" x1="100.69349397758677" x2="115.69349397758677" y1="282.6493975840499" y2="286.64939758404995"/>
+      <line stroke="#000000" stroke-width="1" x1="99.66284337534545" x2="114.66284337534545" y1="286.5143373424549" y2="290.51433734245495"/>
+      <line stroke="#000000" stroke-width="1" x1="2.0" x2="9.0" y1="391.0" y2="406.0"/>
+      <line stroke="#000000" stroke-width="1" x1="5.626884447554029" x2="12.62688444755403" y1="389.3130770011377" y2="404.3130770011377"/>
+      <line stroke="#000000" stroke-width="1" x1="9.253768895108058" x2="16.25376889510806" y1="387.62615400227537" y2="402.62615400227537"/>
+      <line stroke="#000000" stroke-width="1" x1="12.880653342662086" x2="19.88065334266209" y1="385.93923100341306" y2="400.93923100341306"/>
+      <line stroke="#000000" stroke-width="1" x1="16.507537790216116" x2="23.50753779021612" y1="384.25230800455074" y2="399.25230800455074"/>
+      <line stroke="#000000" stroke-width="1" x1="20.134422237770146" x2="27.13442223777015" y1="382.5653850056884" y2="397.5653850056884"/>
+      <line stroke="#000000" stroke-width="1" x1="23.761306685324175" x2="30.76130668532418" y1="380.8784620068261" y2="395.8784620068261"/>
+      <line stroke="#000000" stroke-width="1" x1="27.388191132878205" x2="34.388191132878205" y1="379.1915390079638" y2="394.1915390079638"/>
+      <line stroke="#000000" stroke-width="1" x1="31.015075580432235" x2="38.01507558043223" y1="377.5046160091015" y2="392.5046160091015"/>
+      <line stroke="#000000" stroke-width="1" x1="34.641960027986265" x2="41.64196002798626" y1="375.81769301023917" y2="390.81769301023917"/>
+      <line stroke="#000000" stroke-width="1" x1="38.26884447554029" x2="45.268844475540284" y1="374.13077001137685" y2="389.13077001137685"/>
+      <line stroke="#000000" stroke-width="1" x1="41.89572892309432" x2="48.89572892309431" y1="372.44384701251454" y2="387.44384701251454"/>
+      <line stroke="#000000" stroke-width="1" x1="2.0" x2="-12.0" y1="327.0" y2="319.0"/>
+      <line stroke="#000000" stroke-width="1" x1="3.9938844970323313" x2="-10.006115502967669" y1="323.53237478776987" y2="315.53237478776987"/>
+      <line stroke="#000000" stroke-width="1" x1="5.987768994064663" x2="-8.012231005935337" y1="320.06474957553974" y2="312.06474957553974"/>
+      <line stroke="#000000" stroke-width="1" x1="7.981653491096994" x2="-6.018346508903006" y1="316.5971243633096" y2="308.5971243633096"/>
+      <line stroke="#000000" stroke-width="1" x1="9.975537988129325" x2="-4.024462011870675" y1="313.1294991510795" y2="305.1294991510795"/>
+      <line stroke="#000000" stroke-width="1" x1="11.969422485161656" x2="-2.0305775148383436" y1="309.66187393884934" y2="301.66187393884934"/>
+      <line stroke="#000000" stroke-width="1" x1="13.963306982193988" x2="-0.036693017806012085" y1="306.1942487266192" y2="298.1942487266192"/>
+      <line stroke="#000000" stroke-width="1" x1="15.957191479226319" x2="1.9571914792263194" y1="302.7266235143891" y2="294.7266235143891"/>
+      <line stroke="#000000" stroke-width="1" x1="17.95107597625865" x2="3.951075976258651" y1="299.25899830215894" y2="291.25899830215894"/>
+      <line stroke="#000000" stroke-width="1" x1="19.944960473290983" x2="5.944960473290982" y1="295.7913730899288" y2="287.7913730899288"/>
+      <line stroke="#000000" stroke-width="1" x1="21.938844970323316" x2="7.938844970323314" y1="292.3237478776987" y2="284.3237478776987"/>
+      <line stroke="#000000" stroke-width="1" x1="23.93272946735565" x2="9.932729467355646" y1="288.85612266546855" y2="280.85612266546855"/>
+      <polygon fill="#d0d0d0" points="87.0,342.0 94.0,346.0 105.0,327.0 98.0,323.0" stroke="#000000" stroke-width="1"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="152.0" x2="152.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="156.0" x2="156.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="160.0" x2="160.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="164.0" x2="164.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="168.0" x2="168.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="172.0" x2="172.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="176.0" x2="176.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="180.0" x2="180.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="184.0" x2="184.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="188.0" x2="188.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="192.0" x2="192.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="196.0" x2="196.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="200.0" x2="200.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="204.0" x2="204.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="208.0" x2="208.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="212.0" x2="212.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="216.0" x2="216.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="220.0" x2="220.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="224.0" x2="224.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="228.0" x2="228.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="232.0" x2="232.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="236.0" x2="236.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="240.0" x2="240.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="244.0" x2="244.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="248.0" x2="248.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="252.0" x2="252.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="256.0" x2="256.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="260.0" x2="260.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="264.0" x2="264.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="268.0" x2="268.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="272.0" x2="272.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="276.0" x2="276.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="280.0" x2="280.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="284.0" x2="284.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="288.0" x2="288.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="292.0" x2="292.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="296.0" x2="296.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="300.0" x2="300.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="304.0" x2="304.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="308.0" x2="308.0" y1="360.0" y2="328.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="312.0" x2="312.0" y1="360.0" y2="328.0"/>
+      <polygon fill="#9b5509" points="318.0,363.0 318.0,360.0 148.0,360.0 148.0,363.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#9b5509" points="318.0,325.0 318.0,328.0 148.0,328.0 148.0,325.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#9b5509" points="318.0,352.0 318.0,348.0 148.0,348.0 148.0,352.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#9b5509" points="318.0,336.0 318.0,340.0 148.0,340.0 148.0,336.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="none" points="127.0,343.0 133.0,343.0 133.0,349.0 127.0,349.0" stroke="#000000" stroke-width="1"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="353.0" y2="353.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="357.0" y2="357.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="361.0" y2="361.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="365.0" y2="365.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="369.0" y2="369.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="373.0" y2="373.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="377.0" y2="377.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="381.0" y2="381.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="385.0" y2="385.0"/>
+      <line stroke="#009900" stroke-width="1" x1="127.0" x2="132.0" y1="389.0" y2="389.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="339.0" y2="339.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="335.0" y2="335.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="331.0" y2="331.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="327.0" y2="327.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="323.0" y2="323.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="319.0" y2="319.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="315.0" y2="315.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="311.0" y2="311.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="307.0" y2="307.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="303.0" y2="303.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="127.0" x2="132.0" y1="299.0" y2="299.0"/>
+      <polyline fill="none" points="89.0,389.0 87.0,397.0 109.0,403.0 111.0,395.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#000000" font-family="Arial" font-size="8.0" stroke="none" stroke-width="0" transform="rotate(15.0,91.0,389.0)" x="91.0" y="397.0">кассы</text>
+      <polyline fill="none" marker-end="url(#id100)" points="349.0,336.0 331.0,336.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id100)" points="113.0,318.0 101.0,311.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id100)" points="331.0,352.0 349.0,352.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id100)" points="80.0,351.0 92.0,358.0" stroke="#009900" stroke-width="1"/>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-25.0,-118.0,404.0)" x="-118.0" y="419.0">улица Мечникова</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-75.0,72.0,224.0)" x="72.0" y="239.0">улица Мечникова</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(30.0,417.0,451.0)" x="417.0" y="466.0">улица Леонида Первомайского</text>
     </g>
   </g>
 </svg>

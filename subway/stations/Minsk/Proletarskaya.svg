@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" height="600.0" version="1.1" width="965.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <marker id="id72" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g transform="scale(0.5)">
-    <rect fill="none" height="600" stroke="none" stroke-width="0" width="965" x="0" y="0"/>
-    <g transform="rotate(20.0,482,300)">
-      <polygon fill="#bf0050" points="363,105 363,75 813,75 813,105" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#bf0050" points="363,185 363,215 813,215 813,185" stroke="#000000" stroke-width="1"/>
-      <text fill="#bf0050" font-family="Arial" font-size="25" stroke="none" stroke-width="0" x="501" y="153.0">Пролетарская</text>
-      <text fill="#bf0050" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="641" y="234.0">Тракторный завод &gt;&gt;</text>
-      <text fill="#bf0050" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="364" y="72.0">&lt;&lt; Первомайская</text>
-      <polyline fill="none" points="813,105 823,105 823,119 813,119 813,169 823,169 823,185 813,185" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="363,105 329,105 329,112" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="363,185 329,185 329,179" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="337,112 257,112 257,118 244,118 244,112 193,112 193,198 200,198 200,335 160,335" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="337,179 257,179 257,173 244,173 244,355 160,355" stroke="#000000" stroke-width="1"/>
-      <line stroke="#000000" stroke-width="1" x1="335" x2="335" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="331" x2="331" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="327" x2="327" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="323" x2="323" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="319" x2="319" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="315" x2="315" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="311" x2="311" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="307" x2="307" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="303" x2="303" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="299" x2="299" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="295" x2="295" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="291" x2="291" y1="112" y2="179"/>
-      <line stroke="#000000" stroke-width="1" x1="162" x2="162" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="166" x2="166" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="170" x2="170" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="174" x2="174" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="178" x2="178" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="182" x2="182" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="186" x2="186" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="190" x2="190" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="194" x2="194" y1="335" y2="355"/>
-      <line stroke="#000000" stroke-width="1" x1="198" x2="198" y1="335" y2="355"/>
-      <polygon fill="#d0d0d0" points="244,133 257,133 257,159 244,159" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id72)" points="245,166 228,166" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id72)" points="255,125 273,125" stroke="#009900" stroke-width="1"/>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" x="254" y="286.0">ул. Судмалиса</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" x="887" y="286.0">ул. Судмалиса</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" transform="rotate(-90.0,870,437)" x="870" y="452.0">ул. Серафимовича</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" x="33" y="322.0">'на ж/д станцию &quot;Минск-Восточный&quot;'</text>
-      <polyline fill="none" marker-end="url(#id72)" points="147,350 20,350 -12,326 137,250" stroke="#00afaf" stroke-width="1"/>
+  <g>
+    <rect fill="none" height="600.0" stroke="none" stroke-width="0" width="965.0" x="0.0" y="0.0"/>
+    <g transform="rotate(20.0,482.5,300.0)">
+      <polygon fill="#bf0050" points="363.0,105.0 363.0,75.0 813.0,75.0 813.0,105.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#bf0050" points="363.0,185.0 363.0,215.0 813.0,215.0 813.0,185.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#bf0050" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="501.0" y="153.0">Пролетарская</text>
+      <text fill="#bf0050" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="641.0" y="234.0">Тракторный завод &gt;&gt;</text>
+      <text fill="#bf0050" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="364.0" y="72.0">&lt;&lt; Первомайская</text>
+      <polyline fill="none" points="813.0,105.0 823.0,105.0 823.0,119.0 813.0,119.0 813.0,169.0 823.0,169.0 823.0,185.0 813.0,185.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="363.0,105.0 329.0,105.0 329.0,112.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="363.0,185.0 329.0,185.0 329.0,179.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="337.0,112.0 257.0,112.0 257.0,118.0 244.0,118.0 244.0,112.0 193.0,112.0 193.0,198.0 200.0,198.0 200.0,335.0 160.0,335.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="337.0,179.0 257.0,179.0 257.0,173.0 244.0,173.0 244.0,355.0 160.0,355.0" stroke="#000000" stroke-width="1"/>
+      <line stroke="#000000" stroke-width="1" x1="335.0" x2="335.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="331.0" x2="331.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="327.0" x2="327.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="323.0" x2="323.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="319.0" x2="319.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="315.0" x2="315.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="311.0" x2="311.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="307.0" x2="307.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="303.0" x2="303.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="299.0" x2="299.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="295.0" x2="295.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="291.0" x2="291.0" y1="112.0" y2="179.0"/>
+      <line stroke="#000000" stroke-width="1" x1="162.0" x2="162.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="166.0" x2="166.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="170.0" x2="170.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="174.0" x2="174.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="178.0" x2="178.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="182.0" x2="182.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="186.0" x2="186.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="190.0" x2="190.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="194.0" x2="194.0" y1="335.0" y2="355.0"/>
+      <line stroke="#000000" stroke-width="1" x1="198.0" x2="198.0" y1="335.0" y2="355.0"/>
+      <polygon fill="#d0d0d0" points="244.0,133.0 257.0,133.0 257.0,159.0 244.0,159.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id72)" points="245.0,166.0 228.0,166.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id72)" points="255.0,125.0 273.0,125.0" stroke="#009900" stroke-width="1"/>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="254.0" y="286.0">ул. Судмалиса</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="887.0" y="286.0">ул. Судмалиса</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,870.0,437.0)" x="870.0" y="452.0">ул. Серафимовича</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="33.0" y="322.0">'на ж/д станцию &quot;Минск-Восточный&quot;'</text>
+      <polyline fill="none" marker-end="url(#id72)" points="147.0,350.0 20.0,350.0 -12.0,326.0 137.0,250.0" stroke="#00afaf" stroke-width="1"/>
     </g>
   </g>
 </svg>

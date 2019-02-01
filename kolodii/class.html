@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<title>Константин Колодий</title>
 	<meta name="GENERATOR" content="Quanta Plus" />
 	<meta name="AUTHOR" content="Колодий К.Г." />
@@ -9,23 +9,15 @@
 	<link rel="SHORTCUT ICON" href="pics/cub.ico" />
 	<link rel="stylesheet" type="text/css" href="styles.css" />
 	<link id="style" rel="stylesheet" type="text/css" href="styles_wood.css" />
-	<script language="JavaScript" src="scripts/axah.js" charset="windows-1251"></script>
-	<script language="JavaScript" src="scripts/citata.js" charset="windows-1251"></script>
-	<script language="JavaScript" src="scripts/changestyle.js" charset="windows-1251"></script>
-	<script language="JavaScript" charset="windows-1251">
+	<script language="JavaScript" src="scripts/jquery.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" src="scripts/quote.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" src="scripts/changestyle.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" src="scripts/content.js" charset="utf-8" type="text/javascript"></script>
+	<script language="JavaScript" charset="utf-8" type="text/javascript">
 		var ssi = false;
 		<!--#include file="html/ssi.html" -->
-		function loadcontent() {
-			getAXAH('html/head.html','head');
-			getAXAH('html/menu.html','menu');
-			getAXAH('html/class.html','main');
-			getAXAH('html/foot.html','foot');
-		}
-		function load() {
-			if (!ssi) {
-				loadcontent()
-			}
-			loadstyle();
+		function loadpage() {
+			show('class');
 		}
 	</script>
 	<meta name="google-translate-customization" content="9407cc4e308ebb8e-bfa2686d6d7d5b66-g2201674e9873745d-c" />

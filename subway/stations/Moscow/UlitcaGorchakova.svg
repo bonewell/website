@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg baseProfile="full" height="100%" version="1.1" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg baseProfile="full" height="530.0" version="1.1" width="770.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <marker id="id315" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
-  <g transform="scale(0.5)">
-    <rect fill="none" height="530" stroke="none" stroke-width="0" width="770" x="0" y="0"/>
-    <g transform="rotate(-30.0,385,265)">
-      <text fill="#2d69fc" font-family="Arial" font-size="25" stroke="none" stroke-width="0" x="133" y="271.0">Улица Горчакова</text>
-      <text fill="#2d69fc" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="190" y="352.0">Бульвар адмирала Ушакова &gt;&gt;</text>
-      <text fill="#2d69fc" font-family="Arial" font-size="20" stroke="none" stroke-width="0" x="5" y="187.0">&lt;&lt; Бунинская аллея</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" transform="rotate(90.0,790,207)" x="790" y="222.0">улица Горчакова</text>
-      <text fill="#00afaf" font-family="Arial" font-size="15" stroke="none" stroke-width="0" x="471" y="437.0">Черневская улица</text>
-      <text fill="#000000" font-family="Arial" font-size="10" stroke="none" stroke-width="0" x="647" y="348.0">кассы</text>
-      <polygon fill="#8cbcfc" points="4,222 4,192 454,192 454,222" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#8cbcfc" points="4,332 4,302 454,302 454,332" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="454,222 454,229 527,229 527,207 553,207 553,187 593,187" stroke="#000000" stroke-width="1"/>
-      <path d="M593,187 C593,187 591.833333333,187.5 593,187 C594.166666667,186.5 598.333333333,185.666666667 600,184 C601.666666667,182.333333333 603,177 603,177 " fill="none" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="603,177 683,177 683,188" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="454,302 454,294 527,294 527,313 611,313" stroke="#000000" stroke-width="1"/>
-      <path d="M611,313 C611,313 607.833333333,311.666666667 611,313 C614.166666667,314.333333333 625.5,316.5 630,321 C634.5,325.5 638,340 638,340 " fill="none" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="638,340 683,340 683,288" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="641,340 641,350 681,350 681,340" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#d0d0d0" points="605,251 683,251 683,225 605,225 599,226 595,229 592,233 591,238 592,243 595,247 599,250" stroke="#d0d0d0" stroke-width="1"/>
-      <polyline fill="none" points="605,251 683,251 683,225 605,225" stroke="#000000" stroke-width="1"/>
-      <path d="M605,225 C605,225 606.0,224.833333333 605,225 C604.0,225.166666667 600.666666667,225.333333333 599,226 C597.333333333,226.666666667 596.166666667,227.833333333 595,229 C593.833333333,230.166666667 592.666666667,231.5 592,233 C591.333333333,234.5 591,236.333333333 591,238 C591,239.666666667 591.333333333,241.5 592,243 C592.666666667,244.5 593.833333333,245.833333333 595,247 C596.166666667,248.166666667 597.333333333,249.333333333 599,250 C600.666666667,250.666666667 605,251 605,251 " fill="none" stroke="#000000" stroke-width="1"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="524" x2="524" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="520" x2="520" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="516" x2="516" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="512" x2="512" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="508" x2="508" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="504" x2="504" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="500" x2="500" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="496" x2="496" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="492" x2="492" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="488" x2="488" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="484" x2="484" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="480" x2="480" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="476" x2="476" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="472" x2="472" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="468" x2="468" y1="233" y2="290"/>
-      <line stroke="#7f7f7f" stroke-width="1" x1="464" x2="464" y1="233" y2="290"/>
-      <polygon fill="#9b5509" points="457,247 530,247 530,254 457,254" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#9b5509" points="457,269 530,269 530,276 457,276" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#9b5509" points="457,229 530,229 530,233 457,233" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#9b5509" points="457,290 530,290 530,294 457,294" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id315)" points="624,206 640,206" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id315)" points="640,279 624,279" stroke="#009900" stroke-width="1"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="308" y2="308"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="304" y2="304"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="300" y2="300"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="296" y2="296"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="292" y2="292"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="288" y2="288"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="284" y2="284"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="280" y2="280"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="276" y2="276"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="272" y2="272"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="268" y2="268"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="264" y2="264"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="260" y2="260"/>
-      <line stroke="#009900" stroke-width="1" x1="610" x2="605" y1="256" y2="256"/>
-      <line stroke="#ff0000" stroke-width="1" x1="560" x2="556" y1="190" y2="194"/>
-      <line stroke="#ff0000" stroke-width="1" x1="562.828427125" x2="558.828427125" y1="192.828427125" y2="196.828427125"/>
-      <line stroke="#ff0000" stroke-width="1" x1="565.656854249" x2="561.656854249" y1="195.656854249" y2="199.656854249"/>
-      <line stroke="#ff0000" stroke-width="1" x1="568.485281374" x2="564.485281374" y1="198.485281374" y2="202.485281374"/>
-      <line stroke="#ff0000" stroke-width="1" x1="571.313708499" x2="567.313708499" y1="201.313708499" y2="205.313708499"/>
-      <line stroke="#ff0000" stroke-width="1" x1="574.142135624" x2="570.142135624" y1="204.142135624" y2="208.142135624"/>
-      <line stroke="#ff0000" stroke-width="1" x1="576.970562748" x2="572.970562748" y1="206.970562748" y2="210.970562748"/>
-      <line stroke="#ff0000" stroke-width="1" x1="579.798989873" x2="575.798989873" y1="209.798989873" y2="213.798989873"/>
-      <line stroke="#ff0000" stroke-width="1" x1="582.627416998" x2="578.627416998" y1="212.627416998" y2="216.627416998"/>
-      <line stroke="#ff0000" stroke-width="1" x1="585.455844123" x2="581.455844123" y1="215.455844123" y2="219.455844123"/>
-      <line stroke="#ff0000" stroke-width="1" x1="588.284271247" x2="584.284271247" y1="218.284271247" y2="222.284271247"/>
-      <line stroke="#ff0000" stroke-width="1" x1="591.112698372" x2="587.112698372" y1="221.112698372" y2="225.112698372"/>
-      <line stroke="#ff0000" stroke-width="1" x1="593.941125497" x2="589.941125497" y1="223.941125497" y2="227.941125497"/>
-      <polygon fill="#34349c" points="565,310 565,308 570,308 570,310" stroke="#34349c" stroke-width="1"/>
-      <polygon fill="#ff0000" points="570,310 570,308 575,308 575,310" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" points="4,222 4,233" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" points="4,290 4,302" stroke="#000000" stroke-width="1"/>
-      <polygon fill="#d0efff" points="-11,233 4,233 4,290 -11,290" stroke="#000000" stroke-width="1"/>
-      <text fill="#000000" font-family="Arial" font-size="15" stroke="none" stroke-width="0" transform="rotate(90.0,7,241)" x="7" y="256.0">лифты</text>
+  <g>
+    <rect fill="none" height="530.0" stroke="none" stroke-width="0" width="770.0" x="0.0" y="0.0"/>
+    <g transform="rotate(-30.0,385.0,265.0)">
+      <text fill="#2d69fc" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="133.0" y="271.0">Улица Горчакова</text>
+      <text fill="#2d69fc" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="190.0" y="352.0">Бульвар адмирала Ушакова &gt;&gt;</text>
+      <text fill="#2d69fc" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="5.0" y="187.0">&lt;&lt; Бунинская аллея</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,790.0,207.0)" x="790.0" y="222.0">улица Горчакова</text>
+      <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="471.0" y="437.0">Черневская улица</text>
+      <text fill="#000000" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" x="647.0" y="348.0">кассы</text>
+      <polygon fill="#8cbcfc" points="4.0,222.0 4.0,192.0 454.0,192.0 454.0,222.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#8cbcfc" points="4.0,332.0 4.0,302.0 454.0,302.0 454.0,332.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="454.0,222.0 454.0,229.0 527.0,229.0 527.0,207.0 553.0,207.0 553.0,187.0 593.0,187.0" stroke="#000000" stroke-width="1"/>
+      <path d="M593.0,187.0 C593.0,187.0 591.8333333333334,187.5 593.0,187.0 C594.1666666666666,186.5 598.3333333333334,185.66666666666666 600.0,184.0 C601.6666666666666,182.33333333333334 603.0,177.0 603.0,177.0 " fill="none" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="603.0,177.0 683.0,177.0 683.0,188.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="454.0,302.0 454.0,294.0 527.0,294.0 527.0,313.0 611.0,313.0" stroke="#000000" stroke-width="1"/>
+      <path d="M611.0,313.0 C611.0,313.0 607.8333333333334,311.6666666666667 611.0,313.0 C614.1666666666666,314.3333333333333 625.5,316.5 630.0,321.0 C634.5,325.5 638.0,340.0 638.0,340.0 " fill="none" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="638.0,340.0 683.0,340.0 683.0,288.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="641.0,340.0 641.0,350.0 681.0,350.0 681.0,340.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#d0d0d0" points="605.0,251.0 683.0,251.0 683.0,225.0 605.0,225.0 599.0,226.0 595.0,229.0 592.0,233.0 591.0,238.0 592.0,243.0 595.0,247.0 599.0,250.0" stroke="#d0d0d0" stroke-width="1"/>
+      <polyline fill="none" points="605.0,251.0 683.0,251.0 683.0,225.0 605.0,225.0" stroke="#000000" stroke-width="1"/>
+      <path d="M605.0,225.0 C605.0,225.0 606.0,224.83333333333334 605.0,225.0 C604.0,225.16666666666666 600.6666666666666,225.33333333333334 599.0,226.0 C597.3333333333334,226.66666666666666 596.1666666666666,227.83333333333334 595.0,229.0 C593.8333333333334,230.16666666666666 592.6666666666666,231.5 592.0,233.0 C591.3333333333334,234.5 591.0,236.33333333333334 591.0,238.0 C591.0,239.66666666666666 591.3333333333334,241.5 592.0,243.0 C592.6666666666666,244.5 593.8333333333334,245.83333333333334 595.0,247.0 C596.1666666666666,248.16666666666666 597.3333333333334,249.33333333333334 599.0,250.0 C600.6666666666666,250.66666666666666 605.0,251.0 605.0,251.0 " fill="none" stroke="#000000" stroke-width="1"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="524.0" x2="524.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="520.0" x2="520.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="516.0" x2="516.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="512.0" x2="512.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="508.0" x2="508.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="504.0" x2="504.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="500.0" x2="500.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="496.0" x2="496.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="492.0" x2="492.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="488.0" x2="488.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="484.0" x2="484.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="480.0" x2="480.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="476.0" x2="476.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="472.0" x2="472.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="468.0" x2="468.0" y1="233.0" y2="290.0"/>
+      <line stroke="#7f7f7f" stroke-width="1" x1="464.0" x2="464.0" y1="233.0" y2="290.0"/>
+      <polygon fill="#9b5509" points="457.0,247.0 530.0,247.0 530.0,254.0 457.0,254.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#9b5509" points="457.0,269.0 530.0,269.0 530.0,276.0 457.0,276.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#9b5509" points="457.0,229.0 530.0,229.0 530.0,233.0 457.0,233.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#9b5509" points="457.0,290.0 530.0,290.0 530.0,294.0 457.0,294.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id315)" points="624.0,206.0 640.0,206.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id315)" points="640.0,279.0 624.0,279.0" stroke="#009900" stroke-width="1"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="308.0" y2="308.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="304.0" y2="304.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="300.0" y2="300.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="296.0" y2="296.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="292.0" y2="292.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="288.0" y2="288.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="284.0" y2="284.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="280.0" y2="280.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="276.0" y2="276.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="272.0" y2="272.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="268.0" y2="268.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="264.0" y2="264.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="260.0" y2="260.0"/>
+      <line stroke="#009900" stroke-width="1" x1="610.0" x2="605.0" y1="256.0" y2="256.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="560.0" x2="556.0" y1="190.0" y2="194.0"/>
+      <line stroke="#ff0000" stroke-width="1" x1="562.8284271247462" x2="558.8284271247462" y1="192.82842712474618" y2="196.82842712474618"/>
+      <line stroke="#ff0000" stroke-width="1" x1="565.6568542494924" x2="561.6568542494924" y1="195.65685424949237" y2="199.65685424949237"/>
+      <line stroke="#ff0000" stroke-width="1" x1="568.4852813742386" x2="564.4852813742386" y1="198.48528137423855" y2="202.48528137423855"/>
+      <line stroke="#ff0000" stroke-width="1" x1="571.3137084989849" x2="567.3137084989849" y1="201.31370849898474" y2="205.31370849898474"/>
+      <line stroke="#ff0000" stroke-width="1" x1="574.1421356237311" x2="570.1421356237311" y1="204.14213562373092" y2="208.14213562373092"/>
+      <line stroke="#ff0000" stroke-width="1" x1="576.9705627484773" x2="572.9705627484773" y1="206.9705627484771" y2="210.9705627484771"/>
+      <line stroke="#ff0000" stroke-width="1" x1="579.7989898732235" x2="575.7989898732235" y1="209.7989898732233" y2="213.7989898732233"/>
+      <line stroke="#ff0000" stroke-width="1" x1="582.6274169979697" x2="578.6274169979697" y1="212.62741699796948" y2="216.62741699796948"/>
+      <line stroke="#ff0000" stroke-width="1" x1="585.4558441227159" x2="581.4558441227159" y1="215.45584412271566" y2="219.45584412271566"/>
+      <line stroke="#ff0000" stroke-width="1" x1="588.2842712474621" x2="584.2842712474621" y1="218.28427124746185" y2="222.28427124746185"/>
+      <line stroke="#ff0000" stroke-width="1" x1="591.1126983722083" x2="587.1126983722083" y1="221.11269837220803" y2="225.11269837220803"/>
+      <line stroke="#ff0000" stroke-width="1" x1="593.9411254969546" x2="589.9411254969546" y1="223.94112549695421" y2="227.94112549695421"/>
+      <polygon fill="#34349c" points="565.0,310.0 565.0,308.0 570.0,308.0 570.0,310.0" stroke="#34349c" stroke-width="1"/>
+      <polygon fill="#ff0000" points="570.0,310.0 570.0,308.0 575.0,308.0 575.0,310.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" points="4.0,222.0 4.0,233.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" points="4.0,290.0 4.0,302.0" stroke="#000000" stroke-width="1"/>
+      <polygon fill="#d0efff" points="-11.0,233.0 4.0,233.0 4.0,290.0 -11.0,290.0" stroke="#000000" stroke-width="1"/>
+      <text fill="#000000" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,7.0,241.0)" x="7.0" y="256.0">лифты</text>
     </g>
     <g>
-      <rect fill="#615f56" height="30" stroke="none" stroke-width="0" width="30" x="640" y="62"/>
-      <text fill="#ffd900" font-family="Arial" font-size="25" stroke="none" stroke-width="0" x="648" y="88.0">1</text>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="640.0" y="62.0"/>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="648.0" y="88.0">1</text>
     </g>
   </g>
 </svg>

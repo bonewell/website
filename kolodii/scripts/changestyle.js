@@ -11,7 +11,7 @@ function getCookie(name) {
       offset = cookie.indexOf(search);
       if (offset != -1) {
          offset += search.length;
-         end = cookie.indexOf(";", offset)
+         end = cookie.indexOf(";", offset);
          if (end == -1) {
             end = cookie.length;
          }
@@ -36,16 +36,7 @@ function change(sid)
       obj.href="styles_wood.css";
    }
 }
-function citata_set()
-{
-   var obj_c = document.getElementById("citata");
-   var obj_a = document.getElementById("author");
-   if (obj_c && obj_a) {
-      var x = Math.floor(Math.random()*(citata.length));
-      obj_c.innerHTML = citata[x].text;
-      obj_a.innerHTML = citata[x].author;
-   }
-}
+
 style_id=1;
 //читаем значение стиля из куки
 style_id = getCookie("sid");
@@ -53,9 +44,9 @@ change(style_id);
 function loadstyle()
 {
    style_id = getCookie("sid");
-   var obj = document.getElementById("mystyle");
-   obj.value=style_id;
-   citata_set();
+   $('#mystyle').ready(function () {
+      $('#mystyle').val(style_id);
+   });
 }
 function changestyle()
 {
