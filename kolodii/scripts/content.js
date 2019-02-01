@@ -6,6 +6,7 @@ function load() {
         loadpage();
     }
     loadstyle();
+    loadquote();
 }
 
 function loadblock(name) {
