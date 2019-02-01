@@ -152,15 +152,6 @@ body {
 }
 
 
-#informers
-{
-   vertical-align:bottom;
-   float:left;
-   text-align:right;
-   padding:5px;
-}
-
-
 #quote {
     font-style : italic;
     font-weight:bold;
@@ -184,22 +175,22 @@ body {
    float : right;
 }
 
-#kolokol {
-   background : url('pics/kolokol.png') no-repeat top right;
+#bell {
+   background : url('pics/bell.png') no-repeat top right;
    width : 163px;
    height : 150px;
    float : right;
 }
 
-#romb {
-   background : url('pics/romb.png') no-repeat top right;
+#diamond {
+   background : url('pics/diamond.png') no-repeat top right;
    width : 177px;
    height : 150px;
    float : right;
 }
 
-#sova {
-   background : url('pics/sova.png') no-repeat top right;
+#owl {
+   background : url('pics/owl.png') no-repeat top right;
    width : 226px;
    height : 200px;
 }

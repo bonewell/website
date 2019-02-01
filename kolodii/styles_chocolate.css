@@ -7,7 +7,7 @@
 
 
 body {
-    padding : 0px;
+    padding : 0;
     margin : 10px 20px 10px 10px;
     color : #ffffcc;
     background-color: white;
@@ -17,17 +17,13 @@ body {
 .wood {
     background : #8b4513 url('pics/chocalate.png');
     padding : 5px;
-    border : ridge 6px;
-    border-top-color : #8b4513;
-    border-right-color : #8b4513;
-    border-bottom-color : #8b4513;
-    border-left-color : #8b4513;
-  }
+    border: 6px ridge #8b4513;
+}
 
 #head {
     background : url('pics/stal_cream_u.png') no-repeat bottom right;
-    padding : 0 150px 0 0px;
-    margin : 0px;
+    padding : 0 150px 0 0;
+    margin : 0;
     float : none;
     min-width: 50ex;
     min-height: 70px;
@@ -35,7 +31,7 @@ body {
 
 
 #name {
-    margin : 0px;
+    margin : 0;
     float : none;
     min-height: 58px;
   }
@@ -43,8 +39,8 @@ body {
 
 #bw {
     text-align: left;
-    padding:5px 5px 0px 5px;
-    margin:0px;
+    padding:5px 5px 0 5px;
+    margin:0;
     font-size:200%;
     font-weight:bold;
     font-style:italic;
@@ -67,15 +63,15 @@ body {
 
 #room {
     background : url('pics/stal_cream_l.png') repeat-y top left;
-    padding : 0px;
-    margin : 0px;
+    padding : 0;
+    margin : 0;
     float : left;
     width: 100%;
   }
 
 
 #menulist {
-    margin : 0px;
+    margin : 0;
     list-style : none;
     float : left;
     left : 10px;
@@ -113,8 +109,8 @@ body {
 
 
 #foot {
-    padding : 0px;
-    margin :  0px 10px 0px 0px;
+    padding : 0;
+    margin :  0 10px 0 0;
     float : left;
     width: 100%;
     min-width: 600px;
@@ -135,28 +131,19 @@ body {
 }
 
 
-#informers
-{
-   vertical-align:bottom;
-   float:left;
-   text-align:right;
-   padding:5px;
-}
-
-
 #quote {
     font-style : italic;
     font-weight:bold;
-    padding : 0px;
-    margin : 0px;
+    padding : 0;
+    margin : 0;
     text-align:right;
     font-size: 180%;
   }
 
 
 #author {
-    padding : 0px;
-    margin : 0px;
+    padding : 0;
+    margin : 0;
     text-align:right;
   }
   
@@ -167,22 +154,22 @@ body {
    float : right;
 }
 
-#kolokol {
-   background : url('pics/kolokol_cream.png') no-repeat top right;
+#bell {
+   background : url('pics/bell_cream.png') no-repeat top right;
    width : 163px;
    height : 150px;
    float : right;
 }
 
-#romb {
-   background : url('pics/romb_cream.png') no-repeat top right;
+#diamond {
+   background : url('pics/diamond_cream.png') no-repeat top right;
    width : 177px;
    height : 150px;
    float : right;
 }
 
-#sova {
-   background : url('pics/sova_cream.png') no-repeat top right;
+#owl {
+   background : url('pics/owl_cream.png') no-repeat top right;
    width : 226px;
    height : 200px;
 }
@@ -197,8 +184,8 @@ h1 {
     font-weight:bold;
     font-family: serif;
     font-size:100%;
-    padding : 0px;
-    margin : 0px;
+    padding : 0;
+    margin : 0;
     text-align:center;
 }
 
@@ -207,8 +194,8 @@ h2 {
     font-weight:bold;
     font-family:serif;
     font-size:110%;
-    padding : 0px;
-    margin : 0px 0px 10px 0px;
+    padding : 0;
+    margin : 0 0 10px 0;
     text-align:right;
     border-bottom-width:1px;
     border-bottom-color:#ffffcc;
@@ -221,15 +208,15 @@ h3 {
     font-weight:bold;
     font-family: serif;
     font-size:small;
-    padding : 0px;
-    margin : 0px;
+    padding : 0;
+    margin : 0;
     text-align:center;
   }
 
 
 p {
-    margin : 0px;
-    padding : 0px;
+    margin : 0;
+    padding : 0;
   }
 
 
@@ -267,15 +254,15 @@ a:visited {
 
 
 table {
-    padding : 0px;
-    margin : 0px;
+    padding : 0;
+    margin : 0;
     border-bottom: #ffffcc dashed 1px;
   }
 
 
 td {
     padding : 5px;
-    margin : 0px;
+    margin : 0;
     border-top:#ffffcc dashed 1px;
     border-right: #ffffcc dashed 1px;
     border-left: #ffffcc dashed 1px;
@@ -284,12 +271,12 @@ td {
 
 thead {
     text-align: center;
-    padding:0px;
-    margin:0px;
+    padding:0;
+    margin:0;
   }
 
 
 tbody {
-    padding:0px;
-    margin:0px;
+    padding:0;
+    margin:0;
   }

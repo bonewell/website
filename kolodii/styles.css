@@ -1,11 +1,3 @@
-#language {
-    position:absolute;
-    top:5px;
-    right:5px;
-    border: 1px solid black;
-    padding:2px;
-    background-color:#EEE8CD;
-}
 
 a.pdf:hover, a.jpg:hover
 {

@@ -9,10 +9,10 @@ function getCookie(name) {
    var end = 0;
    if (cookie.length > 0) {
       offset = cookie.indexOf(search);
-      if (offset != -1) {
+      if (offset !== -1) {
          offset += search.length;
-         end = cookie.indexOf(";", offset)
-         if (end == -1) {
+         end = cookie.indexOf(";", offset);
+         if (end === -1) {
             end = cookie.length;
          }
          setStr = unescape(cookie.substring(offset, end));
@@ -23,11 +23,11 @@ function getCookie(name) {
 function change(sid)
 {
    var obj = document.getElementById("style");
-   if (sid==3)
+   if (sid===3)
    {
       obj.href="styles_home.css";
    }
-   else if (sid==2)
+   else if (sid===2)
    {
       obj.href="styles_chocolate.css";
    }
