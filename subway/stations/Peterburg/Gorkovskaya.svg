@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="750.0" version="1.1" width="570.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id413" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id605" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -128,8 +128,8 @@
       <line stroke="#009900" stroke-width="1" x1="85.0" x2="91.0" y1="378.0" y2="378.0"/>
       <line stroke="#009900" stroke-width="1" x1="85.0" x2="91.0" y1="382.0" y2="382.0"/>
       <line stroke="#009900" stroke-width="1" x1="85.0" x2="91.0" y1="386.0" y2="386.0"/>
-      <polyline fill="none" marker-end="url(#id413)" points="70.0,263.0 74.0,281.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id413)" points="107.0,284.0 113.0,264.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id605)" points="70.0,263.0 74.0,281.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id605)" points="107.0,284.0 113.0,264.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-75.0,87.0,594.0)" x="87.0" y="609.0">Александровский парк</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-65.0,-84.0,296.0)" x="-84.0" y="311.0">Кронверкский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="80.0" y="91.0">Каменноостровский проспект</text>

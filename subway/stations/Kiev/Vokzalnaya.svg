@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="730.0" version="1.1" width="940.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id137" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id270" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -126,10 +126,10 @@
       <line stroke="#009900" stroke-width="1" x1="161.2094458403907" x2="164.2094458403907" y1="262.4798553831857" y2="266.4798553831857"/>
       <line stroke="#009900" stroke-width="1" x1="157.89007556308343" x2="160.89007556308343" y1="264.7118457420647" y2="268.7118457420647"/>
       <line stroke="#009900" stroke-width="1" x1="154.57070528577614" x2="157.57070528577614" y1="266.94383610094377" y2="270.94383610094377"/>
-      <polyline fill="none" marker-end="url(#id137)" points="347.0,206.0 318.0,196.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id137)" points="566.0,282.0 585.0,282.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id137)" points="233.0,439.0 262.0,449.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id137)" points="585.0,297.0 566.0,297.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id270)" points="347.0,206.0 318.0,196.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id270)" points="566.0,282.0 585.0,282.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id270)" points="233.0,439.0 262.0,449.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id270)" points="585.0,297.0 566.0,297.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-71.0,95.0,638.0)" x="95.0" y="653.0">Пригородный вокзал</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(19.0,428.0,630.0)" x="428.0" y="645.0">Центральный вокзал &gt;&gt;</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(19.0,365.0,50.0)" x="365.0" y="65.0">Вокзальная площадь &gt;&gt;</text>

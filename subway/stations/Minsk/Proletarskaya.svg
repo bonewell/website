@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="600.0" version="1.1" width="965.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id72" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id155" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -41,13 +41,13 @@
       <line stroke="#000000" stroke-width="1" x1="194.0" x2="194.0" y1="335.0" y2="355.0"/>
       <line stroke="#000000" stroke-width="1" x1="198.0" x2="198.0" y1="335.0" y2="355.0"/>
       <polygon fill="#d0d0d0" points="244.0,133.0 257.0,133.0 257.0,159.0 244.0,159.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id72)" points="245.0,166.0 228.0,166.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id72)" points="255.0,125.0 273.0,125.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id155)" points="245.0,166.0 228.0,166.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id155)" points="255.0,125.0 273.0,125.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="254.0" y="286.0">ул. Судмалиса</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="887.0" y="286.0">ул. Судмалиса</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,870.0,437.0)" x="870.0" y="452.0">ул. Серафимовича</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="33.0" y="322.0">'на ж/д станцию &quot;Минск-Восточный&quot;'</text>
-      <polyline fill="none" marker-end="url(#id72)" points="147.0,350.0 20.0,350.0 -12.0,326.0 137.0,250.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id155)" points="147.0,350.0 20.0,350.0 -12.0,326.0 137.0,250.0" stroke="#00afaf" stroke-width="1"/>
     </g>
   </g>
 </svg>

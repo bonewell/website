@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="720.0" version="1.1" width="1130.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id467" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id661" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -157,8 +157,8 @@
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-30.0,79.0,669.0)" x="79.0" y="684.0">ул. Крылова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1075.0" y="433.0">ул. Кошурникова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-65.0,276.0,212.0)" x="276.0" y="227.0">проспект Дзержинcкого</text>
-      <polyline fill="none" marker-end="url(#id467)" points="939.0,451.0 957.0,451.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id467)" points="953.0,402.0 931.0,408.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id661)" points="939.0,451.0 957.0,451.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id661)" points="953.0,402.0 931.0,408.0" stroke="#009900" stroke-width="1"/>
       <line stroke="#000000" stroke-width="1" x1="381.0" x2="355.0" y1="71.0" y2="119.0"/>
       <line stroke="#000000" stroke-width="1" x1="376.6035401673161" x2="350.6035401673161" y1="68.61858425729623" y2="116.61858425729623"/>
       <line stroke="#000000" stroke-width="1" x1="381.1648672437256" x2="375.0098234779682" y1="72.79522109834592" y2="69.46123905856065"/>

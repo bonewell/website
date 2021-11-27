@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="770.0" version="1.1" width="280.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id434" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id626" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -72,8 +72,8 @@
       <line stroke="#009900" stroke-width="1" x1="-130.98095748127588" x2="-137.98095748127588" y1="399.0092534923769" y2="399.0092534923769"/>
       <polyline fill="none" points="-156.0,452.0 -165.0,461.0 -188.0,438.0 -179.0,429.0" stroke="none" stroke-width="1"/>
       <text fill="none" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(45.0,-177.0,433.0)" x="-177.0" y="443.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id434)" points="-121.0,359.0 -121.0,345.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id434)" points="-147.0,345.0 -147.0,359.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id626)" points="-121.0,359.0 -121.0,345.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id626)" points="-147.0,345.0 -147.0,359.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-159.0" y="273.0">Московский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,-228.0,364.0)" x="-228.0" y="379.0">Бассейная улица</text>
     </g>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1250.0" version="1.1" width="650.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id497" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id784" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -178,10 +178,10 @@
       <line stroke="#ff0000" stroke-width="1" x1="139.0" x2="143.0" y1="557.0" y2="557.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="139.0" x2="143.0" y1="553.0" y2="553.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="139.0" x2="143.0" y1="549.0" y2="549.0"/>
-      <polyline fill="none" marker-end="url(#id497)" points="773.0,643.0 791.0,643.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id497)" points="171.0,564.0 154.0,564.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id497)" points="122.0,645.0 138.0,639.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id497)" points="831.0,561.0 814.0,570.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="773.0,643.0 791.0,643.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="171.0,564.0 154.0,564.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="122.0,645.0 138.0,639.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="831.0,561.0 814.0,570.0" stroke="#009900" stroke-width="1"/>
       <ellipse cx="232.0" cy="786.0" fill="#0000ff" rx="20.0" ry="20.0" stroke="#009900" stroke-width="1"/>
       <ellipse cx="170.0" cy="329.0" fill="#0000ff" rx="20.0" ry="20.0" stroke="#009900" stroke-width="1"/>
       <ellipse cx="-185.0" cy="506.0" fill="#0000ff" rx="20.0" ry="20.0" stroke="#009900" stroke-width="1"/>
@@ -190,12 +190,12 @@
       <text fill="#ffffff" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" transform="rotate(90.0,244.0,778.0)" x="244.0" y="803.0">A</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-287.0" y="457.0">&quot;Троллейбусы 3</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-288.0" y="476.0">&quot;Автобусы 56</text>
-      <polyline fill="none" marker-end="url(#id497)" points="-146.0,532.0 -232.0,532.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="-146.0,532.0 -232.0,532.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,234.0,323.0)" x="234.0" y="338.0">Троллейбус 13</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,216.0,309.0)" x="216.0" y="324.0">(к Коммунистической)</text>
-      <polyline fill="none" marker-end="url(#id497)" points="199.0,407.0 199.0,312.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="199.0,407.0 199.0,312.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,279.0,735.0)" x="279.0" y="750.0">&quot;Автобусы 56</text>
-      <polyline fill="none" marker-end="url(#id497)" points="251.0,729.0 327.0,729.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id784)" points="251.0,729.0 327.0,729.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,297.0,735.0)" x="297.0" y="750.0">&quot;Троллейбусы 3</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,-147.0,309.0)" x="-147.0" y="324.0">Рыночный комплекс</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,-162.0,345.0)" x="-162.0" y="360.0">'&quot;Омега&quot;'</text>

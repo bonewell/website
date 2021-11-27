@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="720.0" version="1.1" width="680.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id411" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id603" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -66,8 +66,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="616.0273957030035" x2="618.0273957030035" y1="404.9220899170605" y2="408.9220899170605"/>
       <line stroke="#ff0000" stroke-width="1" x1="612.5410935545053" x2="614.5410935545053" y1="406.8831348755907" y2="410.8831348755907"/>
       <line stroke="#ff0000" stroke-width="1" x1="609.0547914060071" x2="611.0547914060071" y1="408.84417983412095" y2="412.84417983412095"/>
-      <polyline fill="none" marker-end="url(#id411)" points="675.0,430.0 692.0,430.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id411)" points="692.0,320.0 675.0,320.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id603)" points="675.0,430.0 692.0,430.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id603)" points="692.0,320.0 675.0,320.0" stroke="#009900" stroke-width="1"/>
       <text fill="#009a49" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="-62.0" y="299.0">&lt;&lt; Площадь Александра Невского-I</text>
       <text fill="#009a49" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="230.0" y="465.0">Ломоносовская &gt;&gt;</text>
       <text fill="#009a49" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="84.0" y="383.0">Елизаровская</text>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="770.0" version="1.1" width="620.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id423" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id615" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -77,8 +77,8 @@
       <line stroke="#009900" stroke-width="1" x1="605.2565017814484" x2="609.2565017814484" y1="407.2760675240425" y2="403.2760675240425"/>
       <polyline fill="none" points="643.0,330.0 643.0,339.0 608.0,339.0 608.0,330.0" stroke="none" stroke-width="1"/>
       <text fill="none" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" x="613.0" y="338.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id423)" points="680.0,425.0 697.0,425.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id423)" points="586.0,273.0 586.0,289.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id615)" points="680.0,425.0 697.0,425.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id615)" points="586.0,273.0 586.0,289.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="467.0" y="220.0">улица Бабушкина</text>
     </g>
   </g>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="570.0" version="1.1" width="860.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id205" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id342" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -97,10 +97,10 @@
       <line stroke="#009900" stroke-width="1" x1="614.1318369763322" x2="610.1318369763322" y1="334.6366395543901" y2="333.6366395543901"/>
       <line stroke="#009900" stroke-width="1" x1="613.1438221559988" x2="609.1438221559988" y1="338.5126976956983" y2="337.5126976956983"/>
       <line stroke="#009900" stroke-width="1" x1="612.1558073356654" x2="608.1558073356654" y1="342.3887558370065" y2="341.3887558370065"/>
-      <polyline fill="none" marker-end="url(#id205)" points="768.0,258.0 785.0,258.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id205)" points="652.0,255.0 671.0,255.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id205)" points="785.0,298.0 768.0,298.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id205)" points="671.0,301.0 652.0,301.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id342)" points="768.0,258.0 785.0,258.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id342)" points="652.0,255.0 671.0,255.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id342)" points="785.0,298.0 768.0,298.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id342)" points="671.0,301.0 652.0,301.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#34349c" points="543.0,323.0 540.0,320.0 539.0,321.0 542.0,324.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="546.0,326.0 543.0,323.0 542.0,324.0 545.0,327.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,896.0,234.0)" x="896.0" y="249.0">пер. Хользунова</text>

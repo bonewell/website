@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="670.0" version="1.1" width="1100.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id246" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id383" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -223,28 +223,28 @@
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,1058.0,533.0)" x="1058.0" y="548.0">3-й проспект</text>
       <polygon fill="#34349c" points="148.0,325.0 148.0,321.0 149.0,321.0 149.0,325.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="148.0,329.0 148.0,325.0 149.0,325.0 149.0,329.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id246)" points="205.0,339.0 187.0,339.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id246)" points="866.0,342.0 880.0,342.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id246)" points="161.0,234.0 173.0,246.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id246)" points="904.0,233.0 894.0,243.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id383)" points="205.0,339.0 187.0,339.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id383)" points="866.0,342.0 880.0,342.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id383)" points="161.0,234.0 173.0,246.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id383)" points="904.0,233.0 894.0,243.0" stroke="#009900" stroke-width="1"/>
     </g>
     <g>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="128.0" y="342.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="56.0" y="322.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="118.0" y="-19.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="219.0" y="6.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="936.0" y="196.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="1018.0" y="214.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="926.0" y="555.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="852.0" y="533.0"/>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="136.0" y="368.0">1</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="64.0" y="348.0">2</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="126.0" y="7.0">3</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="227.0" y="32.0">4</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="944.0" y="222.0">5</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="1026.0" y="240.0">6</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="934.0" y="581.0">7</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="860.0" y="559.0">8</text>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="891.0" y="220.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="1048.0" y="267.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="978.0" y="536.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="822.0" y="487.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="177.0" y="318.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="19.0" y="275.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="62.0" y="2.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="244.0" y="47.0"/>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="899.0" y="246.0">1</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="1056.0" y="293.0">2</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="986.0" y="562.0">3</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="830.0" y="513.0">4</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="185.0" y="344.0">5</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="27.0" y="301.0">6</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="70.0" y="28.0">7</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="252.0" y="73.0">8</text>
     </g>
   </g>
 </svg>

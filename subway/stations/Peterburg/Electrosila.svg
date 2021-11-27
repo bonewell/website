@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="650.0" version="1.1" width="250.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id410" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id602" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -98,8 +98,8 @@
       <path d="M-153.0,260.0 C-153.0,260.0 -149.83333333333334,257.8333333333333 -153.0,260.0 C-156.16666666666666,262.1666666666667 -166.66666666666666,267.5 -172.0,273.0 C-177.33333333333334,278.5 -185.0,293.0 -185.0,293.0 " fill="none" stroke="none" stroke-width="1"/>
       <polyline fill="none" points="-153.0,260.0 -145.0,268.0" stroke="none" stroke-width="1"/>
       <text fill="none" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(135.0,-154.0,273.0)" x="-154.0" y="283.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id410)" points="-137.0,414.0 -137.0,395.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id410)" points="-98.0,394.0 -98.0,414.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id602)" points="-137.0,414.0 -137.0,395.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id602)" points="-98.0,394.0 -98.0,414.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-164.0" y="438.0">Московский пр.</text>
     </g>
   </g>

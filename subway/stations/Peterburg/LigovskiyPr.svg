@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="550.0" version="1.1" width="850.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id422" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id614" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -90,8 +90,8 @@
       <line stroke="#009900" stroke-width="1" x1="205.06749483200417" x2="207.06749483200417" y1="414.5337474160019" y2="410.5337474160019"/>
       <line stroke="#009900" stroke-width="1" x1="201.48978606800452" x2="203.48978606800452" y1="412.7448930340021" y2="408.7448930340021"/>
       <line stroke="#009900" stroke-width="1" x1="197.91207730400487" x2="199.91207730400487" y1="410.95603865200223" y2="406.95603865200223"/>
-      <polyline fill="none" marker-end="url(#id422)" points="131.0,386.0 117.0,378.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id422)" points="124.0,466.0 138.0,474.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id614)" points="131.0,386.0 117.0,378.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id614)" points="124.0,466.0 138.0,474.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="16.0" stroke="none" stroke-width="0" x="61.0" y="269.0">Транспортный переулок</text>
       <text fill="#00afaf" font-family="Arial" font-size="18.0" stroke="none" stroke-width="0" transform="rotate(-90.0,43.0,482.0)" x="43.0" y="500.0">Лиговский  проспект</text>
     </g>

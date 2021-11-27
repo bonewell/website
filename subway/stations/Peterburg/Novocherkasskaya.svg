@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="900.0" version="1.1" width="1200.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id430" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id622" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -257,8 +257,8 @@
       <line stroke="#009900" stroke-width="1" x1="390.0" x2="396.0" y1="332.0" y2="332.0"/>
       <line stroke="#009900" stroke-width="1" x1="390.0" x2="396.0" y1="336.0" y2="336.0"/>
       <line stroke="#009900" stroke-width="1" x1="390.0" x2="396.0" y1="340.0" y2="340.0"/>
-      <polyline fill="none" marker-end="url(#id430)" points="344.0,276.0 329.0,276.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id430)" points="328.0,330.0 345.0,330.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id622)" points="344.0,276.0 329.0,276.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id622)" points="328.0,330.0 345.0,330.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="26.0" y="301.0">Заневский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,435.0,666.0)" x="435.0" y="681.0">Новочеркасский проспект</text>
     </g>

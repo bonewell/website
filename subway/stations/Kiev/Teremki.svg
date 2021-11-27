@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="960.0" version="1.1" width="910.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id134" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id267" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -106,8 +106,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="141.0" x2="137.0" y1="633.0" y2="633.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="141.0" x2="137.0" y1="637.0" y2="637.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="141.0" x2="137.0" y1="641.0" y2="641.0"/>
-      <polyline fill="none" marker-end="url(#id134)" points="112.0,620.0 97.0,620.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id134)" points="97.0,556.0 112.0,556.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id267)" points="112.0,620.0 97.0,620.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id267)" points="97.0,556.0 112.0,556.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="682.0,629.0 682.0,618.0 680.0,618.0 680.0,611.0 735.0,611.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="735.0,567.0 680.0,567.0 680.0,560.0 682.0,560.0 682.0,549.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="895.0,288.0 840.0,288.0 840.0,669.0 895.0,669.0" stroke="#000000" stroke-width="1"/>
@@ -201,8 +201,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="773.0" x2="777.0" y1="545.0" y2="545.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="773.0" x2="777.0" y1="541.0" y2="541.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="773.0" x2="777.0" y1="537.0" y2="537.0"/>
-      <polyline fill="none" marker-end="url(#id134)" points="802.0,558.0 817.0,558.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id134)" points="817.0,622.0 802.0,622.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id267)" points="802.0,558.0 817.0,558.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id267)" points="817.0,622.0 802.0,622.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="328.0" y="420.0">проспект Академика Глушкова</text>
     </g>
   </g>

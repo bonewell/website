@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="920.0" version="1.1" width="1100.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id440" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id632" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -129,8 +129,8 @@
       <line stroke="#009900" stroke-width="1" x1="792.0" x2="792.0" y1="41.0" y2="46.0"/>
       <line stroke="#009900" stroke-width="1" x1="796.0" x2="796.0" y1="41.0" y2="46.0"/>
       <line stroke="#009900" stroke-width="1" x1="800.0" x2="800.0" y1="41.0" y2="46.0"/>
-      <polyline fill="none" marker-end="url(#id440)" points="700.0,56.0 683.0,56.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="857.0,55.0 841.0,55.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="700.0,56.0 683.0,56.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="857.0,55.0 841.0,55.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="733.0,662.0 743.0,662.0 743.0,600.0 751.0,600.0 751.0,662.0 753.0,662.0 753.0,664.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="793.0,664.0 793.0,662.0 795.0,662.0 795.0,600.0 803.0,600.0 803.0,662.0 813.0,662.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="713.0,710.0 713.0,701.0 753.0,701.0 753.0,664.0" stroke="#000000" stroke-width="1"/>
@@ -258,8 +258,8 @@
       <line stroke="#009900" stroke-width="1" x1="49.0" x2="54.0" y1="438.0" y2="438.0"/>
       <line stroke="#009900" stroke-width="1" x1="49.0" x2="54.0" y1="442.0" y2="442.0"/>
       <line stroke="#009900" stroke-width="1" x1="49.0" x2="54.0" y1="446.0" y2="446.0"/>
-      <polyline fill="none" marker-end="url(#id440)" points="50.0,290.0 50.0,275.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="25.0,275.0 25.0,290.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="50.0,290.0 50.0,275.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="25.0,275.0 25.0,290.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="713.0,733.0 713.0,742.0 823.0,742.0 838.0,741.0 851.0,738.0 852.0,741.0 874.0,733.0 873.0,730.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#ffffff" points="979.0,694.0 981.0,690.0 976.0,687.0 974.0,691.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#ffffff" points="983.0,655.0 980.0,647.0 975.0,649.0 978.0,657.0" stroke="#000000" stroke-width="1"/>
@@ -337,9 +337,9 @@
       <line stroke="#009900" stroke-width="1" x1="984.0" x2="987.0" y1="677.0" y2="679.0"/>
       <line stroke="#009900" stroke-width="1" x1="981.6750472251236" x2="984.6750472251236" y1="680.254933884827" y2="682.254933884827"/>
       <line stroke="#009900" stroke-width="1" x1="979.3500944502473" x2="982.3500944502473" y1="683.509867769654" y2="685.509867769654"/>
-      <polyline fill="none" marker-end="url(#id440)" points="938.0,589.0 927.0,593.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="954.0,583.0 965.0,579.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="1002.0,734.0 995.0,717.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="938.0,589.0 927.0,593.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="954.0,583.0 965.0,579.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="1002.0,734.0 995.0,717.0" stroke="#009900" stroke-width="1"/>
     </g>
     <g fill="#9b5509" fill-opacity="0.8" stroke="#009900" stroke-opacity="0.8" transform="rotate(10.0,550.0,460.0)">
       <polygon fill="#ffffff" points="702.0,414.0 734.0,414.0 734.0,446.0 702.0,446.0" stroke="#ffffff" stroke-width="1"/>
@@ -371,10 +371,10 @@
       <polyline fill="none" points="759.0,439.0 774.0,439.0 774.0,462.0" stroke="#000000" stroke-width="0.5"/>
       <polyline fill="none" points="679.0,438.0 656.0,438.0" stroke="#000000" stroke-width="0.5"/>
       <polyline fill="none" points="759.0,430.0 774.0,430.0" stroke="#000000" stroke-width="0.5"/>
-      <polyline fill="none" marker-end="url(#id440)" points="656.0,443.0 672.0,443.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="774.0,426.0 760.0,426.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="768.0,445.0 768.0,461.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id440)" points="672.0,426.0 657.0,426.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="656.0,443.0 672.0,443.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="774.0,426.0 760.0,426.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="768.0,445.0 768.0,461.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id632)" points="672.0,426.0 657.0,426.0" stroke="#000000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="7.0" y="207.0">Невский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="514.0" y="208.0">Невский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,638.0,151.0)" x="638.0" y="166.0">улица Восстания</text>

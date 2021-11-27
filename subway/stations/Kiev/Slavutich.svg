@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="280.0" version="1.1" width="760.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id128" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id261" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -86,8 +86,8 @@
       <polygon fill="#d0d0d0" points="364.0,172.0 364.0,179.0 357.0,179.0 357.0,172.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="337.0,172.0 337.0,179.0 330.0,179.0 330.0,172.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="310.0,172.0 310.0,179.0 303.0,179.0 303.0,172.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id128)" points="152.0,165.0 170.0,165.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id128)" points="170.0,112.0 152.0,112.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id261)" points="152.0,165.0 170.0,165.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id261)" points="170.0,112.0 152.0,112.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-5.0,31.0,143.0)" x="31.0" y="158.0">проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-5.0,9.0,157.0)" x="9.0" y="172.0">Миколы Бажана</text>
     </g>

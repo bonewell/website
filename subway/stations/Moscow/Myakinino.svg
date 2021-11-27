@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="940.0" version="1.1" width="440.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id242" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id379" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -151,10 +151,10 @@
       <ellipse cx="549.0" cy="323.0" fill="none" rx="4.0" ry="4.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="551.0,370.0 531.0,370.0" stroke="#000000" stroke-width="0.5"/>
       <polyline fill="none" points="531.0,318.0 549.0,318.0" stroke="#000000" stroke-width="0.5"/>
-      <polyline fill="none" marker-end="url(#id242)" points="543.0,400.0 551.0,400.0 551.0,384.0 543.0,384.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id242)" points="543.0,289.0 551.0,289.0 551.0,304.0 543.0,304.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id242)" points="563.0,296.0 563.0,283.0 549.0,283.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id242)" points="563.0,393.0 563.0,406.0 549.0,406.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="543.0,400.0 551.0,400.0 551.0,384.0 543.0,384.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="543.0,289.0 551.0,289.0 551.0,304.0 543.0,304.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="563.0,296.0 563.0,283.0 549.0,283.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="563.0,393.0 563.0,406.0 549.0,406.0" stroke="#009900" stroke-width="1"/>
     </g>
     <g fill="none" fill-opacity="0.8" stroke="#009900" stroke-opacity="0.8" transform="rotate(-90.0,220.0,470.0)">
       <polygon fill="none" points="54.0,311.0 53.0,311.0 53.0,378.0 54.0,378.0 63.0,365.0 67.0,355.0 69.0,342.0 66.0,330.0 61.0,320.0" stroke="#ffffff" stroke-width="1"/>
@@ -221,10 +221,10 @@
       <polygon fill="none" points="-19.0,341.0 -26.0,341.0 -26.0,348.0 -19.0,348.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="-22.0,376.0 -22.0,385.0" stroke="#000000" stroke-width="0.5"/>
       <polyline fill="none" points="-22.0,304.0 -22.0,313.0" stroke="#000000" stroke-width="0.5"/>
-      <polyline fill="none" marker-end="url(#id242)" points="-17.0,399.0 -32.0,399.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id242)" points="-17.0,290.0 -32.0,290.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id242)" points="-27.0,362.0 -13.0,362.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id242)" points="-27.0,327.0 -13.0,327.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="-17.0,399.0 -32.0,399.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="-17.0,290.0 -32.0,290.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="-27.0,362.0 -13.0,362.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id379)" points="-27.0,327.0 -13.0,327.0" stroke="#009900" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(90.0,-69.0,331.0)" x="-69.0" y="341.0">кассы</text>
       <text fill="#000000" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(90.0,25.0,325.0)" x="25.0" y="335.0">полиция</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-230.0" y="439.0">&lt;&lt; бульвар Строителей</text>
@@ -241,14 +241,14 @@
       <polyline fill="none" points="267.0,410.0 254.0,485.0 278.0,485.0 291.0,410.0 267.0,410.0" stroke="#ff4040" stroke-dasharray="5 2" stroke-width="1"/>
     </g>
     <g>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="41.0" y="901.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="135.0" y="909.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="298.0" y="207.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="203.0" y="13.0"/>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="49.0" y="927.0">1</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="143.0" y="935.0">2</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="306.0" y="233.0">3</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="211.0" y="39.0">4</text>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="202.0" y="5.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="299.0" y="191.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="139.0" y="909.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="246.0" y="411.0"/>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="210.0" y="31.0">1</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="307.0" y="217.0">2</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="147.0" y="935.0">3</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="254.0" y="437.0">4</text>
     </g>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="940.0" version="1.1" width="960.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id536" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id990" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -353,7 +353,7 @@
       <text fill="#00699c" font-family="Arial" font-size="16.0" stroke="none" stroke-width="0" x="300.0" y="605.0">пр-т им. Ленина</text>
       <text fill="#00699c" font-family="Arial" font-size="16.0" stroke="none" stroke-width="0" x="303.0" y="340.0">пр-т им. Ленина</text>
       <text fill="#00699c" font-family="Arial" font-size="16.0" stroke="none" stroke-width="0" transform="rotate(90.0,-102.0,422.0)" x="-102.0" y="438.0">Аллея героев</text>
-      <polyline fill="none" marker-end="url(#id536)" points="506.0,524.0 518.0,524.0" stroke="#00699c" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id990)" points="506.0,524.0 518.0,524.0" stroke="#00699c" stroke-width="1"/>
       <text fill="#00699c" font-family="Arial" font-size="8.0" stroke="none" stroke-width="0" transform="rotate(90.0,558.0,413.0)" x="558.0" y="421.0">Выход</text>
       <text fill="#00699c" font-family="Arial" font-size="8.0" stroke="none" stroke-width="0" transform="rotate(90.0,583.0,407.0)" x="583.0" y="415.0">Нет входа</text>
       <text fill="#00699c" font-family="Arial" font-size="8.0" stroke="none" stroke-width="0" transform="rotate(90.0,583.0,495.0)" x="583.0" y="503.0">Вход</text>

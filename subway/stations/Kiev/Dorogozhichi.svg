@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="500.0" version="1.1" width="1310.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id90" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id223" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -215,10 +215,10 @@
       <line stroke="#009900" stroke-width="1" x1="362.0" x2="366.0" y1="299.0" y2="299.0"/>
       <line stroke="#009900" stroke-width="1" x1="362.0" x2="366.0" y1="303.0" y2="303.0"/>
       <line stroke="#009900" stroke-width="1" x1="362.0" x2="366.0" y1="307.0" y2="307.0"/>
-      <polyline fill="none" marker-end="url(#id90)" points="324.0,252.0 309.0,252.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id90)" points="179.0,246.0 164.0,246.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id90)" points="164.0,306.0 179.0,306.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id90)" points="310.0,300.0 325.0,300.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id223)" points="324.0,252.0 309.0,252.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id223)" points="179.0,246.0 164.0,246.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id223)" points="164.0,306.0 179.0,306.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id223)" points="310.0,300.0 325.0,300.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="228.0" y="449.0">ул. Мельникова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,34.0,339.0)" x="34.0" y="354.0">ул. Елены Телиги</text>
     </g>

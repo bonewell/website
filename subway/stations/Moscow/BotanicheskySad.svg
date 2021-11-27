@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1300.0" version="1.1" width="1430.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id186" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id323" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -493,8 +493,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="189.7614694046164" x2="192.7614694046164" y1="914.351683380094" y2="911.351683380094"/>
       <line stroke="#ff0000" stroke-width="1" x1="186.84607711624045" x2="189.84607711624045" y1="911.6129815334377" y2="908.6129815334377"/>
       <line stroke="#ff0000" stroke-width="1" x1="183.9306848278645" x2="186.9306848278645" y1="908.8742796867815" y2="905.8742796867815"/>
-      <polyline fill="none" marker-end="url(#id186)" points="164.0,948.0 155.0,957.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id186)" points="186.0,871.0 196.0,881.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id323)" points="164.0,948.0 155.0,957.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id323)" points="186.0,871.0 196.0,881.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="924.0,862.0 924.0,882.0 1103.0,882.0 1103.0,888.0 1147.0,888.0 1147.0,861.0 1213.0,861.0 1213.0,833.0 1124.0,833.0 1096.0,767.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="924.0,941.0 924.0,921.0 1102.0,921.0 1102.0,915.0 1147.0,915.0 1147.0,942.0 1236.0,942.0 1236.0,833.0 1420.0,833.0 1441.0,824.0 1455.0,857.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="1119.0,757.0 1141.0,809.0 1413.0,809.0 1431.0,801.0 1417.0,768.0" stroke="#000000" stroke-width="1"/>
@@ -550,16 +550,16 @@
       <line stroke="#009900" stroke-width="1" x1="1173.801914444265" x2="1176.801914444265" y1="911.6964783833171" y2="910.6964783833171"/>
       <line stroke="#009900" stroke-width="1" x1="1175.1022335183093" x2="1178.1022335183093" y1="915.4792247805366" y2="914.4792247805366"/>
       <line stroke="#009900" stroke-width="1" x1="1176.4025525923535" x2="1179.4025525923535" y1="919.2619711777561" y2="918.2619711777561"/>
-      <polyline fill="none" marker-end="url(#id186)" points="1198.0,935.0 1212.0,935.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id186)" points="1176.0,896.0 1162.0,901.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id323)" points="1198.0,935.0 1212.0,935.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id323)" points="1176.0,896.0 1162.0,901.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(62.0,1227.0,404.0)" x="1227.0" y="419.0">проезд Серебрякова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(72.0,933.0,-199.0)" x="933.0" y="-184.0">к Березовой аллее</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-22.0,1352.0,1083.0)" x="1352.0" y="1098.0">Снежная улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(86.0,585.0,1036.0)" x="585.0" y="1051.0">улица Леонова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(155.0,269.0,436.0)" x="269.0" y="451.0">улица Вильгельма Пика</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(138.0,1103.0,-148.0)" x="1103.0" y="-133.0">1-й Ботанический пр-д</text>
-      <polyline fill="none" marker-end="url(#id186)" points="1189.0,359.0 1178.0,338.0" stroke="#00afaf" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id186)" points="1025.0,416.0 1034.0,435.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id323)" points="1189.0,359.0 1178.0,338.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id323)" points="1025.0,416.0 1034.0,435.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#707070" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(73.0,909.0,551.0)" x="909.0" y="566.0">Окружная ж.д.</text>
     </g>
     <g>

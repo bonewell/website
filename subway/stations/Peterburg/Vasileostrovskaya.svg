@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="530.0" version="1.1" width="870.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id461" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id653" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -89,8 +89,8 @@
       <line stroke="#009900" stroke-width="1" x1="700.0" x2="706.0" y1="356.0" y2="356.0"/>
       <line stroke="#009900" stroke-width="1" x1="700.0" x2="706.0" y1="360.0" y2="360.0"/>
       <line stroke="#009900" stroke-width="1" x1="700.0" x2="706.0" y1="364.0" y2="364.0"/>
-      <polyline fill="none" marker-end="url(#id461)" points="678.0,212.0 674.0,185.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id461)" points="813.0,228.0 790.0,241.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id653)" points="678.0,212.0 674.0,185.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id653)" points="813.0,228.0 790.0,241.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="422.0" y="108.0">Средний проспект В.О.</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,885.0,345.0)" x="885.0" y="360.0">Андреевский бульвар</text>
     </g>

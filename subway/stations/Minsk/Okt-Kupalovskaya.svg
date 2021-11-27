@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1250.0" version="1.1" width="1160.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id62" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id145" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -317,10 +317,10 @@
       <polyline fill="none" points="506.0,798.0 475.0,798.0" stroke="#d0d0d0" stroke-width="1"/>
       <polyline fill="none" points="506.0,840.0 475.0,840.0" stroke="#d0d0d0" stroke-width="1"/>
       <polyline fill="none" points="451.0,799.0 451.0,839.0" stroke="#d0d0d0" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id62)" points="257.0,324.0 257.0,343.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id62)" points="258.0,666.0 258.0,647.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id62)" points="168.0,343.0 168.0,324.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id62)" points="168.0,647.0 168.0,666.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id145)" points="257.0,324.0 257.0,343.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id145)" points="258.0,666.0 258.0,647.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id145)" points="168.0,343.0 168.0,324.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id145)" points="168.0,647.0 168.0,666.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1109.0" y="500.0">проспект Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1.0" y="515.0">проспект Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="594.0" y="1085.0">улица Карла Маркса</text>

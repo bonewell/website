@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="800.0" version="1.1" width="900.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id107" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id240" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -154,8 +154,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="53.0" x2="49.0" y1="380.0" y2="380.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="53.0" x2="49.0" y1="384.0" y2="384.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="53.0" x2="49.0" y1="388.0" y2="388.0"/>
-      <polyline fill="none" marker-end="url(#id107)" points="458.0,383.0 441.0,383.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id107)" points="441.0,408.0 458.0,408.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id240)" points="458.0,383.0 441.0,383.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id240)" points="441.0,408.0 458.0,408.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-65.0,-100.0,431.0)" x="-100.0" y="446.0">Макдональдс</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-21.0" y="300.0">ул. Мельникова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="160.0" y="334.0">Лукьяновская площадь</text>

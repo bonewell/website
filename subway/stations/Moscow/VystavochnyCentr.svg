@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="550.0" version="1.1" width="750.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id337" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id474" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -49,8 +49,8 @@
       <polygon fill="#9b5509" points="433.0,166.0 433.0,171.0 547.0,171.0 547.0,166.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#9b5509" points="433.0,179.0 433.0,184.0 547.0,184.0 547.0,179.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#9b5509" points="433.0,192.0 547.0,192.0 547.0,195.0 433.0,195.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id337)" points="473.0,145.0 514.0,145.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id337)" points="513.0,206.0 474.0,206.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id474)" points="473.0,145.0 514.0,145.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id474)" points="513.0,206.0 474.0,206.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="373.0,479.0 335.0,479.0 335.0,487.0 283.0,487.0 283.0,479.0 256.0,479.0 256.0,344.0 283.0,344.0 283.0,336.0 335.0,336.0 335.0,344.0 373.0,344.0 373.0,324.0 233.0,324.0 233.0,499.0 373.0,499.0 373.0,479.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="315.0,454.0 414.0,454.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="315.0,366.0 414.0,366.0" stroke="#000000" stroke-width="1"/>
@@ -62,8 +62,8 @@
       <polyline fill="none" points="373.0,327.0 411.0,327.0 411.0,366.0" stroke="#777777" stroke-width="1"/>
       <polyline fill="none" points="373.0,330.0 408.0,330.0 408.0,366.0" stroke="#777777" stroke-width="1"/>
       <polyline fill="none" points="373.0,333.0 405.0,333.0 405.0,366.0" stroke="#777777" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id337)" points="425.0,412.0 396.0,412.0" stroke="#777777" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id337)" points="455.0,176.0 425.0,176.0" stroke="#777777" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id474)" points="425.0,412.0 396.0,412.0" stroke="#777777" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id474)" points="455.0,176.0 425.0,176.0" stroke="#777777" stroke-width="1"/>
       <polyline fill="none" points="425.0,176.0 425.0,176.0 425.0,412.0 425.0,412.0" stroke="#777777" stroke-dasharray="5 2" stroke-width="1"/>
       <line stroke="#7f7f7f" stroke-width="1" x1="380.0" x2="380.0" y1="429.0" y2="395.0"/>
       <line stroke="#7f7f7f" stroke-width="1" x1="384.0" x2="384.0" y1="429.0" y2="395.0"/>
@@ -117,8 +117,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="323.0" x2="317.0" y1="370.0" y2="370.0"/>
       <polygon fill="#ffffff" points="256.0,391.0 241.0,391.0 241.0,435.0 256.0,435.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="14.0" stroke="none" stroke-width="0" transform="rotate(90.0,258.0,394.0)" x="258.0" y="408.0">Кассы</text>
-      <polyline fill="none" marker-end="url(#id337)" points="303.0,387.0 284.0,387.0 284.0,354.0 360.0,354.0 385.0,354.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id337)" points="385.0,467.0 284.0,467.0 284.0,433.0 305.0,433.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id474)" points="303.0,387.0 284.0,387.0 284.0,354.0 360.0,354.0 385.0,354.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id474)" points="385.0,467.0 284.0,467.0 284.0,433.0 305.0,433.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,734.0,263.0)" x="734.0" y="278.0">1-ый Поперечный проезд</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="322.0" y="596.0">1-ый Продольный проезд</text>
     </g>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="530.0" version="1.1" width="590.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id305" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id442" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -48,8 +48,8 @@
     <polygon fill="#9b5509" points="189.0,107.0 189.0,112.0 75.0,112.0 75.0,107.0" stroke="#000000" stroke-width="1"/>
     <polygon fill="#9b5509" points="189.0,120.0 189.0,125.0 75.0,125.0 75.0,120.0" stroke="#000000" stroke-width="1"/>
     <polygon fill="#9b5509" points="189.0,133.0 75.0,133.0 75.0,136.0 189.0,136.0" stroke="#000000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id305)" points="149.0,86.0 108.0,86.0" stroke="#ff0000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id305)" points="109.0,147.0 148.0,147.0" stroke="#009900" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id442)" points="149.0,86.0 108.0,86.0" stroke="#ff0000" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id442)" points="109.0,147.0 148.0,147.0" stroke="#009900" stroke-width="1"/>
     <polygon fill="#bbbbbb" points="249.0,420.0 287.0,420.0 287.0,428.0 339.0,428.0 339.0,420.0 366.0,420.0 366.0,285.0 339.0,285.0 339.0,277.0 287.0,277.0 287.0,285.0 249.0,285.0 249.0,265.0 389.0,265.0 389.0,440.0 249.0,440.0 249.0,420.0" stroke="#000000" stroke-width="1"/>
     <polyline fill="none" points="307.0,395.0 208.0,395.0" stroke="#000000" stroke-width="1"/>
     <polyline fill="none" points="307.0,307.0 208.0,307.0" stroke="#000000" stroke-width="1"/>
@@ -61,8 +61,8 @@
     <polyline fill="none" points="249.0,268.0 211.0,268.0 211.0,307.0" stroke="#777777" stroke-width="1"/>
     <polyline fill="none" points="249.0,271.0 214.0,271.0 214.0,307.0" stroke="#777777" stroke-width="1"/>
     <polyline fill="none" points="249.0,274.0 217.0,274.0 217.0,307.0" stroke="#777777" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id305)" points="197.0,353.0 226.0,353.0" stroke="#777777" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id305)" points="167.0,117.0 197.0,117.0" stroke="#777777" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id442)" points="197.0,353.0 226.0,353.0" stroke="#777777" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id442)" points="167.0,117.0 197.0,117.0" stroke="#777777" stroke-width="1"/>
     <polyline fill="none" points="197.0,117.0 197.0,117.0 197.0,353.0 197.0,353.0" stroke="#777777" stroke-dasharray="5 2" stroke-width="1"/>
     <line stroke="#7f7f7f" stroke-width="1" x1="242.0" x2="242.0" y1="370.0" y2="336.0"/>
     <line stroke="#7f7f7f" stroke-width="1" x1="238.0" x2="238.0" y1="370.0" y2="336.0"/>
@@ -118,8 +118,8 @@
     <polyline fill="none" points="232.0,333.0 232.0,307.0" stroke="#000000" stroke-width="1"/>
     <polygon fill="#ffffff" points="366.0,332.0 381.0,332.0 381.0,376.0 366.0,376.0" stroke="#000000" stroke-width="1"/>
     <text fill="#000000" font-family="Arial" font-size="14.0" stroke="none" stroke-width="0" transform="rotate(-90.0,365.0,372.0)" x="365.0" y="386.0">Кассы</text>
-    <polyline fill="none" marker-end="url(#id305)" points="319.0,328.0 338.0,328.0 338.0,295.0 262.0,295.0 237.0,295.0" stroke="#ff0000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id305)" points="237.0,408.0 338.0,408.0 338.0,374.0 317.0,374.0" stroke="#009900" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id442)" points="319.0,328.0 338.0,328.0 338.0,295.0 262.0,295.0 237.0,295.0" stroke="#ff0000" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id442)" points="237.0,408.0 338.0,408.0 338.0,374.0 317.0,374.0" stroke="#009900" stroke-width="1"/>
     <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="313.0" y="521.0">ул. Академика Королёва</text>
     <rect fill="none" height="15.0" stroke="none" stroke-width="0" width="180.0" x="407.0" y="-405.0"/>
     <text fill="#040464" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" x="407.0" y="-395.0">'Схема перехода к станции метро &quot;ВДНХ&quot;'</text>

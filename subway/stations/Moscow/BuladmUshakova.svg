@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="670.0" version="1.1" width="1010.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id189" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id326" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -73,10 +73,10 @@
       <line stroke="#ff0000" stroke-width="1" x1="109.12857262947001" x2="112.12857262947003" y1="250.69117523436898" y2="253.69117523436898"/>
       <line stroke="#ff0000" stroke-width="1" x1="106.34142989241701" x2="109.34142989241703" y1="253.56029275780588" y2="256.5602927578059"/>
       <line stroke="#ff0000" stroke-width="1" x1="103.55428715536401" x2="106.55428715536402" y1="256.4294102812428" y2="259.4294102812428"/>
-      <polyline fill="none" marker-end="url(#id189)" points="76.0,236.0 62.0,236.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id189)" points="183.0,272.0 168.0,272.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id189)" points="62.0,314.0 76.0,314.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id189)" points="168.0,315.0 183.0,315.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id326)" points="76.0,236.0 62.0,236.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id326)" points="183.0,272.0 168.0,272.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id326)" points="62.0,314.0 76.0,314.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id326)" points="168.0,315.0 183.0,315.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#d0efff" points="695.0,265.0 722.0,265.0 722.0,322.0 695.0,322.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,718.0,274.0)" x="718.0" y="289.0">лифты</text>
       <polygon fill="#34349c" points="123.0,342.0 123.0,340.0 128.0,340.0 128.0,342.0" stroke="#34349c" stroke-width="1"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1250.0" version="1.1" width="1420.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id70" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id153" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -238,10 +238,10 @@
       <line stroke="#000000" stroke-width="1" x1="232.34240405077858" x2="214.34240405077858" y1="658.9455756953286" y2="655.9455756953286"/>
       <line stroke="#000000" stroke-width="1" x1="231.68480810155717" x2="213.68480810155717" y1="662.8911513906571" y2="659.8911513906571"/>
       <line stroke="#000000" stroke-width="1" x1="231.02721215233575" x2="213.02721215233575" y1="666.8367270859857" y2="663.8367270859857"/>
-      <polyline fill="none" marker-end="url(#id70)" points="1261.0,709.0 1278.0,709.0 1278.0,743.0 1258.0,743.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id70)" points="653.0,665.0 614.0,665.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id70)" points="1257.0,649.0 1277.0,649.0 1277.0,683.0 1260.0,683.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id70)" points="623.0,725.0 661.0,725.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="1261.0,709.0 1278.0,709.0 1278.0,743.0 1258.0,743.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="653.0,665.0 614.0,665.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="1257.0,649.0 1277.0,649.0 1277.0,683.0 1260.0,683.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="623.0,725.0 661.0,725.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1317.0" y="705.0">пр.Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="78.0" y="591.0">пр.Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,1414.0,567.0)" x="1414.0" y="582.0">пр.Машерова</text>
@@ -249,16 +249,16 @@
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,512.0,279.0)" x="512.0" y="294.0">ул.Киселёва</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1209.0" y="867.0">Посадка на трамваи в сторону</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1209.0" y="884.0">Комсомольского озера</text>
-      <polyline fill="none" marker-end="url(#id70)" points="1207.0,889.0 1430.0,889.0 1430.0,923.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="1207.0,889.0 1430.0,889.0 1430.0,923.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1199.0" y="512.0">Посадка на трамваи в сторону</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1199.0" y="527.0">тракторного завода</text>
-      <polyline fill="none" marker-end="url(#id70)" points="1204.0,530.0 1403.0,530.0 1403.0,487.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="1204.0,530.0 1403.0,530.0 1403.0,487.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,217.0,511.0)" x="217.0" y="526.0">Монумент Победы</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,99.0,249.0)" x="99.0" y="264.0">Коммунистическая ул.</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="210.0" y="366.0">парк им.Янки Купалы</text>
-      <polyline fill="none" marker-end="url(#id70)" points="280.0,374.0 172.0,374.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="280.0,374.0 172.0,374.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="156.0" y="869.0">парк им.Горького</text>
-      <polyline fill="none" marker-end="url(#id70)" points="227.0,879.0 121.0,879.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id153)" points="227.0,879.0 121.0,879.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,421.0,936.0)" x="421.0" y="951.0">ул. Захарова</text>
       <path d="M189.0,525.0 C189.0,525.0 184.33333333333334,529.8333333333334 189.0,525.0 C193.66666666666666,520.1666666666666 205.66666666666666,502.5 217.0,496.0 C228.33333333333334,489.5 243.83333333333334,485.6666666666667 257.0,486.0 C270.1666666666667,486.3333333333333 285.3333333333333,491.1666666666667 296.0,498.0 C306.6666666666667,504.8333333333333 321.0,527.0 321.0,527.0 " fill="none" stroke="#00afaf" stroke-width="1"/>
       <polyline fill="none" points="321.0,520.0 321.0,527.0 314.0,526.0" stroke="#00afaf" stroke-width="1"/>

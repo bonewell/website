@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="960.0" version="1.1" width="360.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id437" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id629" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -98,9 +98,9 @@
       <line stroke="#009900" stroke-width="1" x1="480.3249331520013" x2="478.3249331520013" y1="483.6767628413022" y2="477.6767628413022"/>
       <line stroke="#009900" stroke-width="1" x1="476.4721479466681" x2="474.4721479466681" y1="484.751958712558" y2="478.751958712558"/>
       <line stroke="#009900" stroke-width="1" x1="472.6193627413349" x2="470.6193627413349" y1="485.8271545838138" y2="479.8271545838138"/>
-      <polyline fill="none" marker-end="url(#id437)" points="482.0,423.0 482.0,407.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id437)" points="381.0,528.0 395.0,533.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id437)" points="531.0,532.0 515.0,532.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id629)" points="482.0,423.0 482.0,407.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id629)" points="381.0,528.0 395.0,533.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id629)" points="531.0,532.0 515.0,532.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-70.0,260.0,660.0)" x="260.0" y="675.0">проспект Испытателей</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="318.0" y="379.0">Коломяжский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,629.0,585.0)" x="629.0" y="600.0">Богатырский проспект</text>

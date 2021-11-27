@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="420.0" version="1.1" width="500.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id292" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id429" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -109,11 +109,11 @@
       <line stroke="#000000" stroke-width="1" x1="413.0" x2="413.0" y1="215.0" y2="240.0"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-75.0,277.0,147.0)" x="277.0" y="162.0">Смоленская площадь</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-75.0,295.0,135.0)" x="295.0" y="150.0">(Садовое кольцо)</text>
-      <polyline fill="none" marker-end="url(#id292)" points="129.0,183.0 129.0,169.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id292)" points="129.0,42.0 108.0,36.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id292)" points="225.0,107.0 228.0,96.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id292)" points="205.0,62.0 182.0,56.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id292)" points="149.0,169.0 149.0,183.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id429)" points="129.0,183.0 129.0,169.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id429)" points="129.0,42.0 108.0,36.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id429)" points="225.0,107.0 228.0,96.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id429)" points="205.0,62.0 182.0,56.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id429)" points="149.0,169.0 149.0,183.0" stroke="#009900" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="148.0" y="236.0">Смоленская</text>
       <text fill="#ffffff" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="146.0" y="234.0">Смоленская</text>
       <text fill="#2c7cac" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="18.0" y="153.0">&lt;&lt; Киевская</text>

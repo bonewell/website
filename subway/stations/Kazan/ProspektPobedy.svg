@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="680.0" version="1.1" width="680.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id8" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id50" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -90,8 +90,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="58.0" x2="53.0" y1="388.0" y2="388.0"/>
       <polygon fill="#d0efff" points="70.0,351.0 85.0,351.0 85.0,366.0 70.0,366.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="6.0" stroke="none" stroke-width="0" transform="rotate(-90.0,73.0,365.0)" x="73.0" y="371.0">лифт</text>
-      <polyline fill="none" marker-end="url(#id8)" points="90.0,380.0 111.0,380.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id8)" points="111.0,294.0 90.0,294.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id50)" points="90.0,380.0 111.0,380.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id50)" points="111.0,294.0 90.0,294.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#fefbf1" points="599.0,439.0 524.0,439.0 524.0,503.0 599.0,503.0" stroke="#dddddd" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="545.0,485.0 542.0,485.0 542.0,439.0 599.0,439.0 599.0,443.0 545.0,443.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="599.0,461.0 563.0,461.0 563.0,503.0 599.0,503.0" stroke="#d0d0d0" stroke-width="1"/>
@@ -211,8 +211,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="666.0" x2="666.0" y1="304.0" y2="309.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="670.0" x2="670.0" y1="304.0" y2="309.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="674.0" x2="674.0" y1="304.0" y2="309.0"/>
-      <polyline fill="none" marker-end="url(#id8)" points="566.0,292.0 545.0,292.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id8)" points="545.0,378.0 566.0,378.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id50)" points="566.0,292.0 545.0,292.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id50)" points="545.0,378.0 566.0,378.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-107.0" y="330.0">улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-128.0" y="347.0">Рихарда Зорге</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="739.0" y="329.0">улица</text>

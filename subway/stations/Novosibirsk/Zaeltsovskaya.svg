@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="900.0" version="1.1" width="810.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id484" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id678" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -437,10 +437,10 @@
     <text fill="#fff000" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="701.0" y="409.0">А</text>
     <text fill="#fff000" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="354.0" y="848.0">А</text>
     <text fill="#fff000" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="760.0" y="439.0">Т</text>
-    <polyline fill="none" marker-end="url(#id484)" points="389.0,119.0 389.0,103.0" stroke="#ff0000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id484)" points="312.0,718.0 312.0,731.0" stroke="#ff0000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id484)" points="322.0,120.0 333.0,131.0" stroke="#009900" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id484)" points="365.0,711.0 356.0,702.0" stroke="#009900" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id678)" points="389.0,119.0 389.0,103.0" stroke="#ff0000" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id678)" points="312.0,718.0 312.0,731.0" stroke="#ff0000" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id678)" points="322.0,120.0 333.0,131.0" stroke="#009900" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id678)" points="365.0,711.0 356.0,702.0" stroke="#009900" stroke-width="1"/>
     <g fill="none" fill-opacity="0.2" stroke="#009900" stroke-opacity="0.2" transform="rotate(0.0,405.0,450.0)">
       <ellipse cx="346.0" cy="429.0" fill="#ffffff" rx="150.0" ry="150.0" stroke="#000000" stroke-width="1"/>
       <line stroke="#000000" stroke-width="1" x1="796.0" x2="596.0" y1="424.0" y2="424.0"/>

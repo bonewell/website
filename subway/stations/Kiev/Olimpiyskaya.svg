@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="820.0" version="1.1" width="480.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id113" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id246" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -205,10 +205,10 @@
       <polygon fill="#d0d0d0" points="467.0,433.0 467.0,475.0 480.0,475.0 480.0,470.0 470.0,470.0 470.0,438.0 480.0,438.0 480.0,433.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="470.0,438.0 480.0,438.0 480.0,470.0 470.0,470.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(-270.0,481.0,441.0)" x="481.0" y="451.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id113)" points="486.0,488.0 460.0,488.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id113)" points="300.0,543.0 319.0,543.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id113)" points="460.0,420.0 486.0,420.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id113)" points="319.0,563.0 300.0,563.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id246)" points="486.0,488.0 460.0,488.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id246)" points="300.0,543.0 319.0,543.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id246)" points="460.0,420.0 486.0,420.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id246)" points="319.0,563.0 300.0,563.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,642.0,511.0)" x="642.0" y="526.0">Троицкая площадь</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,253.0,341.0)" x="253.0" y="356.0">улица Физкультуры</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,207.0,335.0)" x="207.0" y="350.0">Киевский планетарий</text>
