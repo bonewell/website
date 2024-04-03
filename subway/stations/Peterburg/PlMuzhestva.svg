@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="830.0" version="1.1" width="540.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id439" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id631" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -59,10 +59,10 @@
       <line stroke="#009900" stroke-width="1" x1="56.0" x2="62.0" y1="540.0" y2="540.0"/>
       <line stroke="#009900" stroke-width="1" x1="56.0" x2="62.0" y1="544.0" y2="544.0"/>
       <line stroke="#009900" stroke-width="1" x1="56.0" x2="62.0" y1="548.0" y2="548.0"/>
-      <polyline fill="none" marker-end="url(#id439)" points="46.0,470.0 46.0,458.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id439)" points="33.0,555.0 33.0,567.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id439)" points="32.0,458.0 32.0,470.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id439)" points="44.0,567.0 44.0,555.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id631)" points="46.0,470.0 46.0,458.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id631)" points="33.0,555.0 33.0,567.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id631)" points="32.0,458.0 32.0,470.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id631)" points="44.0,567.0 44.0,555.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(80.0,-84.0,218.0)" x="-84.0" y="233.0">площадь Мужества</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="104.0" y="377.0">Политехническая улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,-90.0,456.0)" x="-90.0" y="471.0">проспект Непокоренных</text>

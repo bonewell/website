@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="770.0" version="1.1" width="650.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id201" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id338" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -80,9 +80,9 @@
       <line stroke="#009900" stroke-width="1" x1="565.0" x2="561.0" y1="425.0" y2="425.0"/>
       <line stroke="#009900" stroke-width="1" x1="565.0" x2="561.0" y1="421.0" y2="421.0"/>
       <line stroke="#009900" stroke-width="1" x1="565.0" x2="561.0" y1="417.0" y2="417.0"/>
-      <polyline fill="none" marker-end="url(#id201)" points="525.0,450.0 536.0,462.0 526.0,480.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id201)" points="534.0,399.0 518.0,399.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id201)" points="631.0,410.0 611.0,410.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id338)" points="525.0,450.0 536.0,462.0 526.0,480.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id338)" points="534.0,399.0 518.0,399.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id338)" points="631.0,410.0 611.0,410.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(35.0,495.0,42.0)" x="495.0" y="57.0">улица Большая Сёменовская</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(50.0,225.0,584.0)" x="225.0" y="599.0">платформа Электрозаводская</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(50.0,215.0,595.0)" x="215.0" y="610.0">Казанского направления ж/д</text>

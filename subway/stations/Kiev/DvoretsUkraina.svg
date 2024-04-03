@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="750.0" version="1.1" width="580.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id93" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id226" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -134,10 +134,10 @@
       <line stroke="#000000" stroke-width="1" x1="365.0" x2="365.0" y1="491.0" y2="509.0"/>
       <line stroke="#000000" stroke-width="1" x1="361.0" x2="361.0" y1="491.0" y2="509.0"/>
       <polygon fill="#d0d0d0" points="513.0,335.0 513.0,279.0 526.0,279.0 526.0,335.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id93)" points="325.0,297.0 344.0,297.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id93)" points="530.0,261.0 511.0,261.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id93)" points="344.0,317.0 325.0,317.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id93)" points="511.0,353.0 530.0,353.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id226)" points="325.0,297.0 344.0,297.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id226)" points="530.0,261.0 511.0,261.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id226)" points="344.0,317.0 325.0,317.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id226)" points="511.0,353.0 530.0,353.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="419.0" y="464.0">Красноармейская улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,110.0,596.0)" x="110.0" y="611.0">улица Тельмана</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,158.0,179.0)" x="158.0" y="194.0">улица Тельмана</text>

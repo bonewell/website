@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="630.0" version="1.1" width="1030.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id96" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id229" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -176,8 +176,8 @@
       <polygon fill="#d0efff" points="492.0,268.0 507.0,268.0 507.0,283.0 492.0,283.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="6.0" stroke="none" stroke-width="0" x="493.0" y="278.0">лифт</text>
       <text fill="#000000" font-family="Arial" font-size="6.0" stroke="none" stroke-width="0" x="583.0" y="415.0">лифт</text>
-      <polyline fill="none" marker-end="url(#id96)" points="615.0,322.0 593.0,322.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id96)" points="593.0,229.0 615.0,229.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id229)" points="615.0,322.0 593.0,322.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id229)" points="593.0,229.0 615.0,229.0" stroke="#ff0000" stroke-width="1"/>
       <polyline fill="none" points="12.0,292.0 7.0,259.0" stroke="#ff0000" stroke-width="1"/>
       <polyline fill="none" points="12.0,259.0 7.0,292.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-32.0,888.0,424.0)" x="888.0" y="439.0">проспект 40-летия Октября</text>

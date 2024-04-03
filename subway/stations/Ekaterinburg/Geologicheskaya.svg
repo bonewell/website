@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="740.0" version="1.1" width="650.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id494" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id781" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -192,8 +192,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="576.1699590543044" x2="572.1699590543044" y1="481.99217012183493" y2="481.99217012183493"/>
       <line stroke="#ff0000" stroke-width="1" x1="576.0945007865139" x2="572.0945007865139" y1="485.991458314729" y2="485.991458314729"/>
       <line stroke="#ff0000" stroke-width="1" x1="576.0190425187234" x2="572.0190425187234" y1="489.9907465076231" y2="489.9907465076231"/>
-      <polyline fill="none" marker-end="url(#id494)" points="544.0,460.0 560.0,460.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id494)" points="598.0,395.0 582.0,401.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id781)" points="544.0,460.0 560.0,460.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id781)" points="598.0,395.0 582.0,401.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,320.0,693.0)" x="320.0" y="708.0">улица Куйбышева</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="498.0" y="257.0">улица 8-го марта</text>
     </g>

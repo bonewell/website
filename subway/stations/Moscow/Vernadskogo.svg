@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1060.0" version="1.1" width="850.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id327" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id464" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -118,8 +118,8 @@
       <line stroke="#009900" stroke-width="1" x1="130.53445505421436" x2="133.53445505421436" y1="473.8865984522555" y2="471.8865984522555"/>
       <line stroke="#009900" stroke-width="1" x1="128.23675205782865" x2="131.23675205782865" y1="470.61237168240586" y2="468.61237168240586"/>
       <line stroke="#009900" stroke-width="1" x1="125.93904906144293" x2="128.93904906144294" y1="467.33814491255623" y2="465.33814491255623"/>
-      <polyline fill="none" marker-end="url(#id327)" points="96.0,441.0 81.0,441.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id327)" points="113.0,534.0 126.0,525.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id464)" points="96.0,441.0 81.0,441.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id464)" points="113.0,534.0 126.0,525.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#34349c" points="179.0,525.0 183.0,525.0 183.0,526.0 179.0,526.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="175.0,525.0 179.0,525.0 179.0,526.0 175.0,526.0" stroke="#ff0000" stroke-width="1"/>
       <polyline fill="none" points="689.0,449.0 690.0,466.0 740.0,466.0 740.0,435.0 867.0,435.0 867.0,425.0 927.0,425.0 927.0,435.0" stroke="#000000" stroke-width="1"/>
@@ -154,8 +154,8 @@
       <line stroke="#009900" stroke-width="1" x1="817.0" x2="813.0" y1="536.0" y2="536.0"/>
       <line stroke="#009900" stroke-width="1" x1="817.0" x2="813.0" y1="540.0" y2="540.0"/>
       <line stroke="#009900" stroke-width="1" x1="817.0" x2="813.0" y1="544.0" y2="544.0"/>
-      <polyline fill="none" marker-end="url(#id327)" points="900.0,460.0 921.0,460.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id327)" points="921.0,526.0 901.0,526.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id464)" points="900.0,460.0 921.0,460.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id464)" points="921.0,526.0 901.0,526.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#34349c" points="774.0,540.0 770.0,540.0 770.0,541.0 774.0,541.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="778.0,540.0 774.0,540.0 774.0,541.0 778.0,541.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="277.0" y="770.0">проспект Вернадского</text>
@@ -167,17 +167,17 @@
     <g>
       <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="3.0" y="671.0"/>
       <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="61.0" y="611.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="196.0" y="898.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="271.0" y="822.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="286.0" y="992.0"/>
-      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="365.0" y="916.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="271.0" y="821.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="198.0" y="891.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="360.0" y="919.0"/>
+      <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="289.0" y="984.0"/>
       <rect fill="#615f56" height="30.0" stroke="none" stroke-width="0" width="30.0" x="762.0" y="121.0"/>
       <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="11.0" y="697.0">1</text>
       <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="69.0" y="637.0">2</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="204.0" y="924.0">3</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="279.0" y="848.0">4</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="294.0" y="1018.0">5</text>
-      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="373.0" y="942.0">6</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="279.0" y="847.0">3</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="206.0" y="917.0">4</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="368.0" y="945.0">5</text>
+      <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="297.0" y="1010.0">6</text>
       <text fill="#ffd900" font-family="Arial" font-size="25.0" stroke="none" stroke-width="0" x="770.0" y="147.0">7</text>
     </g>
   </g>

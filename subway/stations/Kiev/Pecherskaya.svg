@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1080.0" version="1.1" width="940.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id115" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id248" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -172,12 +172,12 @@
       <polygon fill="#d0d0d0" points="119.0,529.0 119.0,475.0 130.0,475.0 130.0,485.0 121.0,485.0 121.0,519.0 130.0,519.0 130.0,529.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="121.0,519.0 130.0,519.0 130.0,485.0 121.0,485.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="8.0" stroke="none" stroke-width="0" transform="rotate(-90.0,120.0,512.0)" x="120.0" y="520.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id115)" points="135.0,462.0 115.0,462.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id115)" points="661.0,489.0 643.0,489.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id115)" points="438.0,485.0 422.0,485.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id115)" points="115.0,542.0 135.0,542.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id115)" points="643.0,515.0 661.0,515.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id115)" points="422.0,520.0 439.0,520.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id248)" points="135.0,462.0 115.0,462.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id248)" points="661.0,489.0 643.0,489.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id248)" points="438.0,485.0 422.0,485.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id248)" points="115.0,542.0 135.0,542.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id248)" points="643.0,515.0 661.0,515.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id248)" points="422.0,520.0 439.0,520.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-94.0" y="484.0">бульвар Леси Украинки</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,9.0,378.0)" x="9.0" y="393.0">улица Кутузова</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,9.0,756.0)" x="9.0" y="771.0">улица Михаила Заднепровского</text>

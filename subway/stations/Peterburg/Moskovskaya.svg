@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1560.0" version="1.1" width="600.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id426" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id618" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -106,8 +106,8 @@
       <line stroke="#009900" stroke-width="1" x1="-169.0" x2="-175.0" y1="591.0" y2="591.0"/>
       <line stroke="#009900" stroke-width="1" x1="-169.0" x2="-175.0" y1="595.0" y2="595.0"/>
       <line stroke="#009900" stroke-width="1" x1="-169.0" x2="-175.0" y1="599.0" y2="599.0"/>
-      <polyline fill="none" marker-end="url(#id426)" points="-239.0,614.0 -252.0,614.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id426)" points="-253.0,585.0 -239.0,585.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id618)" points="-239.0,614.0 -252.0,614.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id618)" points="-253.0,585.0 -239.0,585.0" stroke="#009900" stroke-width="1"/>
       <line stroke="#7f7f7f" stroke-width="1" x1="514.0" x2="514.0" y1="616.0" y2="582.0"/>
       <line stroke="#7f7f7f" stroke-width="1" x1="510.0" x2="510.0" y1="616.0" y2="582.0"/>
       <line stroke="#7f7f7f" stroke-width="1" x1="506.0" x2="506.0" y1="616.0" y2="582.0"/>
@@ -201,8 +201,8 @@
       <line stroke="#009900" stroke-width="1" x1="560.0" x2="554.0" y1="596.0" y2="596.0"/>
       <line stroke="#009900" stroke-width="1" x1="560.0" x2="554.0" y1="600.0" y2="600.0"/>
       <line stroke="#009900" stroke-width="1" x1="560.0" x2="554.0" y1="604.0" y2="604.0"/>
-      <polyline fill="none" marker-end="url(#id426)" points="632.0,617.0 646.0,617.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id426)" points="648.0,584.0 633.0,584.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id618)" points="632.0,617.0 646.0,617.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id618)" points="648.0,584.0 633.0,584.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(10.0,216.0,915.0)" x="216.0" y="930.0">Московский проспект</text>
     </g>
   </g>

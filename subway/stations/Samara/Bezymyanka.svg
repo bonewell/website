@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="780.0" version="1.1" width="890.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id32" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id105" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -190,15 +190,15 @@
       <line stroke="#ff0000" stroke-width="1" x1="761.0" x2="757.0" y1="411.0" y2="411.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="761.0" x2="757.0" y1="415.0" y2="415.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="761.0" x2="757.0" y1="419.0" y2="419.0"/>
-      <polyline fill="none" marker-end="url(#id32)" points="129.0,324.0 113.0,324.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id32)" points="723.0,409.0 740.0,409.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id32)" points="94.0,413.0 107.0,400.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id32)" points="766.0,323.0 753.0,336.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id105)" points="129.0,324.0 113.0,324.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id105)" points="723.0,409.0 740.0,409.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id105)" points="94.0,413.0 107.0,400.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id105)" points="766.0,323.0 753.0,336.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-64.0" y="376.0">улица Победы</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="851.0" y="368.0">улица Победы</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,368.0,114.0)" x="368.0" y="129.0">улица Ново-Вокзальная</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,285.0,545.0)" x="285.0" y="560.0">'к ж/д станции &quot;Безымянка&quot;'</text>
-      <polyline fill="none" marker-end="url(#id32)" points="261.0,544.0 261.0,709.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id105)" points="261.0,544.0 261.0,709.0" stroke="#00afaf" stroke-width="1"/>
     </g>
   </g>
 </svg>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="700.0" version="1.1" width="754.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id95" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id228" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -87,8 +87,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="537.0537128835283" x2="540.0537128835283" y1="466.75497521447414" y2="467.75497521447414"/>
       <line stroke="#ff0000" stroke-width="1" x1="535.664455460234" x2="538.664455460234" y1="470.505970257369" y2="471.505970257369"/>
       <line stroke="#ff0000" stroke-width="1" x1="534.2751980369396" x2="537.2751980369396" y1="474.2569653002638" y2="475.2569653002638"/>
-      <polyline fill="none" marker-end="url(#id95)" points="579.0,635.0 579.0,654.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id95)" points="516.0,679.0 516.0,660.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id228)" points="579.0,635.0 579.0,654.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id228)" points="516.0,679.0 516.0,660.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="451.0" y="87.0">'Парк &quot;Киев в миниатюре&quot; &gt;&gt;'</text>
     </g>
     <g fill="none" fill-opacity="0.7" stroke="#00afaf" stroke-opacity="0.7" transform="rotate(-20.0,377.0,350.0)">

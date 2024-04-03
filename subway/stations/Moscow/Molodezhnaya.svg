@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="590.0" version="1.1" width="750.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id241" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id378" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -91,10 +91,10 @@
       <line stroke="#009900" stroke-width="1" x1="28.856648020410248" x2="31.856648020410248" y1="321.0486277697727" y2="318.0486277697727"/>
       <line stroke="#009900" stroke-width="1" x1="31.72960891156694" x2="34.72960891156694" y1="323.83180863308075" y2="320.83180863308075"/>
       <line stroke="#009900" stroke-width="1" x1="34.602569802723636" x2="37.602569802723636" y1="326.61498949638883" y2="323.61498949638883"/>
-      <polyline fill="none" marker-end="url(#id241)" points="105.0,244.0 121.0,244.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id241)" points="39.0,274.0 27.0,274.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id241)" points="119.0,343.0 102.0,343.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id241)" points="9.0,326.0 17.0,318.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="105.0,244.0 121.0,244.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="39.0,274.0 27.0,274.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="119.0,343.0 102.0,343.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="9.0,326.0 17.0,318.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="632.0,233.0 632.0,225.0 765.0,225.0 765.0,245.0 760.0,245.0 760.0,343.0 765.0,343.0 765.0,363.0 632.0,363.0 632.0,354.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="632.0,252.0 632.0,261.0 698.0,261.0 698.0,267.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="632.0,335.0 632.0,326.0 699.0,326.0 699.0,320.0" stroke="#000000" stroke-width="1"/>
@@ -172,10 +172,10 @@
       <line stroke="#009900" stroke-width="1" x1="718.3725830020303" x2="715.3725830020303" y1="317.6274169979697" y2="314.6274169979697"/>
       <line stroke="#009900" stroke-width="1" x1="715.5441558772841" x2="712.5441558772841" y1="320.4558441227159" y2="317.4558441227159"/>
       <line stroke="#009900" stroke-width="1" x1="712.7157287525379" x2="709.7157287525379" y1="323.28427124746213" y2="320.28427124746213"/>
-      <polyline fill="none" marker-end="url(#id241)" points="636.0,244.0 625.0,244.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id241)" points="710.0,274.0 720.0,274.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id241)" points="735.0,326.0 726.0,317.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id241)" points="628.0,344.0 641.0,344.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="636.0,244.0 625.0,244.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="710.0,274.0 720.0,274.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="735.0,326.0 726.0,317.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id378)" points="628.0,344.0 641.0,344.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="472.0" y="161.0">Ельнинская улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,389.0,184.0)" x="389.0" y="199.0">Ярцевская улица</text>
     </g>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="760.0" version="1.1" width="500.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id431" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id623" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -219,8 +219,8 @@
       <line stroke="#000000" stroke-width="1" x1="20.705627484771266" x2="30.605122421382983" y1="161.46594539048198" y2="171.36544032709355"/>
       <polyline fill="none" points="-151.0,329.0 -137.0,403.0" stroke="#ffffff" stroke-width="11"/>
       <polyline fill="none" points="114.0,145.0 13.0,163.0" stroke="#ffffff" stroke-width="11"/>
-      <polyline fill="none" marker-end="url(#id431)" points="-51.0,553.0 -37.0,539.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id431)" points="-38.0,429.0 -54.0,413.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id623)" points="-51.0,553.0 -37.0,539.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id623)" points="-38.0,429.0 -54.0,413.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="58.0" y="634.0">улица Грибакиных</text>
     </g>
   </g>

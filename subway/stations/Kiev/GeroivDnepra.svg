@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1160.0" version="1.1" width="1220.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id94" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id227" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -179,10 +179,10 @@
       <polygon fill="#d0d0d0" points="894.0,556.0 894.0,546.0 846.0,546.0 846.0,556.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="356.0,602.0 356.0,612.0 309.0,612.0 309.0,602.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="356.0,556.0 356.0,546.0 309.0,546.0 309.0,556.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id94)" points="364.0,532.0 323.0,532.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id94)" points="838.0,627.0 878.0,627.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id94)" points="879.0,532.0 840.0,532.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id94)" points="322.0,628.0 364.0,628.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id227)" points="364.0,532.0 323.0,532.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id227)" points="838.0,627.0 878.0,627.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id227)" points="879.0,532.0 840.0,532.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id227)" points="322.0,628.0 364.0,628.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,635.0,1027.0)" x="635.0" y="1042.0">&lt;&lt; улица Героев Днепра</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,585.0,1028.0)" x="585.0" y="1043.0">улица Героев Днепра &gt;&gt;</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,586.0,-33.0)" x="586.0" y="-18.0">улица Героев Днепра &gt;&gt;</text>

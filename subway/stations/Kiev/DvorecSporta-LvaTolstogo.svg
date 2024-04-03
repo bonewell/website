@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="1370.0" version="1.1" width="1600.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id92" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id225" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -439,18 +439,18 @@
       <line stroke="#ff0000" stroke-width="1" x1="537.0" x2="537.0" y1="887.0" y2="893.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="541.0" x2="541.0" y1="887.0" y2="893.0"/>
       <line stroke="#ff0000" stroke-width="1" x1="545.0" x2="545.0" y1="887.0" y2="893.0"/>
-      <polyline fill="none" marker-end="url(#id92)" points="1442.0,488.0 1442.0,509.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="1178.0,399.0 1197.0,399.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="525.0,574.0 529.0,597.0 529.0,612.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="481.0,969.0 463.0,987.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="1504.0,509.0 1504.0,488.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="1197.0,373.0 1178.0,373.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="504.0,613.0 504.0,601.0 500.0,578.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="411.0,960.0 393.0,942.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="729.0,396.0 748.0,396.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="748.0,375.0 729.0,375.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="577.0,414.0 595.0,406.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id92)" points="590.0,364.0 571.0,356.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="1442.0,488.0 1442.0,509.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="1178.0,399.0 1197.0,399.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="525.0,574.0 529.0,597.0 529.0,612.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="481.0,969.0 463.0,987.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="1504.0,509.0 1504.0,488.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="1197.0,373.0 1178.0,373.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="504.0,613.0 504.0,601.0 500.0,578.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="411.0,960.0 393.0,942.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="729.0,396.0 748.0,396.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="748.0,375.0 729.0,375.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="577.0,414.0 595.0,406.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id225)" points="590.0,364.0 571.0,356.0" stroke="#000000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-135.0,360.0,1128.0)" x="360.0" y="1143.0">Пушкинская улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-45.0,293.0,1295.0)" x="293.0" y="1310.0">улица Льва Толстого</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,629.0,956.0)" x="629.0" y="971.0">Красноармейская улица</text>

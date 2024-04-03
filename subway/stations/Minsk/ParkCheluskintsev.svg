@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="810.0" version="1.1" width="950.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id65" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id148" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -107,18 +107,18 @@
       <line stroke="#000000" stroke-width="1" x1="103.0" x2="103.0" y1="537.0" y2="557.0"/>
       <line stroke="#000000" stroke-width="1" x1="107.0" x2="107.0" y1="537.0" y2="557.0"/>
       <line stroke="#000000" stroke-width="1" x1="111.0" x2="111.0" y1="537.0" y2="557.0"/>
-      <polyline fill="none" marker-end="url(#id65)" points="164.0,397.0 148.0,397.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id65)" points="759.0,434.0 777.0,434.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id65)" points="775.0,398.0 756.0,398.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id65)" points="150.0,434.0 166.0,434.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id148)" points="164.0,397.0 148.0,397.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id148)" points="759.0,434.0 777.0,434.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id148)" points="775.0,398.0 756.0,398.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id148)" points="150.0,434.0 166.0,434.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="851.0" y="414.0">пр.Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-26.0" y="414.0">пр.Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,719.0,155.0)" x="719.0" y="170.0">ул.Толбухина</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,880.0,157.0)" x="880.0" y="172.0">ул.Толбухина</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="727.0" y="596.0">парк имени Челюскинцев</text>
-      <polyline fill="none" marker-end="url(#id65)" points="805.0,602.0 805.0,630.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id148)" points="805.0,602.0 805.0,630.0" stroke="#00afaf" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="3.0" y="594.0">ботанический сад</text>
-      <polyline fill="none" marker-end="url(#id65)" points="76.0,599.0 -23.0,599.0" stroke="#00afaf" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id148)" points="76.0,599.0 -23.0,599.0" stroke="#00afaf" stroke-width="1"/>
     </g>
   </g>
 </svg>

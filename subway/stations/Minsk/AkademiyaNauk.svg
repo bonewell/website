@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="840.0" version="1.1" width="1050.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id43" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id126" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -105,10 +105,10 @@
       <line stroke="#000000" stroke-width="1" x1="131.0" x2="131.0" y1="477.0" y2="497.0"/>
       <line stroke="#000000" stroke-width="1" x1="135.0" x2="135.0" y1="477.0" y2="497.0"/>
       <line stroke="#000000" stroke-width="1" x1="139.0" x2="139.0" y1="477.0" y2="497.0"/>
-      <polyline fill="none" marker-end="url(#id43)" points="206.0,336.0 170.0,336.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id43)" points="754.0,365.0 777.0,365.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id43)" points="171.0,371.0 206.0,371.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id43)" points="730.0,339.0 707.0,339.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id126)" points="206.0,336.0 170.0,336.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id126)" points="754.0,365.0 777.0,365.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id126)" points="171.0,371.0 206.0,371.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id126)" points="730.0,339.0 707.0,339.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="-19.0" y="358.0">проспект Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="996.0" y="348.0">проспект Независимости</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,247.0,-6.0)" x="247.0" y="9.0">ул. Богдана Хмельницкого</text>

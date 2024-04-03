@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="940.0" version="1.1" width="1680.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id58" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id141" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -48,8 +48,8 @@
       <line stroke="#000000" stroke-width="1" x1="452.0" x2="452.0" y1="251.0" y2="311.0"/>
       <line stroke="#000000" stroke-width="1" x1="456.0" x2="456.0" y1="251.0" y2="311.0"/>
       <line stroke="#000000" stroke-width="1" x1="460.0" x2="460.0" y1="251.0" y2="311.0"/>
-      <polyline fill="none" marker-end="url(#id58)" points="314.0,251.0 287.0,251.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id58)" points="293.0,313.0 319.0,313.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id141)" points="314.0,251.0 287.0,251.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id141)" points="293.0,313.0 319.0,313.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="905.0,241.0 905.0,260.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="905.0,300.0 905.0,321.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="965.0,260.0 965.0,245.0 982.0,245.0 982.0,252.0 1104.0,252.0 1152.0,204.0 1193.0,245.0" stroke="#000000" stroke-width="1"/>
@@ -106,8 +106,8 @@
       <polygon fill="#9b5509" points="974.0,271.0 974.0,276.0 893.0,276.0 893.0,271.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#9b5509" points="974.0,284.0 974.0,289.0 893.0,289.0 893.0,284.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#9b5509" points="974.0,297.0 893.0,297.0 893.0,300.0 974.0,300.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id58)" points="1006.0,304.0 1018.0,304.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id58)" points="1015.0,262.0 1003.0,262.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id141)" points="1006.0,304.0 1018.0,304.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id141)" points="1015.0,262.0 1003.0,262.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#c0c0c0" points="1175.0,263.0 1199.0,239.0 1701.0,741.0 1677.0,765.0" stroke="#c0c0c0" stroke-width="1"/>
       <polygon fill="#c0c0c0" points="1135.0,303.0 1159.0,279.0 1661.0,781.0 1637.0,805.0" stroke="#c0c0c0" stroke-width="1"/>
       <polyline fill="none" points="1193.0,245.0 1199.0,239.0 1701.0,741.0 1677.0,765.0 1175.0,263.0 1181.0,257.0 1172.0,248.0 1144.0,276.0 1153.0,285.0 1159.0,279.0 1661.0,781.0 1637.0,805.0 1135.0,303.0 1141.0,297.0" stroke="#000000" stroke-width="1"/>
@@ -865,7 +865,7 @@
       <polygon fill="#d0d0d0" points="1053.0,320.0 1057.0,320.0 1057.0,324.0 1053.0,324.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#d0d0d0" points="1057.0,324.0 1061.0,324.0 1061.0,328.0 1057.0,328.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="1057.0,367.0 1135.0,367.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id58)" points="1057.0,367.0 1057.0,328.0" stroke="#000000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id141)" points="1057.0,367.0 1057.0,328.0" stroke="#000000" stroke-width="1"/>
       <text fill="#000000" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1053.0" y="380.0">пригородные</text>
       <text fill="#000000" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="1073.0" y="392.0">кассы</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" x="44.0" y="133.0">ул. Кальварийская</text>

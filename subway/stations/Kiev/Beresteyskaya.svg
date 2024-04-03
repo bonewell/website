@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="470.0" version="1.1" width="1000.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id84" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id217" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -165,9 +165,9 @@
       <polygon fill="#9b5509" points="518.0,192.0 518.0,190.0 462.0,190.0 462.0,192.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#9b5509" points="518.0,212.0 518.0,210.0 462.0,210.0 462.0,212.0" stroke="#000000" stroke-width="1"/>
       <polygon fill="#9b5509" points="518.0,203.0 518.0,199.0 462.0,199.0 462.0,203.0" stroke="#000000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id84)" points="603.0,182.0 603.0,166.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id84)" points="579.0,230.0 595.0,230.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id84)" points="510.0,206.0 523.0,206.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id217)" points="603.0,182.0 603.0,166.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id217)" points="579.0,230.0 595.0,230.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id217)" points="510.0,206.0 523.0,206.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="17.0" stroke="none" stroke-width="0" transform="rotate(-376.0,743.0,254.0)" x="743.0" y="271.0">Лагерная улица</text>
       <text fill="#00afaf" font-family="Arial" font-size="17.0" stroke="none" stroke-width="0" transform="rotate(-360.0,677.0,328.0)" x="677.0" y="345.0">проспект Победы</text>
     </g>

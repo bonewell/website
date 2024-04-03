@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="870.0" version="1.1" width="950.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id296" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id433" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -99,10 +99,10 @@
       <line stroke="#ff0000" stroke-width="1" x1="27.887301627791892" x2="30.887301627791892" y1="361.88730162779166" y2="358.88730162779166"/>
       <line stroke="#ff0000" stroke-width="1" x1="25.0588745030457" x2="28.0588745030457" y1="359.05887450304544" y2="356.05887450304544"/>
       <line stroke="#ff0000" stroke-width="1" x1="22.23044737829951" x2="25.23044737829951" y1="356.23044737829923" y2="353.23044737829923"/>
-      <polyline fill="none" marker-end="url(#id296)" points="361.0,388.0 341.0,388.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="29.0,400.0 17.0,412.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="341.0,401.0 362.0,401.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="49.0,443.0 61.0,431.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="361.0,388.0 341.0,388.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="29.0,400.0 17.0,412.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="341.0,401.0 362.0,401.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="49.0,443.0 61.0,431.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#34349c" points="64.0,337.0 68.0,337.0 68.0,338.0 64.0,338.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="60.0,337.0 64.0,337.0 64.0,338.0 60.0,338.0" stroke="#ff0000" stroke-width="1"/>
       <polygon fill="#fefbf1" points="786.0,265.0 975.0,265.0 975.0,523.0 786.0,523.0" stroke="#dddddd" stroke-width="1"/>
@@ -189,12 +189,12 @@
       <line stroke="#009900" stroke-width="1" x1="938.2228835422789" x2="937.2228835422789" y1="418.10439621797195" y2="414.10439621797195"/>
       <line stroke="#009900" stroke-width="1" x1="942.0840277193928" x2="941.0840277193928" y1="417.05961602887055" y2="413.05961602887055"/>
       <line stroke="#009900" stroke-width="1" x1="945.9451718965067" x2="944.9451718965067" y1="416.01483583976915" y2="412.01483583976915"/>
-      <polyline fill="none" marker-end="url(#id296)" points="888.0,323.0 888.0,302.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="824.0,291.0 803.0,291.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="648.0,385.0 670.0,385.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="889.0,465.0 889.0,449.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="797.0,495.0 815.0,495.0" stroke="#009900" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id296)" points="669.0,404.0 648.0,404.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="888.0,323.0 888.0,302.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="824.0,291.0 803.0,291.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="648.0,385.0 670.0,385.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="889.0,465.0 889.0,449.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="797.0,495.0 815.0,495.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id433)" points="669.0,404.0 648.0,404.0" stroke="#009900" stroke-width="1"/>
       <polygon fill="#34349c" points="945.0,406.0 945.0,410.0 946.0,410.0 946.0,406.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="945.0,402.0 945.0,406.0 946.0,406.0 946.0,402.0" stroke="#ff0000" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(90.0,755.0,174.0)" x="755.0" y="189.0">ул.10-летия Октября</text>

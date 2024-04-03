@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="880.0" version="1.1" width="950.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id402" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id594" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -103,8 +103,8 @@
       <text fill="none" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(-45.0,41.0,478.0)" x="41.0" y="488.0">кассы</text>
       <polygon fill="#34349c" points="128.0,500.0 132.0,501.0 132.0,502.0 128.0,501.0" stroke="#34349c" stroke-width="1"/>
       <polygon fill="#ff0000" points="124.0,499.0 128.0,500.0 128.0,501.0 124.0,500.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id402)" points="162.0,590.0 177.0,610.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id402)" points="214.0,534.0 188.0,534.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id594)" points="162.0,590.0 177.0,610.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id594)" points="214.0,534.0 188.0,534.0" stroke="#009900" stroke-width="1"/>
       <polyline fill="none" points="576.0,807.0 576.0,797.0 604.0,797.0 604.0,794.0" stroke="#000000" stroke-width="1"/>
       <polyline fill="none" points="576.0,727.0 576.0,738.0 604.0,738.0 604.0,741.0" stroke="#000000" stroke-width="1"/>
       <line stroke="#7f7f7f" stroke-width="1" x1="702.0" x2="702.0" y1="791.0" y2="744.0"/>
@@ -231,8 +231,8 @@
       <line stroke="#009900" stroke-width="1" x1="564.9287343205834" x2="565.9287343205834" y1="74.34096092018562" y2="71.34096092018564"/>
       <polyline fill="none" points="628.0,89.0 635.0,85.0 650.0,113.0 643.0,117.0" stroke="none" stroke-width="1"/>
       <text fill="none" font-family="Arial" font-size="10.0" stroke="none" stroke-width="0" transform="rotate(62.0,639.0,87.0)" x="639.0" y="97.0">кассы</text>
-      <polyline fill="none" marker-end="url(#id402)" points="480.0,146.0 491.0,167.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id402)" points="616.0,101.0 605.0,80.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id594)" points="480.0,146.0 491.0,167.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id594)" points="616.0,101.0 605.0,80.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-25.0,347.0,533.0)" x="347.0" y="548.0">площадь Александра Невского</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(40.0,175.0,331.0)" x="175.0" y="346.0">Невский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-50.0,66.0,152.0)" x="66.0" y="167.0">улица Александра Невского</text>

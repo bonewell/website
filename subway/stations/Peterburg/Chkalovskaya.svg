@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="750.0" version="1.1" width="470.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id408" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id600" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -97,8 +97,8 @@
       <line stroke="#ff0000" stroke-width="1" x1="502.0294372515227" x2="498.0294372515227" y1="407.9705627484773" y2="403.9705627484773"/>
       <line stroke="#ff0000" stroke-width="1" x1="499.2010101267765" x2="495.2010101267765" y1="410.7989898732235" y2="406.7989898732235"/>
       <line stroke="#ff0000" stroke-width="1" x1="496.3725830020303" x2="492.3725830020303" y1="413.6274169979697" y2="409.6274169979697"/>
-      <polyline fill="none" marker-end="url(#id408)" points="517.0,415.0 526.0,424.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id408)" points="526.0,323.0 517.0,332.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id600)" points="517.0,415.0 526.0,424.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id600)" points="526.0,323.0 517.0,332.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(45.0,500.0,148.0)" x="500.0" y="163.0">Чкаловский проспект</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(135.0,599.0,488.0)" x="599.0" y="503.0">улица Большая Зеленина</text>
     </g>

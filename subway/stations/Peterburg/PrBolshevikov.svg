@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="730.0" version="1.1" width="740.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id442" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id634" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -92,8 +92,8 @@
       <line stroke="#009900" stroke-width="1" x1="624.2114591827849" x2="629.2114591827849" y1="336.74528391142115" y2="334.74528391142115"/>
       <line stroke="#009900" stroke-width="1" x1="622.6793990919832" x2="627.6793990919832" y1="333.0503154571346" y2="331.0503154571346"/>
       <line stroke="#009900" stroke-width="1" x1="621.1473390011815" x2="626.1473390011815" y1="329.3553470028481" y2="327.3553470028481"/>
-      <polyline fill="none" marker-end="url(#id442)" points="693.0,430.0 705.0,438.0" stroke="#ff0000" stroke-width="1"/>
-      <polyline fill="none" marker-end="url(#id442)" points="722.0,414.0 710.0,406.0" stroke="#009900" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id634)" points="693.0,430.0 705.0,438.0" stroke="#ff0000" stroke-width="1"/>
+      <polyline fill="none" marker-end="url(#id634)" points="722.0,414.0 710.0,406.0" stroke="#009900" stroke-width="1"/>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-20.0,448.0,93.0)" x="448.0" y="108.0">проспект Пятилеток</text>
       <text fill="#00afaf" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-55.0,711.0,510.0)" x="711.0" y="525.0">улица Коллонтай</text>
     </g>

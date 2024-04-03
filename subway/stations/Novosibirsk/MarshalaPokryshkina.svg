@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <svg baseProfile="full" height="260.0" version="1.1" width="910.0" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <marker id="id473" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
+    <marker id="id667" markerHeight="3" markerUnits="strokeWidth" markerWidth="4" orient="auto" refX="0" refY="5" viewBox="0,0,10,10">
       <path d="M 0 0 L 10 5 L 0 10 z"/>
     </marker>
   </defs>
@@ -141,9 +141,9 @@
     <text fill="#00cccc" font-family="Arial" font-size="15.0" stroke="none" stroke-width="0" transform="rotate(-90.0,8.0,190.0)" x="8.0" y="205.0">ул. Ольги Жилиной</text>
     <ellipse cx="54.0" cy="50.0" fill="#0000ff" rx="15.0" ry="15.0" stroke="#00cccc" stroke-width="1"/>
     <text fill="#ffffff" font-family="Arial" font-size="20.0" stroke="none" stroke-width="0" x="48.0" y="59.0">А</text>
-    <polyline fill="none" marker-end="url(#id473)" points="750.0,158.0 772.0,158.0" stroke="#ff0000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id473)" points="215.0,88.0 194.0,88.0" stroke="#ff0000" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id473)" points="772.0,124.0 750.0,124.0" stroke="#009900" stroke-width="1"/>
-    <polyline fill="none" marker-end="url(#id473)" points="194.0,129.0 215.0,129.0" stroke="#009900" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id667)" points="750.0,158.0 772.0,158.0" stroke="#ff0000" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id667)" points="215.0,88.0 194.0,88.0" stroke="#ff0000" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id667)" points="772.0,124.0 750.0,124.0" stroke="#009900" stroke-width="1"/>
+    <polyline fill="none" marker-end="url(#id667)" points="194.0,129.0 215.0,129.0" stroke="#009900" stroke-width="1"/>
   </g>
 </svg>
